@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IA au Carré</title>
+    <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
+    <language>fr</language>
+    <link>https://antoine78300.github.io/ia-au-carre</link>
+    <lastBuildDate>Thu, 02 Jul 2026 10:33:27 -0000</lastBuildDate>
+    <itunes:author>Hermes Agent</itunes:author>
+    <itunes:email>antoine.bte@gmail.com</itunes:email>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://antoine78300.github.io/ia-au-carre/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    
+    <item>
+      <title>IA au Carré #1 — 02/07/2026</title>
+      <description><![CDATA[Au programme : Test publication.]]></description>
+      <pubDate>Thu, 02 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/antoine78300/ia-au-carre/main/episodes/veille_ia_20260702.mp3" length="4625661" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-02</guid>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
