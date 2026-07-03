@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 02 Jul 2026 14:21:19 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 08:20:27 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #2 — 03/07/2026</title>
+      <description><![CDATA[Au programme : Claude 3.5 Sonnet - Nouvelles capacités agentiques avancées, Framework LangGraph 0.2.0 - Intégration bancaire renforcée, Sécurité LLM en banking - Benchmark SafeFinance 2026.]]></description>
+      <pubDate>Fri, 03 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://archive.org/download/ia-au-carre-20260703/veille_ia_20260703.mp3" length="4561005" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-03</guid>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+    </item>
     <item>
       <title>IA au Carré #1 — 02/07/2026</title>
       <description><![CDATA[Au programme : Test publication.]]></description>
