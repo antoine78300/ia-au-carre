@@ -18,5 +18,15 @@
     "size": 4561005,
     "guid": "ia-au-carre-2026-07-03",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 3,
+    "date": "2026-07-04T08:30:00",
+    "title": "IA au Carré #3 — 04/07/2026",
+    "description": "Au programme : Des chercheurs créent une IA qui compose de la musique... en sentant les émotions, Une IA découvre un nouvel antibiotique en 6 heures (ce qui prenait des années avant), Des chercheurs entraînent une IA à « voir » les hallucinations visuelles des patients.",
+    "mp3_url": "https://archive.org/download/ia-au-carre-20260704/veille_ia_20260704.mp3",
+    "size": 4307421,
+    "guid": "ia-au-carre-2026-07-04",
+    "duration": "00:15:00"
   }
 ]
