@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 05 Jul 2026 08:25:15 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:11:18 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -16,15 +16,26 @@
     <itunes:type>episodic</itunes:type>
     
     <item>
+      <title>IA au Carré #6 — 06/07/2026</title>
+      <description><![CDATA[Au programme : IA agentique chez Anthropic, amélioration autonome des modèles, IA multi-agents sur téléphone.]]></description>
+      <pubDate>Mon, 06 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260706.mp3" length="3623997" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-06</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>IA au Carré #5 — 05/07/2026</title>
       <description><![CDATA[Au programme : IA et robotique, apprentissage par vidéo, innovations DeepMind.]]></description>
       <pubDate>Sun, 05 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://archive.org/download/ia-au-carre-20260705/veille_ia_20260705.mp3" length="3866061" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-05</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
     </item>
     <item>
       <title>IA au Carré #4 — 05/07/2026</title>
@@ -32,10 +43,10 @@
       <pubDate>Sun, 05 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://archive.org/download/ia-au-carre-20260705/veille_ia_20260705.mp3" length="3866061" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-05</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
     </item>
     <item>
       <title>IA au Carré #3 — 04/07/2026</title>
@@ -43,10 +54,10 @@
       <pubDate>Sat, 04 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://archive.org/download/ia-au-carre-20260704/veille_ia_20260704.mp3" length="4307421" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-04</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
     </item>
     <item>
       <title>IA au Carré #2 — 03/07/2026</title>
@@ -54,10 +65,10 @@
       <pubDate>Fri, 03 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://archive.org/download/ia-au-carre-20260703/veille_ia_20260703.mp3" length="4561005" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-03</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
     </item>
     <item>
       <title>IA au Carré #1 — 02/07/2026</title>
@@ -65,10 +76,10 @@
       <pubDate>Thu, 02 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://archive.org/download/ia-au-carre-20260702/veille_ia_20260702.mp3" length="4568493" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-02</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
     </item>
   </channel>
 </rss>

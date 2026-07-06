@@ -48,5 +48,15 @@
     "size": 3866061,
     "guid": "ia-au-carre-2026-07-05",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 6,
+    "date": "2026-07-06T08:30:00",
+    "title": "IA au Carré #6 — 06/07/2026",
+    "description": "Au programme : IA agentique chez Anthropic, amélioration autonome des modèles, IA multi-agents sur téléphone.",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260706.mp3",
+    "size": 3623997,
+    "guid": "ia-au-carre-2026-07-06",
+    "duration": "00:15:00"
   }
 ]
