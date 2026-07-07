@@ -58,5 +58,15 @@
     "size": 3623997,
     "guid": "ia-au-carre-2026-07-06",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 7,
+    "date": "2026-07-07T08:30:00",
+    "title": "IA au Carré #7 — 07/07/2026",
+    "description": "Au programme : agents IA autonomes et auto-correctifs, modèles Anthropic Claude 3.6, IA décentralisée sans cloud.",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260707.mp3",
+    "size": 4122525,
+    "guid": "ia-au-carre-2026-07-07",
+    "duration": "00:15:00"
   }
 ]
