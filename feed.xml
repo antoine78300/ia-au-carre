@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 07 Jul 2026 06:32:39 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:32:13 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #8 — 08/07/2026</title>
+      <description><![CDATA[Au programme : agents IA autonomes, Claude 3.5 Sonnet d'Anthropic, architecture native pour les agents.]]></description>
+      <pubDate>Wed, 08 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260708.mp3" length="3684189" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-08</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #7 — 07/07/2026</title>
       <description><![CDATA[Au programme : agents IA autonomes et auto-correctifs, modèles Anthropic Claude 3.6, IA décentralisée sans cloud.]]></description>

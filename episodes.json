@@ -68,5 +68,15 @@
     "size": 4122525,
     "guid": "ia-au-carre-2026-07-07",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 8,
+    "date": "2026-07-08T08:30:00",
+    "title": "IA au Carré #8 — 08/07/2026",
+    "description": "Au programme : agents IA autonomes, Claude 3.5 Sonnet d'Anthropic, architecture native pour les agents.",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260708.mp3",
+    "size": 3684189,
+    "guid": "ia-au-carre-2026-07-08",
+    "duration": "00:15:00"
   }
 ]
