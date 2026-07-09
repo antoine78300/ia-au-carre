@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 09 Jul 2026 09:20:28 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:32:00 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -17,7 +17,7 @@
     
     <item>
       <title>IA au Carré #2 — 09/07/2026</title>
-      <description><![CDATA[Au programme : cyberattaques dopées à l'IA, nouveaux modèles de frontière, IA agentique entre opportunités et risques.]]></description>
+      <description><![CDATA[Au programme : cyberattaques alimentées par l'IA, nouveaux modèles de frontière, IA agentique et ses risques.]]></description>
       <pubDate>Thu, 09 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3" length="4157517" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-09</guid>
@@ -27,8 +27,8 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>IA au Carré #9 — 09/07/2026</title>
-      <description><![CDATA[Au programme : cyberattaques à l'IA, nouveaux modèles IA, IA agentique et risques de sécurité.]]></description>
+      <title>IA au Carré #1 — 09/07/2026</title>
+      <description><![CDATA[Au programme : cyberattaques dopées à l'IA, nouveaux modèles de frontière, IA agentique entre opportunités et risques.]]></description>
       <pubDate>Thu, 09 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3" length="4157517" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-09</guid>
