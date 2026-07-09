@@ -1,89 +1,19 @@
 [
   {
     "episode_num": 1,
-    "date": "2026-07-02T08:30:00",
-    "title": "IA au Carré #1 — 02/07/2026",
-    "description": "Au programme : Test publication.",
-    "mp3_url": "https://archive.org/download/ia-au-carre-20260702/veille_ia_20260702.mp3",
-    "size": 4568493,
-    "guid": "ia-au-carre-2026-07-02",
+    "date": "2026-07-09T08:30:00",
+    "title": "IA au Carré #9 — 09/07/2026",
+    "description": "Au programme : cyberattaques à l'IA, nouveaux modèles IA, IA agentique et risques de sécurité.",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3",
+    "size": 4157517,
+    "guid": "ia-au-carre-2026-07-09",
     "duration": "00:15:00"
   },
   {
     "episode_num": 2,
-    "date": "2026-07-03T08:30:00",
-    "title": "IA au Carré #2 — 03/07/2026",
-    "description": "Au programme : Claude 3.5 Sonnet - Nouvelles capacités agentiques avancées, Framework LangGraph 0.2.0 - Intégration bancaire renforcée, Sécurité LLM en banking - Benchmark SafeFinance 2026.",
-    "mp3_url": "https://archive.org/download/ia-au-carre-20260703/veille_ia_20260703.mp3",
-    "size": 4561005,
-    "guid": "ia-au-carre-2026-07-03",
-    "duration": "00:15:00"
-  },
-  {
-    "episode_num": 3,
-    "date": "2026-07-04T08:30:00",
-    "title": "IA au Carré #3 — 04/07/2026",
-    "description": "Au programme : Des chercheurs créent une IA qui compose de la musique... en sentant les émotions, Une IA découvre un nouvel antibiotique en 6 heures (ce qui prenait des années avant), Des chercheurs entraînent une IA à « voir » les hallucinations visuelles des patients.",
-    "mp3_url": "https://archive.org/download/ia-au-carre-20260704/veille_ia_20260704.mp3",
-    "size": 4307421,
-    "guid": "ia-au-carre-2026-07-04",
-    "duration": "00:15:00"
-  },
-  {
-    "episode_num": 4,
-    "date": "2026-07-05T08:30:00",
-    "title": "IA au Carré #4 — 05/07/2026",
-    "description": "Au programme : l'IA DeepMind qui apprend à marcher en regardant des vidéos de chiots, et autres découvertes technologiques fascinantes de la semaine.",
-    "mp3_url": "https://archive.org/download/ia-au-carre-20260705/veille_ia_20260705.mp3",
-    "size": 3866061,
-    "guid": "ia-au-carre-2026-07-05",
-    "duration": "00:15:00"
-  },
-  {
-    "episode_num": 5,
-    "date": "2026-07-05T08:30:00",
-    "title": "IA au Carré #5 — 05/07/2026",
-    "description": "Au programme : IA et robotique, apprentissage par vidéo, innovations DeepMind.",
-    "mp3_url": "https://archive.org/download/ia-au-carre-20260705/veille_ia_20260705.mp3",
-    "size": 3866061,
-    "guid": "ia-au-carre-2026-07-05",
-    "duration": "00:15:00"
-  },
-  {
-    "episode_num": 6,
-    "date": "2026-07-06T08:30:00",
-    "title": "IA au Carré #6 — 06/07/2026",
-    "description": "Au programme : IA agentique chez Anthropic, amélioration autonome des modèles, IA multi-agents sur téléphone.",
-    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260706.mp3",
-    "size": 3623997,
-    "guid": "ia-au-carre-2026-07-06",
-    "duration": "00:15:00"
-  },
-  {
-    "episode_num": 7,
-    "date": "2026-07-07T08:30:00",
-    "title": "IA au Carré #7 — 07/07/2026",
-    "description": "Au programme : agents IA autonomes et auto-correctifs, modèles Anthropic Claude 3.6, IA décentralisée sans cloud.",
-    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260707.mp3",
-    "size": 4122525,
-    "guid": "ia-au-carre-2026-07-07",
-    "duration": "00:15:00"
-  },
-  {
-    "episode_num": 8,
-    "date": "2026-07-08T08:30:00",
-    "title": "IA au Carré #8 — 08/07/2026",
-    "description": "Au programme : agents IA autonomes, Claude 3.5 Sonnet d'Anthropic, architecture native pour les agents.",
-    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260708.mp3",
-    "size": 3684189,
-    "guid": "ia-au-carre-2026-07-08",
-    "duration": "00:15:00"
-  },
-  {
-    "episode_num": 9,
     "date": "2026-07-09T08:30:00",
-    "title": "IA au Carré #9 — 09/07/2026",
-    "description": "Au programme : cyberattaques à l'IA, nouveaux modèles IA, IA agentique et risques de sécurité.",
+    "title": "IA au Carré #2 — 09/07/2026",
+    "description": "Au programme : cyberattaques dopées à l'IA, nouveaux modèles de frontière, IA agentique entre opportunités et risques.",
     "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3",
     "size": 4157517,
     "guid": "ia-au-carre-2026-07-09",

@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 09 Jul 2026 06:32:24 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:20:28 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -16,99 +16,22 @@
     <itunes:type>episodic</itunes:type>
     
     <item>
-      <title>IA au Carré #9 — 09/07/2026</title>
-      <description><![CDATA[Au programme : cyberattaques à l'IA, nouveaux modèles IA, IA agentique et risques de sécurité.]]></description>
+      <title>IA au Carré #2 — 09/07/2026</title>
+      <description><![CDATA[Au programme : cyberattaques dopées à l'IA, nouveaux modèles de frontière, IA agentique entre opportunités et risques.]]></description>
       <pubDate>Thu, 09 Jul 2026 06:30:00 -0000</pubDate>
       <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3" length="4157517" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-09</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>9</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #8 — 08/07/2026</title>
-      <description><![CDATA[Au programme : agents IA autonomes, Claude 3.5 Sonnet d'Anthropic, architecture native pour les agents.]]></description>
-      <pubDate>Wed, 08 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260708.mp3" length="3684189" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-08</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>8</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #7 — 07/07/2026</title>
-      <description><![CDATA[Au programme : agents IA autonomes et auto-correctifs, modèles Anthropic Claude 3.6, IA décentralisée sans cloud.]]></description>
-      <pubDate>Tue, 07 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260707.mp3" length="4122525" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-07</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>7</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #6 — 06/07/2026</title>
-      <description><![CDATA[Au programme : IA agentique chez Anthropic, amélioration autonome des modèles, IA multi-agents sur téléphone.]]></description>
-      <pubDate>Mon, 06 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260706.mp3" length="3623997" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-06</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #5 — 05/07/2026</title>
-      <description><![CDATA[Au programme : IA et robotique, apprentissage par vidéo, innovations DeepMind.]]></description>
-      <pubDate>Sun, 05 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://archive.org/download/ia-au-carre-20260705/veille_ia_20260705.mp3" length="3866061" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-05</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #4 — 05/07/2026</title>
-      <description><![CDATA[Au programme : l'IA DeepMind qui apprend à marcher en regardant des vidéos de chiots, et autres découvertes technologiques fascinantes de la semaine.]]></description>
-      <pubDate>Sun, 05 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://archive.org/download/ia-au-carre-20260705/veille_ia_20260705.mp3" length="3866061" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-05</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #3 — 04/07/2026</title>
-      <description><![CDATA[Au programme : Des chercheurs créent une IA qui compose de la musique... en sentant les émotions, Une IA découvre un nouvel antibiotique en 6 heures (ce qui prenait des années avant), Des chercheurs entraînent une IA à « voir » les hallucinations visuelles des patients.]]></description>
-      <pubDate>Sat, 04 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://archive.org/download/ia-au-carre-20260704/veille_ia_20260704.mp3" length="4307421" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-04</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #2 — 03/07/2026</title>
-      <description><![CDATA[Au programme : Claude 3.5 Sonnet - Nouvelles capacités agentiques avancées, Framework LangGraph 0.2.0 - Intégration bancaire renforcée, Sécurité LLM en banking - Benchmark SafeFinance 2026.]]></description>
-      <pubDate>Fri, 03 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://archive.org/download/ia-au-carre-20260703/veille_ia_20260703.mp3" length="4561005" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-03</guid>
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>IA au Carré #1 — 02/07/2026</title>
-      <description><![CDATA[Au programme : Test publication.]]></description>
-      <pubDate>Thu, 02 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://archive.org/download/ia-au-carre-20260702/veille_ia_20260702.mp3" length="4568493" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-02</guid>
+      <title>IA au Carré #9 — 09/07/2026</title>
+      <description><![CDATA[Au programme : cyberattaques à l'IA, nouveaux modèles IA, IA agentique et risques de sécurité.]]></description>
+      <pubDate>Thu, 09 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3" length="4157517" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-09</guid>
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
