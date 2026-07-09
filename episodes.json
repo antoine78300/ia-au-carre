@@ -78,5 +78,15 @@
     "size": 3684189,
     "guid": "ia-au-carre-2026-07-08",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 9,
+    "date": "2026-07-09T08:30:00",
+    "title": "IA au Carré #9 — 09/07/2026",
+    "description": "Au programme : cyberattaques à l'IA, nouveaux modèles IA, IA agentique et risques de sécurité.",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3",
+    "size": 4157517,
+    "guid": "ia-au-carre-2026-07-09",
+    "duration": "00:15:00"
   }
 ]
