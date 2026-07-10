@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 09 Jul 2026 09:45:39 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 06:32:37 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #2 — 10/07/2026</title>
+      <description><![CDATA[Au programme : ransomwares autonomes, modèle Meta disruptif, agents IA dans tribunaux et labos médicaux.
+
+📰 Sources : <a href="https://www.mbtmag.com/artificial-intelligence/news/22970275/agentic-ransomware-registers-first-major-hit">Manufacturing Business Technology</a> | <a href="https://www.csoonline.com/article/4194548/agentic-ai-identity-a-6-stage-maturity-model-for-non-human-identities.html">CSO Online</a> | <a href="https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/">SecurityWeek</a>]]></description>
+      <pubDate>Fri, 10 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260710.mp3" length="4394397" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-10</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #1 — 09/07/2026</title>
       <description><![CDATA[Au programme : cyberattaques alimentées par l'IA, nouveaux modèles de pointe, IA agentique et ses risques.

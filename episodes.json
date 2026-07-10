@@ -8,5 +8,15 @@
     "size": 4157517,
     "guid": "ia-au-carre-2026-07-09",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 2,
+    "date": "2026-07-10T08:30:00",
+    "title": "IA au Carré #2 — 10/07/2026",
+    "description": "Au programme : ransomwares autonomes, modèle Meta disruptif, agents IA dans tribunaux et labos médicaux.\n\n📰 Sources : <a href=\"https://www.mbtmag.com/artificial-intelligence/news/22970275/agentic-ransomware-registers-first-major-hit\">Manufacturing Business Technology</a> | <a href=\"https://www.csoonline.com/article/4194548/agentic-ai-identity-a-6-stage-maturity-model-for-non-human-identities.html\">CSO Online</a> | <a href=\"https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/\">SecurityWeek</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260710.mp3",
+    "size": 4394397,
+    "guid": "ia-au-carre-2026-07-10",
+    "duration": "00:15:00"
   }
 ]
