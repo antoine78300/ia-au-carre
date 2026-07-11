@@ -18,5 +18,15 @@
     "size": 4394397,
     "guid": "ia-au-carre-2026-07-10",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 3,
+    "date": "2026-07-11T08:30:00",
+    "title": "IA au Carré #3 — 11/07/2026",
+    "description": "Au programme : icônes pour musiques générées par IA, distinction IA générative vs assistée, impact sur l'industrie musicale.\n\n📰 Sources : <a href=\"https://www.cnet.com/tech/services-and-software/google-ai-transparency-tags-ads/\">Google / CNET / Gigazine</a> | <a href=\"https://www.forbes.com/sites/michaelashley/2026/07/10/is-embodied-ai-the-next-great-computing-revolution/\">Forbes</a> | <a href=\"https://roboticsandautomationnews.com/2026/07/10/richtech-robotics-launches-24-7-interactive-livestream-featuring-ai-robot-adam/103234/\">Robotics & Automation News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260711.mp3",
+    "size": 4433709,
+    "guid": "ia-au-carre-2026-07-11",
+    "duration": "00:15:00"
   }
 ]
