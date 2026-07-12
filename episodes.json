@@ -28,5 +28,15 @@
     "size": 4433709,
     "guid": "ia-au-carre-2026-07-11",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 4,
+    "date": "2026-07-12T08:30:00",
+    "title": "IA au Carré #4 — 12/07/2026",
+    "description": "Au programme : OpenAI cible les seniors et familles, expansion de ChatGPT vers nouveaux publics.\n\n📰 Sources : <a href=\"https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/\">TechCrunch</a> | <a href=\"https://www.forbes.com/sites/lanceeliot/2026/07/11/typology-of-ai-based-therapy-micro-bursts-reveals-how-people-lean-into-chatbots-for-mental-health-advice/\">Forbes</a> | <a href=\"https://en.wowtale.net/2026/07/11/234441/\">Wowtale</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260712.mp3",
+    "size": 4266381,
+    "guid": "ia-au-carre-2026-07-12",
+    "duration": "00:15:00"
   }
 ]
