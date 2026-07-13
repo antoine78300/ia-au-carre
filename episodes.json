@@ -38,5 +38,15 @@
     "size": 4266381,
     "guid": "ia-au-carre-2026-07-12",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 5,
+    "date": "2026-07-13T08:30:00",
+    "title": "IA au Carré #5 — 13/07/2026",
+    "description": "Au programme : le paradoxe du choix chez OpenAI, la stratégie de Microsoft, les modèles IA chinois et les percées de l'IA dans l'étude de l'eau.\n\n📰 Sources : <a href=\"https://www.axios.com/2026/07/12/openai-chatgpt-work-luna-terra-sol\">Axios</a> | <a href=\"https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/\">Forbes</a> | <a href=\"https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html\">CNBC</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260713.mp3",
+    "size": 4453581,
+    "guid": "ia-au-carre-2026-07-13",
+    "duration": "00:15:00"
   }
 ]

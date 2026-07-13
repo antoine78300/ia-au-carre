@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 12 Jul 2026 06:32:36 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 06:32:57 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #5 — 13/07/2026</title>
+      <description><![CDATA[Au programme : le paradoxe du choix chez OpenAI, la stratégie de Microsoft, les modèles IA chinois et les percées de l'IA dans l'étude de l'eau.
+
+📰 Sources : <a href="https://www.axios.com/2026/07/12/openai-chatgpt-work-luna-terra-sol">Axios</a> | <a href="https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/">Forbes</a> | <a href="https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html">CNBC</a>]]></description>
+      <pubDate>Mon, 13 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260713.mp3" length="4453581" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-13</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #4 — 12/07/2026</title>
       <description><![CDATA[Au programme : OpenAI cible les seniors et familles, expansion de ChatGPT vers nouveaux publics.
