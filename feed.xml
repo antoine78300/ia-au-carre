@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 14 Jul 2026 06:32:41 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:10:10 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -17,11 +17,11 @@
     
     <item>
       <title>IA au Carré #6 — 14/07/2026</title>
-      <description><![CDATA[Au programme : guerre des modèles IA, émergence de géants chinois open-source, alerte de Satya Nadella pour les entreprises.
+      <description><![CDATA[Au programme : guerre des modèles d'IA, géant chinois open-source, alerte Satya Nadella aux entreprises.
 
 📰 Sources : <a href="https://www.infosecurity-magazine.com/blogs/pki-under-pressure-security/">Infosecurity Magazine</a> | <a href="https://www.prnewswire.com/news-releases/tenant-inc-opens-nectar-api-to-ai-tools-giving-self-storage-operators-live-access-to-their-operational-data-302824078.html">PR Newswire</a> | <a href="https://www.axios.com/2026/07/13/ai-voice-agents-chatgpt">Axios</a>]]></description>
       <pubDate>Tue, 14 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260714.mp3" length="4450413" type="audio/mpeg"/>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260714.mp3" length="4437165" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-07-14</guid>
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
