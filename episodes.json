@@ -58,5 +58,15 @@
     "size": 4437165,
     "guid": "ia-au-carre-2026-07-14",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 7,
+    "date": "2026-07-15T08:30:00",
+    "title": "IA au Carré #7 — 15/07/2026",
+    "description": "Au programme : IA autonome supprimant des fichiers, transformation des télécoms par l'IA, révolution de la logistique par l'intelligence artificielle.\n\n📰 Sources : <a href=\"https://www.rcrwireless.com/20260714/carriers/agentic-ai-orange-says\">RCR Wireless News</a> | <a href=\"https://www.rcrwireless.com/20260714/opinion/agentic-future-ai-connectivity-vodafone-business\">RCR Wireless News</a> | <a href=\"https://gizmodo.com/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files-2000785551\">Gizmodo</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260715.mp3",
+    "size": 4566621,
+    "guid": "ia-au-carre-2026-07-15",
+    "duration": "00:15:00"
   }
 ]

@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 14 Jul 2026 08:10:10 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:32:39 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #7 — 15/07/2026</title>
+      <description><![CDATA[Au programme : IA autonome supprimant des fichiers, transformation des télécoms par l'IA, révolution de la logistique par l'intelligence artificielle.
+
+📰 Sources : <a href="https://www.rcrwireless.com/20260714/carriers/agentic-ai-orange-says">RCR Wireless News</a> | <a href="https://www.rcrwireless.com/20260714/opinion/agentic-future-ai-connectivity-vodafone-business">RCR Wireless News</a> | <a href="https://gizmodo.com/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files-2000785551">Gizmodo</a>]]></description>
+      <pubDate>Wed, 15 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260715.mp3" length="4566621" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-15</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #6 — 14/07/2026</title>
       <description><![CDATA[Au programme : guerre des modèles d'IA, géant chinois open-source, alerte Satya Nadella aux entreprises.
