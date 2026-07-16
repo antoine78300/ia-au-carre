@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 15 Jul 2026 06:32:39 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 06:32:48 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #8 — 16/07/2026</title>
+      <description><![CDATA[Au programme : IA agentique dans l'économie, Inkling le géant open-source de Mira Murati, révolution des modèles d'IA.
+
+📰 Sources : <a href="https://marketscale.com/industries/software-and-technology/openais-five-step-framework-for-managing-agentic-ai-spend">MarketScale</a> | <a href="https://www.globenewswire.com/news-release/2026/07/15/3327557/0/en/akamai-research-commerce-becomes-the-epicenter-for-ai-bot-attacks-and-agentic-fraud-in-2026.html">Akamai / GlobeNewswire</a> | <a href="https://zamin.uz/en/technology/212626-thinking-machines-the-startup-founded-by-mira-murati-unveils-its-first-open-ai-model.html">Zamin.uz</a>]]></description>
+      <pubDate>Thu, 16 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260716.mp3" length="4433853" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-16</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #7 — 15/07/2026</title>
       <description><![CDATA[Au programme : IA autonome supprimant des fichiers, transformation des télécoms par l'IA, révolution de la logistique par l'intelligence artificielle.

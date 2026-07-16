@@ -68,5 +68,15 @@
     "size": 4566621,
     "guid": "ia-au-carre-2026-07-15",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 8,
+    "date": "2026-07-16T08:30:00",
+    "title": "IA au Carré #8 — 16/07/2026",
+    "description": "Au programme : IA agentique dans l'économie, Inkling le géant open-source de Mira Murati, révolution des modèles d'IA.\n\n📰 Sources : <a href=\"https://marketscale.com/industries/software-and-technology/openais-five-step-framework-for-managing-agentic-ai-spend\">MarketScale</a> | <a href=\"https://www.globenewswire.com/news-release/2026/07/15/3327557/0/en/akamai-research-commerce-becomes-the-epicenter-for-ai-bot-attacks-and-agentic-fraud-in-2026.html\">Akamai / GlobeNewswire</a> | <a href=\"https://zamin.uz/en/technology/212626-thinking-machines-the-startup-founded-by-mira-murati-unveils-its-first-open-ai-model.html\">Zamin.uz</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260716.mp3",
+    "size": 4433853,
+    "guid": "ia-au-carre-2026-07-16",
+    "duration": "00:15:00"
   }
 ]
