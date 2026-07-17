@@ -78,5 +78,15 @@
     "size": 4433853,
     "guid": "ia-au-carre-2026-07-16",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 9,
+    "date": "2026-07-17T08:30:00",
+    "title": "IA au Carré #9 — 17/07/2026",
+    "description": "Au programme : cyberattaques de ChatGPT-5.5, entraînement révolutionnaire de Grok 4.5, robots équipés par Nvidia pour la vision en temps réel.\n\n📰 Sources : <a href=\"https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/\">Infosecurity Magazine</a> | <a href=\"https://thefintechtimes.com/uae-consumers-lead-global-shift-toward-autonomous-ai-shopping-agents/\">The Fintech Times</a> | <a href=\"https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html\">CNBC</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260717.mp3",
+    "size": 4436733,
+    "guid": "ia-au-carre-2026-07-17",
+    "duration": "00:15:00"
   }
 ]
