@@ -88,5 +88,15 @@
     "size": 4436733,
     "guid": "ia-au-carre-2026-07-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 10,
+    "date": "2026-07-18T08:30:00",
+    "title": "IA au Carré #10 — 18/07/2026",
+    "description": "Au programme : Netflix et l'IA en post-production, applications de l'IA générative dans le streaming.\n\n📰 Sources : <a href=\"https://gigazine.net/gsc_news/en/20250717-netflix-gen-ai-title/\">Gigazine</a> | <a href=\"https://roboticsandautomationnews.com/2026/07/17/robbyant-unveils-lingbot-vla-2-0-universal-ai-model-for-embodied-robots/103355/\">Robotics & Automation News</a> | <a href=\"https://www.manilatimes.net/2026/07/17/tmt-newswire/media-outreach-newswire/chinese-company-yingshen-intelligences-4d-world-model-powered-embodied-robots-enter-vietnamese-factories-pioneering-a-token-based-service-model-for-global-expansion/2386404\">The Manila Times</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260718.mp3",
+    "size": 4391517,
+    "guid": "ia-au-carre-2026-07-18",
+    "duration": "00:15:00"
   }
 ]

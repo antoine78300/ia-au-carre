@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 17 Jul 2026 06:32:23 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:32:24 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #10 — 18/07/2026</title>
+      <description><![CDATA[Au programme : Netflix et l'IA en post-production, applications de l'IA générative dans le streaming.
+
+📰 Sources : <a href="https://gigazine.net/gsc_news/en/20250717-netflix-gen-ai-title/">Gigazine</a> | <a href="https://roboticsandautomationnews.com/2026/07/17/robbyant-unveils-lingbot-vla-2-0-universal-ai-model-for-embodied-robots/103355/">Robotics & Automation News</a> | <a href="https://www.manilatimes.net/2026/07/17/tmt-newswire/media-outreach-newswire/chinese-company-yingshen-intelligences-4d-world-model-powered-embodied-robots-enter-vietnamese-factories-pioneering-a-token-based-service-model-for-global-expansion/2386404">The Manila Times</a>]]></description>
+      <pubDate>Sat, 18 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260718.mp3" length="4391517" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-18</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #9 — 17/07/2026</title>
       <description><![CDATA[Au programme : cyberattaques de ChatGPT-5.5, entraînement révolutionnaire de Grok 4.5, robots équipés par Nvidia pour la vision en temps réel.
