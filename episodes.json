@@ -98,5 +98,15 @@
     "size": 4391517,
     "guid": "ia-au-carre-2026-07-18",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 11,
+    "date": "2026-07-19T08:30:00",
+    "title": "IA au Carré #11 — 19/07/2026",
+    "description": "Au programme : production Netflix utilisant l'IA, actualités intelligences artificielles, impact de l'IA sur la création audiovisuelle.\n\n📰 Sources : <a href=\"https://www.govtech.com/question-of-the-day/how-many-titles-did-netflix-use-ai-in-creating-in-2026\">GovTech</a> | <a href=\"https://www.newsweek.com/boards-are-rewarding-ai-hype-instead-of-results-opinion-12206117\">Newsweek</a> | <a href=\"https://roboticsandautomationnews.com/2026/07/18/nvidia-and-hugging-face-expand-lerobot-with-new-open-robotics-ai-tools/103491/\">Robotics & Automation News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260719.mp3",
+    "size": 4372941,
+    "guid": "ia-au-carre-2026-07-19",
+    "duration": "00:15:00"
   }
 ]
