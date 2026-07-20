@@ -108,5 +108,15 @@
     "size": 4372941,
     "guid": "ia-au-carre-2026-07-19",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 12,
+    "date": "2026-07-20T08:30:00",
+    "title": "IA au Carré #12 — 20/07/2026",
+    "description": "Au programme : agents IA dans le retail, prédiction d'achat, conscience artificielle et Claude d'Anthropic.\n\n📰 Sources : <a href=\"https://www.forbes.com/sites/pamdanziger/2026/07/19/washington-watchdogs-take-notice-as-ai-becomes-retails-front-door/\">Forbes</a> | <a href=\"https://www.haaretz.com/israel-news/tech-news/2026-07-19/ty-article-magazine/the-sound-of-depression-translating-brain-activity-into-language/\">Haaretz</a> | <a href=\"https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious\">The Guardian</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260720.mp3",
+    "size": 4440621,
+    "guid": "ia-au-carre-2026-07-20",
+    "duration": "00:15:00"
   }
 ]
