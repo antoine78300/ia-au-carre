@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 20 Jul 2026 06:32:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 06:32:31 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #13 — 21/07/2026</title>
+      <description><![CDATA[Au programme : concurrence IA sino-américaine, cybersécurité IA, modèles Kimi K3 et Qwen.
+
+📰 Sources : <a href="https://asianbusinessreview.com/news/hsbc-and-epaa-launch-agentic-payments-working-group">Asian Business Review</a> | <a href="https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen">The Verge</a> | <a href="https://apnews.com/article/kimi-k3-china-ai-model-us-4c66a2e0f557ce79d3cc2d769c9a6226">AP News</a>]]></description>
+      <pubDate>Tue, 21 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260721.mp3" length="4522845" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-21</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #12 — 20/07/2026</title>
       <description><![CDATA[Au programme : agents IA dans le retail, prédiction d'achat, conscience artificielle et Claude d'Anthropic.

@@ -118,5 +118,15 @@
     "size": 4440621,
     "guid": "ia-au-carre-2026-07-20",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 13,
+    "date": "2026-07-21T08:30:00",
+    "title": "IA au Carré #13 — 21/07/2026",
+    "description": "Au programme : concurrence IA sino-américaine, cybersécurité IA, modèles Kimi K3 et Qwen.\n\n📰 Sources : <a href=\"https://asianbusinessreview.com/news/hsbc-and-epaa-launch-agentic-payments-working-group\">Asian Business Review</a> | <a href=\"https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen\">The Verge</a> | <a href=\"https://apnews.com/article/kimi-k3-china-ai-model-us-4c66a2e0f557ce79d3cc2d769c9a6226\">AP News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260721.mp3",
+    "size": 4522845,
+    "guid": "ia-au-carre-2026-07-21",
+    "duration": "00:15:00"
   }
 ]
