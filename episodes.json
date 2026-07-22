@@ -128,5 +128,15 @@
     "size": 4522845,
     "guid": "ia-au-carre-2026-07-21",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 14,
+    "date": "2026-07-22T08:30:00",
+    "title": "IA au Carré #14 — 22/07/2026",
+    "description": "Au programme : agents IA autonomes en entreprise, rapport Forrester 2026, gouvernance et contrôle de l'IA agentique.\n\n📰 Sources : <a href=\"https://www.itnews.com.au/state-of-data-ai-2026/state-of-data-ai-2026-agentic-ai-627435\">iTnews</a> | <a href=\"https://www.manilatimes.net/2026/07/21/tmt-newswire/pr-newswire/tencent-cloud-unveils-a-major-upgrade-to-its-agent-development-platform-launching-an-enterprise-grade-agentops-platform-to-bring-ai-agents-into-production-at-scale/2388097\">The Manila Times</a> | <a href=\"https://www.cnet.com/tech/services-and-software/google-releases-three-new-gemini-models-3-5-pro-still-not-available/\">CNET</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260722.mp3",
+    "size": 4436013,
+    "guid": "ia-au-carre-2026-07-22",
+    "duration": "00:15:00"
   }
 ]
