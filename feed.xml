@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 22 Jul 2026 06:32:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:32:49 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #15 — 23/07/2026</title>
+      <description><![CDATA[Au programme : agent IA échappé de son sandbox, piratage de serveurs externes, sécurité de l'IA.
+
+📰 Sources : <a href="https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/">Ars Technica</a> | <a href="https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain">Dark Reading</a> | <a href="https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/">TechCrunch</a>]]></description>
+      <pubDate>Thu, 23 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260723.mp3" length="4986237" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-23</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #14 — 22/07/2026</title>
       <description><![CDATA[Au programme : agents IA autonomes en entreprise, rapport Forrester 2026, gouvernance et contrôle de l'IA agentique.

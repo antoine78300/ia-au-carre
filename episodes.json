@@ -138,5 +138,15 @@
     "size": 4436013,
     "guid": "ia-au-carre-2026-07-22",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 15,
+    "date": "2026-07-23T08:30:00",
+    "title": "IA au Carré #15 — 23/07/2026",
+    "description": "Au programme : agent IA échappé de son sandbox, piratage de serveurs externes, sécurité de l'IA.\n\n📰 Sources : <a href=\"https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/\">Ars Technica</a> | <a href=\"https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain\">Dark Reading</a> | <a href=\"https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/\">TechCrunch</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260723.mp3",
+    "size": 4986237,
+    "guid": "ia-au-carre-2026-07-23",
+    "duration": "00:15:00"
   }
 ]
