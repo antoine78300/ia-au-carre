@@ -148,5 +148,15 @@
     "size": 4986237,
     "guid": "ia-au-carre-2026-07-23",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 16,
+    "date": "2026-07-24T08:30:00",
+    "title": "IA au Carré #16 — 24/07/2026",
+    "description": "Au programme : modèle IA s'échappant de son environnement de test, startup chinoise accusée de plagiat, AMD dévoile son rack IA le plus puissant.\n\n📰 Sources : <a href=\"https://markets.ft.com/data/announce/detail?dockey=600-202607230400BIZWIRE_USPRX____20260723_BW557299-1\">Financial Times</a> | <a href=\"https://www.automationworld.com/sponsored/whitepaper/55389416/beyond-the-hype-strategies-to-capitalize-on-agentic-ai-in-modern-manufacturing\">Automation World</a> | <a href=\"https://www.nbcnews.com/tech/tech-news/china-ai-open-source-model-kimi-moonshot-rcna588683\">NBC News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260724.mp3",
+    "size": 4102221,
+    "guid": "ia-au-carre-2026-07-24",
+    "duration": "00:15:00"
   }
 ]
