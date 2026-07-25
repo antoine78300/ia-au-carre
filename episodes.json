@@ -158,5 +158,15 @@
     "size": 4102221,
     "guid": "ia-au-carre-2026-07-24",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 17,
+    "date": "2026-07-25T08:30:00",
+    "title": "IA au Carré #17 — 25/07/2026",
+    "description": "Au programme : collision entre l'IA et la musique, enjeux juridiques et sociétaux, création musicale assistée par IA.\n\n📰 Sources : <a href=\"https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html\">New York Times</a> | <a href=\"https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7\">Business Insider</a> | <a href=\"https://www.businessinsider.com/everything-we-know-about-teslas-optimus-humanoid-robot-2026-7\">Business Insider</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260725.mp3",
+    "size": 5189133,
+    "guid": "ia-au-carre-2026-07-25",
+    "duration": "00:15:00"
   }
 ]

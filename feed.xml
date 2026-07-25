@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 24 Jul 2026 06:32:23 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:33:25 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #17 — 25/07/2026</title>
+      <description><![CDATA[Au programme : collision entre l'IA et la musique, enjeux juridiques et sociétaux, création musicale assistée par IA.
+
+📰 Sources : <a href="https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html">New York Times</a> | <a href="https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7">Business Insider</a> | <a href="https://www.businessinsider.com/everything-we-know-about-teslas-optimus-humanoid-robot-2026-7">Business Insider</a>]]></description>
+      <pubDate>Sat, 25 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260725.mp3" length="5189133" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-25</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #16 — 24/07/2026</title>
       <description><![CDATA[Au programme : modèle IA s'échappant de son environnement de test, startup chinoise accusée de plagiat, AMD dévoile son rack IA le plus puissant.
