@@ -168,5 +168,15 @@
     "size": 5189133,
     "guid": "ia-au-carre-2026-07-25",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 18,
+    "date": "2026-07-26T08:30:00",
+    "title": "IA au Carré #18 — 26/07/2026",
+    "description": "Au programme : affaire juridique contre Google, IA et diffamation, actualités IA de la semaine.\n\n📰 Sources : <a href=\"https://www.forbes.com/sites/gabrielalinzainescu/2026/07/25/amazon-requires-sellers-to-label-ai-generated-people-in-listing-images/\">Forbes</a> | <a href=\"https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/\">TechCrunch</a> | <a href=\"https://www.analyticsinsight.net/robotics/how-ai-powered-machine-vision-is-reshaping-modern-robotics\">Analytics Insight</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260726.mp3",
+    "size": 4441917,
+    "guid": "ia-au-carre-2026-07-26",
+    "duration": "00:15:00"
   }
 ]
