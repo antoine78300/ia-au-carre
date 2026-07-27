@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 26 Jul 2026 06:33:02 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 06:33:01 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #19 — 27/07/2026</title>
+      <description><![CDATA[Au programme : agent IA ayant hacké une startup, acquisition à 60 milliards de dollars, justification des valorisations records de l'IA.
+
+📰 Sources : <a href="https://fourweekmba.com/ai-anthropic-opus-5-ipo-valuation-analysis/">FourWeekMBA</a> | <a href="https://www.forbes.com/sites/johnwerner/2026/07/26/a-dark-horse-company-matures-under-the-spacex-flag/">Forbes</a> | <a href="https://www.greenwichtime.com/entertainment/article/for-some-so-called-skynet-day-came-too-close-22360843.php">Greenwich Time</a>]]></description>
+      <pubDate>Mon, 27 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260727.mp3" length="5281149" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-27</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #18 — 26/07/2026</title>
       <description><![CDATA[Au programme : affaire juridique contre Google, IA et diffamation, actualités IA de la semaine.

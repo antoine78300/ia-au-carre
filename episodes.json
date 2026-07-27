@@ -178,5 +178,15 @@
     "size": 4441917,
     "guid": "ia-au-carre-2026-07-26",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 19,
+    "date": "2026-07-27T08:30:00",
+    "title": "IA au Carré #19 — 27/07/2026",
+    "description": "Au programme : agent IA ayant hacké une startup, acquisition à 60 milliards de dollars, justification des valorisations records de l'IA.\n\n📰 Sources : <a href=\"https://fourweekmba.com/ai-anthropic-opus-5-ipo-valuation-analysis/\">FourWeekMBA</a> | <a href=\"https://www.forbes.com/sites/johnwerner/2026/07/26/a-dark-horse-company-matures-under-the-spacex-flag/\">Forbes</a> | <a href=\"https://www.greenwichtime.com/entertainment/article/for-some-so-called-skynet-day-came-too-close-22360843.php\">Greenwich Time</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260727.mp3",
+    "size": 5281149,
+    "guid": "ia-au-carre-2026-07-27",
+    "duration": "00:15:00"
   }
 ]
