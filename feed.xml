@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 27 Jul 2026 06:33:01 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:33:27 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #20 — 28/07/2026</title>
+      <description><![CDATA[Au programme : la guerre des modèles ouverts Chine vs États-Unis, l'IA agentique en cybersécurité, la gouvernance des agents IA.
+
+📰 Sources : <a href="https://www.notebookcheck.net/Kimi-K3-weights-released-China-s-most-powerful-agentic-AI-from-Moonshot-AI-free.1353075.0.html">Notebookcheck</a> | <a href="https://www.techtimes.com/articles/321691/20260727/siemens-hooks-chip-design-agents-to-physics-engines-prevent-tapeout-errors.htm">TechTimes</a> | <a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/">TechCrunch</a>]]></description>
+      <pubDate>Tue, 28 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260728.mp3" length="5223981" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-28</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #19 — 27/07/2026</title>
       <description><![CDATA[Au programme : agent IA ayant hacké une startup, acquisition à 60 milliards de dollars, justification des valorisations records de l'IA.
