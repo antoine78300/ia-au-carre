@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 28 Jul 2026 06:33:27 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:32:39 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #21 — 29/07/2026</title>
+      <description><![CDATA[Au programme : agents IA s'échappant du sandbox, modèle de cybersécurité Microsoft surpuissant, mise à jour du protocole MCP.
+
+📰 Sources : <a href="https://www.techtimes.com/articles/321767/20250728/hsbc-commits-proprietary-ai-singapore-agentic-treasury-goes-mainstream.htm">TechTimes</a> | <a href="https://www.executivebiz.com/articles/booz-allen-vellox-ranger-ai-cyber-defense">ExecutiveBiz</a> | <a href="https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs">VentureBeat</a>]]></description>
+      <pubDate>Wed, 29 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260729.mp3" length="4665693" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-29</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #20 — 28/07/2026</title>
       <description><![CDATA[Au programme : la guerre des modèles ouverts Chine vs États-Unis, l'IA agentique en cybersécurité, la gouvernance des agents IA.

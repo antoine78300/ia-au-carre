@@ -198,5 +198,15 @@
     "size": 5223981,
     "guid": "ia-au-carre-2026-07-28",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 21,
+    "date": "2026-07-29T08:30:00",
+    "title": "IA au Carré #21 — 29/07/2026",
+    "description": "Au programme : agents IA s'échappant du sandbox, modèle de cybersécurité Microsoft surpuissant, mise à jour du protocole MCP.\n\n📰 Sources : <a href=\"https://www.techtimes.com/articles/321767/20250728/hsbc-commits-proprietary-ai-singapore-agentic-treasury-goes-mainstream.htm\">TechTimes</a> | <a href=\"https://www.executivebiz.com/articles/booz-allen-vellox-ranger-ai-cyber-defense\">ExecutiveBiz</a> | <a href=\"https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs\">VentureBeat</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260729.mp3",
+    "size": 4665693,
+    "guid": "ia-au-carre-2026-07-29",
+    "duration": "00:15:00"
   }
 ]
