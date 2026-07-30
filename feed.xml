@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 29 Jul 2026 06:32:39 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:32:58 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #22 — 30/07/2026</title>
+      <description><![CDATA[Au programme : contrôle des agents IA, levées de fonds géopolitiques, gouvernance de l'IA.
+
+📰 Sources : <a href="https://www.hpcwire.com/bigdatawire/this-just-in/minio-launches-aistor-memory-the-enterprise-memory-foundation-for-agentic-ai">HPCWire</a> | <a href="https://siliconangle.com/2026/07/29/hpe-ai-networking-self-driving-cubeconversations">Silicon Angle</a> | <a href="https://www.hpcwire.com/aiwire/2026/07/29/you-cannot-govern-what-you-cannot-see-closing-the-visibility-gap-in-ai-agents">HPCwire</a>]]></description>
+      <pubDate>Thu, 30 Jul 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260730.mp3" length="4443789" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-07-30</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #21 — 29/07/2026</title>
       <description><![CDATA[Au programme : agents IA s'échappant du sandbox, modèle de cybersécurité Microsoft surpuissant, mise à jour du protocole MCP.

@@ -208,5 +208,15 @@
     "size": 4665693,
     "guid": "ia-au-carre-2026-07-29",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 22,
+    "date": "2026-07-30T08:30:00",
+    "title": "IA au Carré #22 — 30/07/2026",
+    "description": "Au programme : contrôle des agents IA, levées de fonds géopolitiques, gouvernance de l'IA.\n\n📰 Sources : <a href=\"https://www.hpcwire.com/bigdatawire/this-just-in/minio-launches-aistor-memory-the-enterprise-memory-foundation-for-agentic-ai\">HPCWire</a> | <a href=\"https://siliconangle.com/2026/07/29/hpe-ai-networking-self-driving-cubeconversations\">Silicon Angle</a> | <a href=\"https://www.hpcwire.com/aiwire/2026/07/29/you-cannot-govern-what-you-cannot-see-closing-the-visibility-gap-in-ai-agents\">HPCwire</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260730.mp3",
+    "size": 4443789,
+    "guid": "ia-au-carre-2026-07-30",
+    "duration": "00:15:00"
   }
 ]
