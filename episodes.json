@@ -218,5 +218,15 @@
     "size": 4443789,
     "guid": "ia-au-carre-2026-07-30",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 23,
+    "date": "2026-07-31T08:30:00",
+    "title": "IA au Carré #23 — 31/07/2026",
+    "description": "Au programme : ransomwares autonomes alimentés par IA, piratage d'organisations par des modèles IA, failles dans les infrastructures agentiques.\n\n📰 Sources : <a href=\"https://www.trendmicro.com/tr_tr/research/26/g/autonomous-ransomware.html\">Trend Micro</a> | <a href=\"https://www.trendmicro.com/tr_tr/research/26/g/autonomous-ransomware.html\">Trend Micro</a> | <a href=\"https://www.csoonline.com/article/4203408/critical-ruflo-flaw-lets-attackers-hijack-ai-agents-through-exposed-mcp-bridge.html\">CSO Online</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260731.mp3",
+    "size": 4099485,
+    "guid": "ia-au-carre-2026-07-31",
+    "duration": "00:15:00"
   }
 ]
