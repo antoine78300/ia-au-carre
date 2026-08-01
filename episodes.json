@@ -228,5 +228,15 @@
     "size": 4099485,
     "guid": "ia-au-carre-2026-07-31",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 24,
+    "date": "2026-08-01T08:30:00",
+    "title": "IA au Carré #24 — 01/08/2026",
+    "description": "Au programme : les robots Gemini Robotics 2 de Google DeepMind, les enjeux juridiques de l'IA dans la musique.\n\n📰 Sources : <a href=\"https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey\">TradingKey</a> | <a href=\"https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802\">Robotics & Automation News</a> | <a href=\"https://www.intelligentcio.com/north-america/2026/07/31/bristol-myers-squibb-builds-ai-factory-with-nvidia-to-accelerate-drug-discovery\">Intelligent CIO North America</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260801.mp3",
+    "size": 4152909,
+    "guid": "ia-au-carre-2026-08-01",
+    "duration": "00:15:00"
   }
 ]

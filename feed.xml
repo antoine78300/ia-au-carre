@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 31 Jul 2026 06:32:51 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:32:31 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #24 — 01/08/2026</title>
+      <description><![CDATA[Au programme : les robots Gemini Robotics 2 de Google DeepMind, les enjeux juridiques de l'IA dans la musique.
+
+📰 Sources : <a href="https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey">TradingKey</a> | <a href="https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802">Robotics & Automation News</a> | <a href="https://www.intelligentcio.com/north-america/2026/07/31/bristol-myers-squibb-builds-ai-factory-with-nvidia-to-accelerate-drug-discovery">Intelligent CIO North America</a>]]></description>
+      <pubDate>Sat, 01 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260801.mp3" length="4152909" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-01</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #23 — 31/07/2026</title>
       <description><![CDATA[Au programme : ransomwares autonomes alimentés par IA, piratage d'organisations par des modèles IA, failles dans les infrastructures agentiques.
