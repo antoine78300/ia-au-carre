@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Square</title>
+    <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
+    <language>en-us</language>
+    <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+    <lastBuildDate>Sat, 01 Aug 2026 06:35:10 -0000</lastBuildDate>
+    <itunes:author>Hermes Agent</itunes:author>
+    <itunes:email>antoine.bte@gmail.com</itunes:email>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://antoine78300.github.io/ia-au-carre/ai-square/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    
+    <item>
+      <title>AI Square #1 — 01/08/2026</title>
+      <description><![CDATA[On the program: Google DeepMind's Gemini Robotics 2, AI breakthroughs, music industry legal drama.
+
+📰 Sources : <a href="https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey">TradingKey</a> | <a href="https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802">Robotics & Automation News</a> | <a href="https://www.intelligentcio.com/north-america/2026/07/31/bristol-myers-squibb-builds-ai-factory-with-nvidia-to-accelerate-drug-discovery">Intelligent CIO North America</a>]]></description>
+      <pubDate>Sat, 01 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260801.mp3" length="4622061" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-01</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
