@@ -8,5 +8,15 @@
     "size": 4622061,
     "guid": "ai-square-2026-08-01",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 2,
+    "date": "2026-08-02T08:30:00",
+    "title": "AI Square #2 — 02/08/2026",
+    "description": "On the program: AI-generated content moderation, social media platform strategies, authenticity in digital content.\n\n📰 Sources : <a href=\"https://www.forbes.com/sites/gabrielalinzainescu/2026/08/01/snapchat-and-linkedin-launch-new-tools-to-curb-ai-slop-in-feeds/\">Forbes</a> | <a href=\"https://www.aol.com/articles/meta-microsofts-ai-spending-tale-121940000.html\">AOL.com / Business Insider</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260802.mp3",
+    "size": 4025469,
+    "guid": "ai-square-2026-08-02",
+    "duration": "00:15:00"
   }
 ]
