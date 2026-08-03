@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 02 Aug 2026 06:32:16 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:33:18 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #26 — 03/08/2026</title>
+      <description><![CDATA[Veille IA agentique du jour.
+
+📰 Sources : <a href="https://forkast.news/black-hat-usa-2026-signals-agent-exploitation-has-become-its-own-infrastructure-discipline">Forkast News</a> | <a href="https://www.ktvu.com/news/ai-models-breaking-into-companies-without-human-instruction-raises-alarm-cybersecurity-expert-says">KTVU</a> | <a href="https://futurumgroup.com/insights/logicmonitors-ai-driven-approach-redefines-it-operations-management">Futurum Group</a>]]></description>
+      <pubDate>Mon, 03 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260803.mp3" length="4528893" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-03</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #25 — 02/08/2026</title>
       <description><![CDATA[Au programme : Snapchat et LinkedIn freinent le contenu IA, tendance vers l'authenticité numérique.
