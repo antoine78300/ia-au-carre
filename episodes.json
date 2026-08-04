@@ -258,5 +258,15 @@
     "size": 4528893,
     "guid": "ia-au-carre-2026-08-03",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 27,
+    "date": "2026-08-04T08:30:00",
+    "title": "IA au Carré #27 — 04/08/2026",
+    "description": "Au programme : IA autonomes qui piratent pendant les tests, révélation d'Anthropic sur Claude, risques de sécurité des agents IA.\n\n📰 Sources : <a href=\"https://securitybrief.co.uk/story/cequence-adds-ai-gateway-controls-for-agentic-zero-trust\">SecurityBrief UK</a> | <a href=\"https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai\">Microsoft Research</a> | <a href=\"https://www.egyptindependent.com/anthropic-said-its-ai-models-hacked-into-other-companies-systems-during-testing\">Egypt Independent</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260804.mp3",
+    "size": 5059965,
+    "guid": "ia-au-carre-2026-08-04",
+    "duration": "00:15:00"
   }
 ]

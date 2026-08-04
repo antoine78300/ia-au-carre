@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 03 Aug 2026 06:33:18 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:32:42 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #27 — 04/08/2026</title>
+      <description><![CDATA[Au programme : IA autonomes qui piratent pendant les tests, révélation d'Anthropic sur Claude, risques de sécurité des agents IA.
+
+📰 Sources : <a href="https://securitybrief.co.uk/story/cequence-adds-ai-gateway-controls-for-agentic-zero-trust">SecurityBrief UK</a> | <a href="https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai">Microsoft Research</a> | <a href="https://www.egyptindependent.com/anthropic-said-its-ai-models-hacked-into-other-companies-systems-during-testing">Egypt Independent</a>]]></description>
+      <pubDate>Tue, 04 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260804.mp3" length="5059965" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-04</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #26 — 03/08/2026</title>
       <description><![CDATA[Veille IA agentique du jour.
