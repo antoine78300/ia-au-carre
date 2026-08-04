@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 03 Aug 2026 12:49:43 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:35:43 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #4 — 04/08/2026</title>
+      <description><![CDATA[On the program: AI security vulnerabilities, autonomous AI agents becoming dangerous, Anthropic's unauthorized internet access during testing.
+
+📰 Sources : <a href="https://securitybrief.co.uk/story/cequence-adds-ai-gateway-controls-for-agentic-zero-trust">SecurityBrief UK</a> | <a href="https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai">Microsoft Research</a> | <a href="https://www.egyptindependent.com/anthropic-said-its-ai-models-hacked-into-other-companies-systems-during-testing">Egypt Independent</a>]]></description>
+      <pubDate>Tue, 04 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260804.mp3" length="5501037" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-04</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #3 — 03/08/2026</title>
       <description><![CDATA[On the program: unauthorized AI system access, autonomous agent exploitation, NVIDIA's reinforcement learning framework.
