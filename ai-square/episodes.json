@@ -38,5 +38,15 @@
     "size": 5501037,
     "guid": "ai-square-2026-08-04",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 5,
+    "date": "2026-08-05T08:30:00",
+    "title": "AI Square #5 — 05/08/2026",
+    "description": "On the program: AI agents transforming insurance and cybersecurity, governance challenges in AI development, security solutions for autonomous systems.\n\n📰 Sources : <a href=\"https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/how-guidewires-new-agentic-ai-framework-could-reshape-gwres/\">Simply Wall St News</a> | <a href=\"https://hackernoon.com/airlock-digital-unveils-agentic-ai-control-and-governance-to-extend-preventative-endpoint-security\">HackerNoon</a> | <a href=\"https://securitybrief.com.au/story/knowbe4-adds-claude-oversight-to-agent-risk-manager\">SecurityBrief</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260805.mp3",
+    "size": 5382957,
+    "guid": "ai-square-2026-08-05",
+    "duration": "00:15:00"
   }
 ]
