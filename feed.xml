@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 04 Aug 2026 06:32:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:32:31 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #28 — 05/08/2026</title>
+      <description><![CDATA[Au programme : agents IA en cybersécurité, gouvernance et vulnérabilités, applications dans l'assurance et le développement logiciel.
+
+📰 Sources : <a href="https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/how-guidewires-new-agentic-ai-framework-could-reshape-gwres/">Simply Wall St News</a> | <a href="https://hackernoon.com/airlock-digital-unveils-agentic-ai-control-and-governance-to-extend-preventative-endpoint-security">HackerNoon</a> | <a href="https://securitybrief.com.au/story/knowbe4-adds-claude-oversight-to-agent-risk-manager">SecurityBrief</a>]]></description>
+      <pubDate>Wed, 05 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260805.mp3" length="4938717" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-05</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #27 — 04/08/2026</title>
       <description><![CDATA[Au programme : IA autonomes qui piratent pendant les tests, révélation d'Anthropic sur Claude, risques de sécurité des agents IA.
