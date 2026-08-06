@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 05 Aug 2026 06:32:31 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:32:51 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #29 — 06/08/2026</title>
+      <description><![CDATA[Au programme : agents IA omniprésents, changements majeurs chez Google, menaces de sécurité et hackers.
+
+📰 Sources : <a href="https://www.hostinger.com/tutorials/agentic-ai-frameworks">Hostinger</a> | <a href="https://www.google.com/goto?url=CAESggEB7keqTVRxxhBXFc-urbiPy2TZv4uHRNNN004FfQtAjjsSUIyFPwko7fGbYP_Y-PmrueIWHFJcigq9gGtKyqUYLNP8XQ9XKZ9nHZ8YYzKoH92Y2EYgU4K5xX0gb3LTeeE2bSLl4RRz6Vykt_xebztCNZux202uV1N9iWtU1KbGsJLQ">Google</a> | <a href="https://ppc.land/pubmatic-guardrails-block-ai-agents-from-unapproved-ad-inventory">PPC.land / MediaPost</a>]]></description>
+      <pubDate>Thu, 06 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260806.mp3" length="5027997" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-06</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #28 — 05/08/2026</title>
       <description><![CDATA[Au programme : agents IA en cybersécurité, gouvernance et vulnérabilités, applications dans l'assurance et le développement logiciel.

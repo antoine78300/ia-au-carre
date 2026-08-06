@@ -278,5 +278,15 @@
     "size": 4938717,
     "guid": "ia-au-carre-2026-08-05",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 29,
+    "date": "2026-08-06T08:30:00",
+    "title": "IA au Carré #29 — 06/08/2026",
+    "description": "Au programme : agents IA omniprésents, changements majeurs chez Google, menaces de sécurité et hackers.\n\n📰 Sources : <a href=\"https://www.hostinger.com/tutorials/agentic-ai-frameworks\">Hostinger</a> | <a href=\"https://www.google.com/goto?url=CAESggEB7keqTVRxxhBXFc-urbiPy2TZv4uHRNNN004FfQtAjjsSUIyFPwko7fGbYP_Y-PmrueIWHFJcigq9gGtKyqUYLNP8XQ9XKZ9nHZ8YYzKoH92Y2EYgU4K5xX0gb3LTeeE2bSLl4RRz6Vykt_xebztCNZux202uV1N9iWtU1KbGsJLQ\">Google</a> | <a href=\"https://ppc.land/pubmatic-guardrails-block-ai-agents-from-unapproved-ad-inventory\">PPC.land / MediaPost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260806.mp3",
+    "size": 5027997,
+    "guid": "ia-au-carre-2026-08-06",
+    "duration": "00:15:00"
   }
 ]
