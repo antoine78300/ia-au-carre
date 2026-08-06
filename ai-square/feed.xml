@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 05 Aug 2026 06:35:21 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:35:46 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #6 — 06/08/2026</title>
+      <description><![CDATA["On the agenda: AI agents proliferation across sectors, Google's leadership shake-up with Demis Hassabis and Jeff Dean, agentic AI reaching a critical threshold."
+
+📰 Sources : <a href="https://www.hostinger.com/tutorials/agentic-ai-frameworks">Hostinger</a> | <a href="https://www.google.com/goto?url=CAESggEB7keqTVRxxhBXFc-urbiPy2TZv4uHRNNN004FfQtAjjsSUIyFPwko7fGbYP_Y-PmrueIWHFJcigq9gGtKyqUYLNP8XQ9XKZ9nHZ8YYzKoH92Y2EYgU4K5xX0gb3LTeeE2bSLl4RRz6Vykt_xebztCNZux202uV1N9iWtU1KbGsJLQ">Google</a> | <a href="https://ppc.land/pubmatic-guardrails-block-ai-agents-from-unapproved-ad-inventory">PPC.land / MediaPost</a>]]></description>
+      <pubDate>Thu, 06 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260806.mp3" length="5505501" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-06</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #5 — 05/08/2026</title>
       <description><![CDATA[On the program: AI agents transforming insurance and cybersecurity, governance challenges in AI development, security solutions for autonomous systems.

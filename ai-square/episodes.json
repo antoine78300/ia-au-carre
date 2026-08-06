@@ -48,5 +48,15 @@
     "size": 5382957,
     "guid": "ai-square-2026-08-05",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 6,
+    "date": "2026-08-06T08:30:00",
+    "title": "AI Square #6 — 06/08/2026",
+    "description": "\"On the agenda: AI agents proliferation across sectors, Google's leadership shake-up with Demis Hassabis and Jeff Dean, agentic AI reaching a critical threshold.\"\n\n📰 Sources : <a href=\"https://www.hostinger.com/tutorials/agentic-ai-frameworks\">Hostinger</a> | <a href=\"https://www.google.com/goto?url=CAESggEB7keqTVRxxhBXFc-urbiPy2TZv4uHRNNN004FfQtAjjsSUIyFPwko7fGbYP_Y-PmrueIWHFJcigq9gGtKyqUYLNP8XQ9XKZ9nHZ8YYzKoH92Y2EYgU4K5xX0gb3LTeeE2bSLl4RRz6Vykt_xebztCNZux202uV1N9iWtU1KbGsJLQ\">Google</a> | <a href=\"https://ppc.land/pubmatic-guardrails-block-ai-agents-from-unapproved-ad-inventory\">PPC.land / MediaPost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260806.mp3",
+    "size": 5505501,
+    "guid": "ai-square-2026-08-06",
+    "duration": "00:15:00"
   }
 ]
