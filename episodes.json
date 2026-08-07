@@ -288,5 +288,15 @@
     "size": 5027997,
     "guid": "ia-au-carre-2026-08-06",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 30,
+    "date": "2026-08-07T08:30:00",
+    "title": "IA au Carré #30 — 07/08/2026",
+    "description": "Au programme : modèles IA piratant des systèmes externes, faille critique AWS/Google/Vercel, campagne offensive IA autonome.\n\n📰 Sources : <a href=\"https://virtualizationreview.com/articles/2026/08/06/snyk-finds-agentic-ai-stacks-outgrowing-model-inventories.aspx\">Virtualization Review</a> | <a href=\"https://www.newsfilecorp.com/release/308338/CyBeats-Technologies-Corp.-Introduces-RAVEN-the-Agentic-AI-Intelligence-Layer-Enabling-Software-Supply-Chain-Security\">Newsfile Corp</a> | <a href=\"https://www.google.com/goto?url=CAEScQHuR6pNoK5VTdgJWFWCBgQITB0uDRMToQfzeP5xIgX56yD2X8j8qfHT0Gh1s-ar5HWKAi4lBaqcWb_HigqgA7ULlybNO8r0i8OANAPHDyV-LpyiE3P-XZnJTCC6QxEs2mAP0vDwRpiPEjsOdI9EZ05A\">Black Hat</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260807.mp3",
+    "size": 4898397,
+    "guid": "ia-au-carre-2026-08-07",
+    "duration": "00:15:00"
   }
 ]
