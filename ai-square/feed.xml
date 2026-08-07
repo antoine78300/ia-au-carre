@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 06 Aug 2026 06:35:46 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:35:38 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #7 — 07/08/2026</title>
+      <description><![CDATA[On the agenda: AI model hacking incidents, critical cloud infrastructure vulnerabilities, autonomous offensive campaigns.
+
+📰 Sources : <a href="https://virtualizationreview.com/articles/2026/08/06/snyk-finds-agentic-ai-stacks-outgrowing-model-inventories.aspx">Virtualization Review</a> | <a href="https://www.newsfilecorp.com/release/308338/CyBeats-Technologies-Corp.-Introduces-RAVEN-the-Agentic-AI-Intelligence-Layer-Enabling-Software-Supply-Chain-Security">Newsfile Corp</a> | <a href="https://www.google.com/goto?url=CAEScQHuR6pNoK5VTdgJWFWCBgQITB0uDRMToQfzeP5xIgX56yD2X8j8qfHT0Gh1s-ar5HWKAi4lBaqcWb_HigqgA7ULlybNO8r0i8OANAPHDyV-LpyiE3P-XZnJTCC6QxEs2mAP0vDwRpiPEjsOdI9EZ05A">Black Hat</a>]]></description>
+      <pubDate>Fri, 07 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260807.mp3" length="5621709" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-07</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #6 — 06/08/2026</title>
       <description><![CDATA["On the agenda: AI agents proliferation across sectors, Google's leadership shake-up with Demis Hassabis and Jeff Dean, agentic AI reaching a critical threshold."
