@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 07 Aug 2026 06:35:38 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:35:20 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #8 — 08/08/2026</title>
+      <description><![CDATA[On the agenda: Stanford's virtual biotech with 37,000 AI agents, AI-designed viruses, and robotics breakthroughs.
+
+📰 Sources : <a href="https://roboticsandautomationnews.com/2026/08/07/unitree-targets-9-billion-valuation-in-landmark-ipo-as-humanoid-robot-race-accelerates/104008/">Robotics & Automation News</a> | <a href="https://www.google.com/goto?url=CAESdwHuR6pN5ny7ipKdmJsBONMCTjy5hdQR7rrz3UnBw-vr1WA9WINPvNa2gpg7RASIWBn_9aN5JJH0FoCyJfeiRcf60Mu_MPyTOH-JGTjUIM53IL_5CPDc2UyKFZQ4-m7OGd8YIGx5GEMxzHYt_p21p4OBvjtDsu18">Google News</a> | <a href="https://www.digit.in/news/science-and-technology/ai-can-now-design-viruses-that-do-not-exist-in-nature-here-is-why-scientists-are-excited.html/amp">Digit.in</a>]]></description>
+      <pubDate>Sat, 08 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260808.mp3" length="4717245" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-08</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #7 — 07/08/2026</title>
       <description><![CDATA[On the agenda: AI model hacking incidents, critical cloud infrastructure vulnerabilities, autonomous offensive campaigns.
