@@ -298,5 +298,15 @@
     "size": 4898397,
     "guid": "ia-au-carre-2026-08-07",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 31,
+    "date": "2026-08-08T08:30:00",
+    "title": "IA au Carré #31 — 08/08/2026",
+    "description": "Au programme : biotech virtuelle avec 37 000 agents IA, robots, virus créés par l'IA.\n\n📰 Sources : <a href=\"https://roboticsandautomationnews.com/2026/08/07/unitree-targets-9-billion-valuation-in-landmark-ipo-as-humanoid-robot-race-accelerates/104008/\">Robotics & Automation News</a> | <a href=\"https://www.google.com/goto?url=CAESdwHuR6pN5ny7ipKdmJsBONMCTjy5hdQR7rrz3UnBw-vr1WA9WINPvNa2gpg7RASIWBn_9aN5JJH0FoCyJfeiRcf60Mu_MPyTOH-JGTjUIM53IL_5CPDc2UyKFZQ4-m7OGd8YIGx5GEMxzHYt_p21p4OBvjtDsu18\">Google News</a> | <a href=\"https://www.digit.in/news/science-and-technology/ai-can-now-design-viruses-that-do-not-exist-in-nature-here-is-why-scientists-are-excited.html/amp\">Digit.in</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260808.mp3",
+    "size": 4341549,
+    "guid": "ia-au-carre-2026-08-08",
+    "duration": "00:15:00"
   }
 ]
