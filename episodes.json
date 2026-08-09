@@ -308,5 +308,15 @@
     "size": 4341549,
     "guid": "ia-au-carre-2026-08-08",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 32,
+    "date": "2026-08-09T08:30:00",
+    "title": "IA au Carré #32 — 09/08/2026",
+    "description": "Au programme : musique et IA sur Spotify, robots et géopolitique, questions éthiques sur l'IA.\n\n📰 Sources : <a href=\"https://www.qoo10.co.id/en/tech/138696/south-korea-ai-song-copyright-human-creators\">Qoo10</a> | <a href=\"https://t.co/GhAfKxwh9G\">YC Paper Club</a> | <a href=\"https://minutemirror.com.pk/america-vs-china-the-ai-battle-to-own-the-future-607930\">Minute Mirror</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260809.mp3",
+    "size": 4679229,
+    "guid": "ia-au-carre-2026-08-09",
+    "duration": "00:15:00"
   }
 ]
