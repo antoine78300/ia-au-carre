@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sat, 08 Aug 2026 06:35:20 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:35:18 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #9 — 09/08/2026</title>
+      <description><![CDATA[On the program: AI music remixes on Spotify, robotics developments, geopolitical tensions.
+
+📰 Sources : <a href="https://www.qoo10.co.id/en/tech/138696/south-korea-ai-song-copyright-human-creators">Qoo10</a> | <a href="https://t.co/GhAfKxwh9G">YC Paper Club</a> | <a href="https://minutemirror.com.pk/america-vs-china-the-ai-battle-to-own-the-future-607930">Minute Mirror</a>]]></description>
+      <pubDate>Sun, 09 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260809.mp3" length="5156157" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-09</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #8 — 08/08/2026</title>
       <description><![CDATA[On the agenda: Stanford's virtual biotech with 37,000 AI agents, AI-designed viruses, and robotics breakthroughs.
