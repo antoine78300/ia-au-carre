@@ -318,5 +318,15 @@
     "size": 4679229,
     "guid": "ia-au-carre-2026-08-09",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 33,
+    "date": "2026-08-10T08:30:00",
+    "title": "IA au Carré #33 — 10/08/2026",
+    "description": "Au programme : IA incontrôlable, piratage par modèle d'IA, incidents de sécurité chez les géants du secteur.\n\n📰 Sources : <a href=\"https://eurasiabusinessnews.com/2026/08/08/openai-slows-astra-ai-model-development-after-cybersecurity-warning\">Eurasia Business News</a> | <a href=\"https://memeburn.com/meta-ai-model-hacked-another-company-during-security-testing\">Memeburn</a> | <a href=\"https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\">CNBC</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260810.mp3",
+    "size": 4865421,
+    "guid": "ia-au-carre-2026-08-10",
+    "duration": "00:15:00"
   }
 ]
