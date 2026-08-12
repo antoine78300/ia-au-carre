@@ -108,5 +108,15 @@
     "size": 5339757,
     "guid": "ai-square-2026-08-11",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 12,
+    "date": "2026-08-12T08:30:00",
+    "title": "AI Square #12 — 12/08/2026",
+    "description": "On the agenda: AI agent security and governance, autonomous systems in enterprises, Nvidia's open-source models.\n\n📰 Sources : <a href=\"https://theaiinsider.tech/2026/08/11/zenity-closes-125m-to-secure-the-era-of-1-billion-ai-agents\">The AI Insider</a> | <a href=\"https://www.resultsense.com/news/2026-08-11-barclays-agentic-ai-kill-switches\">ResultSense</a> | <a href=\"https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/does-guidewire-softwares-gwre-new-agentic-framework-reshape/amp\">Simply Wall St News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260812.mp3",
+    "size": 5018205,
+    "guid": "ai-square-2026-08-12",
+    "duration": "00:15:00"
   }
 ]
