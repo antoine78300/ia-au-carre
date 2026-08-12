@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 11 Aug 2026 06:32:53 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:32:26 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #35 — 12/08/2026</title>
+      <description><![CDATA[Au programme : sécurité des agents IA autonomes, levée de 125M$ pour Zenity, gouvernance et contrôle des systèmes IA en entreprise.
+
+📰 Sources : <a href="https://theaiinsider.tech/2026/08/11/zenity-closes-125m-to-secure-the-era-of-1-billion-ai-agents">The AI Insider</a> | <a href="https://www.resultsense.com/news/2026-08-11-barclays-agentic-ai-kill-switches">ResultSense</a> | <a href="https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/does-guidewire-softwares-gwre-new-agentic-framework-reshape/amp">Simply Wall St News</a>]]></description>
+      <pubDate>Wed, 12 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260812.mp3" length="4588941" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-12</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #34 — 11/08/2026</title>
       <description><![CDATA[Au programme : Meta relance l'open-source, agents IA défaillants, gouvernance de l'IA urgente.
