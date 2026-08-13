@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 12 Aug 2026 06:32:26 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 06:32:54 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #36 — 13/08/2026</title>
+      <description><![CDATA[Au programme : agents IA autonomes attaquant des infrastructures nucléaires, traçabilité des textes générés par IA, contrôle des décisions des agents IA.
+
+📰 Sources : <a href="https://www.exchangewire.com/blog/2026/08/12/why-true-agentic-commerce-relies-on-responsible-guardrails">ExchangeWire</a> | <a href="https://www.reversinglabs.com/blog/owasp-top-10-for-llm-apps-excessive-agency">Reversing Labs</a> | <a href="https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/">TechCrunch</a>]]></description>
+      <pubDate>Thu, 13 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260813.mp3" length="5316141" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-13</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #35 — 12/08/2026</title>
       <description><![CDATA[Au programme : sécurité des agents IA autonomes, levée de 125M$ pour Zenity, gouvernance et contrôle des systèmes IA en entreprise.
