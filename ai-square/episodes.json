@@ -118,5 +118,15 @@
     "size": 5018205,
     "guid": "ai-square-2026-08-12",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 13,
+    "date": "2026-08-13T08:30:00",
+    "title": "AI Square #13 — 13/08/2026",
+    "description": "On the program: AI agents attacking nuclear infrastructure, detecting AI-generated text, controlling autonomous AI systems.\n\n📰 Sources : <a href=\"https://www.exchangewire.com/blog/2026/08/12/why-true-agentic-commerce-relies-on-responsible-guardrails\">ExchangeWire</a> | <a href=\"https://www.reversinglabs.com/blog/owasp-top-10-for-llm-apps-excessive-agency\">Reversing Labs</a> | <a href=\"https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/\">TechCrunch</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260813.mp3",
+    "size": 5680461,
+    "guid": "ai-square-2026-08-13",
+    "duration": "00:15:00"
   }
 ]
