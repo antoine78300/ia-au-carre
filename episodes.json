@@ -358,5 +358,15 @@
     "size": 5316141,
     "guid": "ia-au-carre-2026-08-13",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 37,
+    "date": "2026-08-14T08:30:00",
+    "title": "IA au Carré #37 — 14/08/2026",
+    "description": "Au programme : course aux agents IA, lancement du Gemini 3.7 Flash de Google, compétition accélérée entre géants de l'IA.\n\n📰 Sources : <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash\">Google Blog</a> | <a href=\"https://theaiinsider.tech/2026/08/13/obsidian-closes-85m-series-d-to-scale-ai-agent-security-growth\">The AI Insider</a> | <a href=\"https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges\">VentureBeat</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260814.mp3",
+    "size": 4385469,
+    "guid": "ia-au-carre-2026-08-14",
+    "duration": "00:15:00"
   }
 ]

@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 13 Aug 2026 06:32:54 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:32:31 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #37 — 14/08/2026</title>
+      <description><![CDATA[Au programme : course aux agents IA, lancement du Gemini 3.7 Flash de Google, compétition accélérée entre géants de l'IA.
+
+📰 Sources : <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash">Google Blog</a> | <a href="https://theaiinsider.tech/2026/08/13/obsidian-closes-85m-series-d-to-scale-ai-agent-security-growth">The AI Insider</a> | <a href="https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges">VentureBeat</a>]]></description>
+      <pubDate>Fri, 14 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260814.mp3" length="4385469" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-14</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #36 — 13/08/2026</title>
       <description><![CDATA[Au programme : agents IA autonomes attaquant des infrastructures nucléaires, traçabilité des textes générés par IA, contrôle des décisions des agents IA.
