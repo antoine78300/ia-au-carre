@@ -128,5 +128,15 @@
     "size": 5680461,
     "guid": "ai-square-2026-08-13",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 14,
+    "date": "2026-08-14T08:30:00",
+    "title": "AI Square #14 — 14/08/2026",
+    "description": "On the programme: AI agents competition, Gemini 3.7 Flash release, security concerns in the industry.\n\n📰 Sources : <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash\">Google Blog</a> | <a href=\"https://theaiinsider.tech/2026/08/13/obsidian-closes-85m-series-d-to-scale-ai-agent-security-growth\">The AI Insider</a> | <a href=\"https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges\">VentureBeat</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260814.mp3",
+    "size": 4730637,
+    "guid": "ai-square-2026-08-14",
+    "duration": "00:15:00"
   }
 ]
