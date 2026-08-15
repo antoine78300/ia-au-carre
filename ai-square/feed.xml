@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 14 Aug 2026 06:35:08 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:35:27 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #15 — 15/08/2026</title>
+      <description><![CDATA[On the program: AI-generated music, virtual AI bands, mainstream artificial intelligence breakthroughs.
+
+📰 Sources : <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah / Anadolu Agency</a> | <a href="https://www.newstalkflorida.com/featured/ai-architects-creating-new-culture">NewsTalk Florida</a> | <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah</a>]]></description>
+      <pubDate>Sat, 15 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260815.mp3" length="5217789" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-15</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #14 — 14/08/2026</title>
       <description><![CDATA[On the programme: AI agents competition, Gemini 3.7 Flash release, security concerns in the industry.
