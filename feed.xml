@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 14 Aug 2026 06:32:31 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:32:39 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #38 — 15/08/2026</title>
+      <description><![CDATA[Au programme : musique générée par IA, artistes virtuels, impact sur l'industrie musicale.
+
+📰 Sources : <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah / Anadolu Agency</a> | <a href="https://www.newstalkflorida.com/featured/ai-architects-creating-new-culture">NewsTalk Florida</a> | <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah</a>]]></description>
+      <pubDate>Sat, 15 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260815.mp3" length="4674909" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-15</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #37 — 14/08/2026</title>
       <description><![CDATA[Au programme : course aux agents IA, lancement du Gemini 3.7 Flash de Google, compétition accélérée entre géants de l'IA.
