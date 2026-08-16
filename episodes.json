@@ -378,5 +378,15 @@
     "size": 4674909,
     "guid": "ia-au-carre-2026-08-15",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 39,
+    "date": "2026-08-16T08:30:00",
+    "title": "IA au Carré #39 — 16/08/2026",
+    "description": "Au programme : la sagesse artificielle, les capacités des LLM, la distinction entre intelligence et sagesse.\n\n📰 Sources : <a href=\"https://www.forbes.com/sites/lanceeliot/2026/08/15/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/\">Forbes</a> | <a href=\"https://www.tipranks.com/news/private-companies/dyna-robotics-weekly-recap-4\">TipRanks</a> | <a href=\"https://retractionwatch.com/2026/08/15/weekend-reads-jason-arday-research-gold-ai-openai-math-breakthroughs\">Retraction Watch</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260816.mp3",
+    "size": 4373661,
+    "guid": "ia-au-carre-2026-08-16",
+    "duration": "00:15:00"
   }
 ]
