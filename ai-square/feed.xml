@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sat, 15 Aug 2026 06:35:27 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:35:06 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #16 — 16/08/2026</title>
+      <description><![CDATA[On the program: AI wisdom and its limitations, mental health applications of AI, insights from recent AI research.
+
+📰 Sources : <a href="https://www.forbes.com/sites/lanceeliot/2026/08/15/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/">Forbes</a> | <a href="https://www.tipranks.com/news/private-companies/dyna-robotics-weekly-recap-4">TipRanks</a> | <a href="https://retractionwatch.com/2026/08/15/weekend-reads-jason-arday-research-gold-ai-openai-math-breakthroughs">Retraction Watch</a>]]></description>
+      <pubDate>Sun, 16 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260816.mp3" length="4573245" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-16</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #15 — 15/08/2026</title>
       <description><![CDATA[On the program: AI-generated music, virtual AI bands, mainstream artificial intelligence breakthroughs.
