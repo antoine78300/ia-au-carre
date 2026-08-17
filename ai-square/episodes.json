@@ -158,5 +158,15 @@
     "size": 4573245,
     "guid": "ai-square-2026-08-16",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 17,
+    "date": "2026-08-17T08:30:00",
+    "title": "AI Square #17 — 17/08/2026",
+    "description": "On the program: AI agent security breaches, safety frameworks, and a $7 billion acquisition reshaping the industry.\n\n📰 Sources : <a href=\"https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy\">InfoQ</a> | <a href=\"https://www.inc.com/chris-morris/business-owners-have-a-new-security-problem-ai-agents-with-keys-to-company-secrets/91390975\">Inc.</a> | <a href=\"https://securityboulevard.com/2026/08/the-owasp-llm-top-10-was-the-warm-up-what-comes-next\">Security Boulevard</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260817.mp3",
+    "size": 5141613,
+    "guid": "ai-square-2026-08-17",
+    "duration": "00:15:00"
   }
 ]
