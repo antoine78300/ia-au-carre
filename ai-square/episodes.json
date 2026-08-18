@@ -168,5 +168,15 @@
     "size": 5141613,
     "guid": "ai-square-2026-08-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 18,
+    "date": "2026-08-18T08:30:00",
+    "title": "AI Square #18 — 18/08/2026",
+    "description": "On the program: AI agents in pharma R&D, TCS AgentHub launch, controlling AI in enterprise workflows.\n\n📰 Sources : <a href=\"https://scanx.trade/stock-market-news/companies/tcs-launches-agentic-ai-platform-transform-drug-development/48493448\">scanx.trade</a> | <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/legal-departments-move-from-testing-ai-to-governing-it/\">PYMNTS.com</a> | <a href=\"https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer\">VentureBeat</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260818.mp3",
+    "size": 4589373,
+    "guid": "ai-square-2026-08-18",
+    "duration": "00:15:00"
   }
 ]

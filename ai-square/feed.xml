@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 17 Aug 2026 06:35:29 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:35:09 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #18 — 18/08/2026</title>
+      <description><![CDATA[On the program: AI agents in pharma R&D, TCS AgentHub launch, controlling AI in enterprise workflows.
+
+📰 Sources : <a href="https://scanx.trade/stock-market-news/companies/tcs-launches-agentic-ai-platform-transform-drug-development/48493448">scanx.trade</a> | <a href="https://www.pymnts.com/news/artificial-intelligence/2026/legal-departments-move-from-testing-ai-to-governing-it/">PYMNTS.com</a> | <a href="https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer">VentureBeat</a>]]></description>
+      <pubDate>Tue, 18 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260818.mp3" length="4589373" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-18</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #17 — 17/08/2026</title>
       <description><![CDATA[On the program: AI agent security breaches, safety frameworks, and a $7 billion acquisition reshaping the industry.
