@@ -398,5 +398,15 @@
     "size": 4744173,
     "guid": "ia-au-carre-2026-08-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 41,
+    "date": "2026-08-18T08:30:00",
+    "title": "IA au Carré #41 — 18/08/2026",
+    "description": "Au programme : agents IA pharmaceutiques, contrôle de l'IA, TCS AgentHub.\n\n📰 Sources : <a href=\"https://scanx.trade/stock-market-news/companies/tcs-launches-agentic-ai-platform-transform-drug-development/48493448\">scanx.trade</a> | <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/legal-departments-move-from-testing-ai-to-governing-it/\">PYMNTS.com</a> | <a href=\"https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer\">VentureBeat</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260818.mp3",
+    "size": 4373517,
+    "guid": "ia-au-carre-2026-08-18",
+    "duration": "00:15:00"
   }
 ]
