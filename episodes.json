@@ -408,5 +408,15 @@
     "size": 4373517,
     "guid": "ia-au-carre-2026-08-18",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 42,
+    "date": "2026-08-19T08:30:00",
+    "title": "IA au Carré #42 — 19/08/2026",
+    "description": "Au programme : ralentissement d'OpenAI, sécurité des modèles d'IA, enjeux de performance.\n\n📰 Sources : <a href=\"https://news.sap.com/2026/08/with-agentic-ai-abap-takes-evolution-to-the-next-level\">SAP News</a> | <a href=\"https://forkast.news/the-package-registry-layer-how-supply-chain-attacks-are-targeting-agent-infrastructure\">Forkast News</a> | <a href=\"https://www.snowflake.com/en/news/press-releases/snowflake-unlocks-better-ai-economics-dynamic-model-routing\">Snowflake</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260819.mp3",
+    "size": 4649853,
+    "guid": "ia-au-carre-2026-08-19",
+    "duration": "00:15:00"
   }
 ]

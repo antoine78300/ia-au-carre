@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 18 Aug 2026 06:32:32 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:33:54 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #42 — 19/08/2026</title>
+      <description><![CDATA[Au programme : ralentissement d'OpenAI, sécurité des modèles d'IA, enjeux de performance.
+
+📰 Sources : <a href="https://news.sap.com/2026/08/with-agentic-ai-abap-takes-evolution-to-the-next-level">SAP News</a> | <a href="https://forkast.news/the-package-registry-layer-how-supply-chain-attacks-are-targeting-agent-infrastructure">Forkast News</a> | <a href="https://www.snowflake.com/en/news/press-releases/snowflake-unlocks-better-ai-economics-dynamic-model-routing">Snowflake</a>]]></description>
+      <pubDate>Wed, 19 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260819.mp3" length="4649853" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-19</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #41 — 18/08/2026</title>
       <description><![CDATA[Au programme : agents IA pharmaceutiques, contrôle de l'IA, TCS AgentHub.
