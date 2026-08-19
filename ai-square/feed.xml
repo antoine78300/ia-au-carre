@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Tue, 18 Aug 2026 06:35:09 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:36:36 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #19 — 19/08/2026</title>
+      <description><![CDATA[On the program: OpenAI pauses advanced model training, AI security concerns, and performance breakthroughs.
+
+📰 Sources : <a href="https://news.sap.com/2026/08/with-agentic-ai-abap-takes-evolution-to-the-next-level">SAP News</a> | <a href="https://forkast.news/the-package-registry-layer-how-supply-chain-attacks-are-targeting-agent-infrastructure">Forkast News</a> | <a href="https://www.snowflake.com/en/news/press-releases/snowflake-unlocks-better-ai-economics-dynamic-model-routing">Snowflake</a>]]></description>
+      <pubDate>Wed, 19 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260819.mp3" length="5236653" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-19</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #18 — 18/08/2026</title>
       <description><![CDATA[On the program: AI agents in pharma R&D, TCS AgentHub launch, controlling AI in enterprise workflows.

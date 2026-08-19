@@ -178,5 +178,15 @@
     "size": 4589373,
     "guid": "ai-square-2026-08-18",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 19,
+    "date": "2026-08-19T08:30:00",
+    "title": "AI Square #19 — 19/08/2026",
+    "description": "On the program: OpenAI pauses advanced model training, AI security concerns, and performance breakthroughs.\n\n📰 Sources : <a href=\"https://news.sap.com/2026/08/with-agentic-ai-abap-takes-evolution-to-the-next-level\">SAP News</a> | <a href=\"https://forkast.news/the-package-registry-layer-how-supply-chain-attacks-are-targeting-agent-infrastructure\">Forkast News</a> | <a href=\"https://www.snowflake.com/en/news/press-releases/snowflake-unlocks-better-ai-economics-dynamic-model-routing\">Snowflake</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260819.mp3",
+    "size": 5236653,
+    "guid": "ai-square-2026-08-19",
+    "duration": "00:15:00"
   }
 ]
