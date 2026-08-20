@@ -188,5 +188,15 @@
     "size": 5236653,
     "guid": "ai-square-2026-08-19",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 20,
+    "date": "2026-08-20T08:30:00",
+    "title": "AI Square #20 — 20/08/2026",
+    "description": "On the program: AI agent security, autonomous AI trustworthiness, game-changing tech acquisitions.\n\n📰 Sources : <a href=\"https://techxplore.com/news/2026-08-ai-agents.html\">TechXplore</a> | <a href=\"https://viterbischool.usc.edu/news/2026/08/giving-ai-agents-the-keys-usc-engineers-develop-tools-to-audit-and-monitor-ai-agents\">USC Viterbi School</a> | <a href=\"https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal\">SiliconANGLE</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260820.mp3",
+    "size": 5185389,
+    "guid": "ai-square-2026-08-20",
+    "duration": "00:15:00"
   }
 ]
