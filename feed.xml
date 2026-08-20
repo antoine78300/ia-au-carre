@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 19 Aug 2026 06:33:54 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:32:45 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #43 — 20/08/2026</title>
+      <description><![CDATA[Au programme : sécurité des agents IA, manipulation des systèmes autonomes, fiabilité des IA conversationnelles.
+
+📰 Sources : <a href="https://techxplore.com/news/2026-08-ai-agents.html">TechXplore</a> | <a href="https://viterbischool.usc.edu/news/2026/08/giving-ai-agents-the-keys-usc-engineers-develop-tools-to-audit-and-monitor-ai-agents">USC Viterbi School</a> | <a href="https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal">SiliconANGLE</a>]]></description>
+      <pubDate>Thu, 20 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260820.mp3" length="4730925" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-20</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #42 — 19/08/2026</title>
       <description><![CDATA[Au programme : ralentissement d'OpenAI, sécurité des modèles d'IA, enjeux de performance.

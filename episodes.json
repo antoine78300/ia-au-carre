@@ -418,5 +418,15 @@
     "size": 4649853,
     "guid": "ia-au-carre-2026-08-19",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 43,
+    "date": "2026-08-20T08:30:00",
+    "title": "IA au Carré #43 — 20/08/2026",
+    "description": "Au programme : sécurité des agents IA, manipulation des systèmes autonomes, fiabilité des IA conversationnelles.\n\n📰 Sources : <a href=\"https://techxplore.com/news/2026-08-ai-agents.html\">TechXplore</a> | <a href=\"https://viterbischool.usc.edu/news/2026/08/giving-ai-agents-the-keys-usc-engineers-develop-tools-to-audit-and-monitor-ai-agents\">USC Viterbi School</a> | <a href=\"https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal\">SiliconANGLE</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260820.mp3",
+    "size": 4730925,
+    "guid": "ia-au-carre-2026-08-20",
+    "duration": "00:15:00"
   }
 ]
