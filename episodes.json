@@ -428,5 +428,15 @@
     "size": 4730925,
     "guid": "ia-au-carre-2026-08-20",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 44,
+    "date": "2026-08-21T08:30:00",
+    "title": "IA au Carré #44 — 21/08/2026",
+    "description": "Au programme : sécurité des agents IA, routage de modèles, faille d'exfiltration de données chez Grok.\n\n📰 Sources : <a href=\"https://www.digitalinformationworld.com/2026/08/how-attackers-persuade-ai-agents-to-.html\">Digital Information World</a> | <a href=\"https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/\">Ars Technica</a> | <a href=\"https://www.thestack.technology/runtime-open-season-for-ai-routing-how-tfms-tackle-structured-data-github-ddosd-itself\">The Stack</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260821.mp3",
+    "size": 4067373,
+    "guid": "ia-au-carre-2026-08-21",
+    "duration": "00:15:00"
   }
 ]
