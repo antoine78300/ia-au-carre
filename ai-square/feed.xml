@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 20 Aug 2026 06:35:30 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:35:19 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #21 — 21/08/2026</title>
+      <description><![CDATA[On the program: AI agent security, model routing, Grok vulnerability.
+
+📰 Sources : <a href="https://www.digitalinformationworld.com/2026/08/how-attackers-persuade-ai-agents-to-.html">Digital Information World</a> | <a href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/">Ars Technica</a> | <a href="https://www.thestack.technology/runtime-open-season-for-ai-routing-how-tfms-tackle-structured-data-github-ddosd-itself">The Stack</a>]]></description>
+      <pubDate>Fri, 21 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260821.mp3" length="4444509" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-21</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #20 — 20/08/2026</title>
       <description><![CDATA[On the program: AI agent security, autonomous AI trustworthiness, game-changing tech acquisitions.
