@@ -208,5 +208,15 @@
     "size": 4444509,
     "guid": "ai-square-2026-08-21",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 22,
+    "date": "2026-08-22T08:30:00",
+    "title": "AI Square #22 — 22/08/2026",
+    "description": "On the program: AI-generated music labeling, robots, and thought-provoking questions.\n\n📰 Sources : <a href=\"https://routenote.com/blog/apple-music-made-with-ai-labels\">RouteNote</a> | <a href=\"https://eletric-vehicles.com/nio/nio-autonomous-driving-chief-founds-embodied-robotics-company\">Electric Vehicles</a> | <a href=\"https://routenote.com/blog/apple-music-made-with-ai-labels\">RouteNote Blog</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260822.mp3",
+    "size": 3937341,
+    "guid": "ai-square-2026-08-22",
+    "duration": "00:15:00"
   }
 ]

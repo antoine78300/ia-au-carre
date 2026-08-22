@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 21 Aug 2026 06:35:19 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:34:37 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #22 — 22/08/2026</title>
+      <description><![CDATA[On the program: AI-generated music labeling, robots, and thought-provoking questions.
+
+📰 Sources : <a href="https://routenote.com/blog/apple-music-made-with-ai-labels">RouteNote</a> | <a href="https://eletric-vehicles.com/nio/nio-autonomous-driving-chief-founds-embodied-robotics-company">Electric Vehicles</a> | <a href="https://routenote.com/blog/apple-music-made-with-ai-labels">RouteNote Blog</a>]]></description>
+      <pubDate>Sat, 22 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260822.mp3" length="3937341" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-22</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #21 — 21/08/2026</title>
       <description><![CDATA[On the program: AI agent security, model routing, Grok vulnerability.
