@@ -218,5 +218,15 @@
     "size": 3937341,
     "guid": "ai-square-2026-08-22",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 23,
+    "date": "2026-08-23T08:30:00",
+    "title": "AI Square #23 — 23/08/2026",
+    "description": "On the program: humanoid robots playing soccer, AI-powered surveillance glasses, justice system challenges with AI.\n\n📰 Sources : <a href=\"https://www.bignewsnetwork.com/news/279257612/china-embodied-ai-enters-critical-phase-for-large-scale-application-experts\">Big News Network</a> | <a href=\"https://www.cbsnews.com/newyork/video/metas-ai-glasses-spark-privacy-concerns/\">CBS News</a> | <a href=\"https://www.latimes.com/california/story/2026-08-22/ai-led-to-mistakes-in-nevada-county-criminal-cases-should-d-a-be-sanctioned\">Los Angeles Times</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260823.mp3",
+    "size": 4516509,
+    "guid": "ai-square-2026-08-23",
+    "duration": "00:15:00"
   }
 ]
