@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 22 Aug 2026 06:32:21 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:32:32 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #46 — 23/08/2026</title>
+      <description><![CDATA[Au programme : robots humanoïdes jouant au football, lunettes espionnes, justice et IA.
+
+📰 Sources : <a href="https://www.bignewsnetwork.com/news/279257612/china-embodied-ai-enters-critical-phase-for-large-scale-application-experts">Big News Network</a> | <a href="https://www.cbsnews.com/newyork/video/metas-ai-glasses-spark-privacy-concerns/">CBS News</a> | <a href="https://www.latimes.com/california/story/2026-08-22/ai-led-to-mistakes-in-nevada-county-criminal-cases-should-d-a-be-sanctioned">Los Angeles Times</a>]]></description>
+      <pubDate>Sun, 23 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260823.mp3" length="4256733" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-23</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #45 — 22/08/2026</title>
       <description><![CDATA[Au programme : étiquetage de la musique générée par IA chez Apple Music, actualités sur les robots et l'IA générative.
