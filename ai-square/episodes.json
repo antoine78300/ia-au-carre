@@ -228,5 +228,15 @@
     "size": 4516509,
     "guid": "ai-square-2026-08-23",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 24,
+    "date": "2026-08-24T08:30:00",
+    "title": "AI Square #24 — 24/08/2026",
+    "description": "On the program: tokens as currency, OpenAI's strategic shift, AI agents revolutionizing healthcare.\n\n📰 Sources : <a href=\"https://thesequence.substack.com/p/the-sequence-radar-issue-919-last\">The Sequence</a> | <a href=\"https://www.scworld.com/risk-advisory/when-an-agent-fails-incident-response-for-ai-initiated-access-events\">SC Media</a> | <a href=\"https://www.moomoo.com/community/feed/early-morning-report-nvidia-to-raise-prices-on-ai-servers-117147218673670\">Moomoo</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260824.mp3",
+    "size": 4471869,
+    "guid": "ai-square-2026-08-24",
+    "duration": "00:15:00"
   }
 ]
