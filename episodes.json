@@ -458,5 +458,15 @@
     "size": 4256733,
     "guid": "ia-au-carre-2026-08-23",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 47,
+    "date": "2026-08-24T08:30:00",
+    "title": "IA au Carré #47 — 24/08/2026",
+    "description": "Au programme : Stripe rachète OpenRouter, OpenAI met pause sur ses projets, agents IA en chirurgie.\n\n📰 Sources : <a href=\"https://thesequence.substack.com/p/the-sequence-radar-issue-919-last\">The Sequence</a> | <a href=\"https://www.scworld.com/risk-advisory/when-an-agent-fails-incident-response-for-ai-initiated-access-events\">SC Media</a> | <a href=\"https://www.moomoo.com/community/feed/early-morning-report-nvidia-to-raise-prices-on-ai-servers-117147218673670\">Moomoo</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260824.mp3",
+    "size": 4149885,
+    "guid": "ia-au-carre-2026-08-24",
+    "duration": "00:15:00"
   }
 ]
