@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 24 Aug 2026 06:32:28 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:32:57 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #48 — 25/08/2026</title>
+      <description><![CDATA[Au programme : régulation de l'IA agentique, puces révolutionnaires, risques de sécurité du code, coûts explosifs de l'IA.
+
+📰 Sources : <a href="https://www.techtimes.com/articles/325297/20260824/singapore-abandons-voluntary-ai-governance-binding-law-end-social-media-self-declaration.htm">TechTimes</a> | <a href="https://www.techbuzz.ai/articles/nvidia-groq-3-lpx-hits-production-for-agentic-ai-speed">The Tech Buzz</a> | <a href="https://backendnews.net/gartner-ai-agent-workflow-costs-to-rise-fivefold">Back End News</a>]]></description>
+      <pubDate>Tue, 25 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260825.mp3" length="4930653" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-25</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #47 — 24/08/2026</title>
       <description><![CDATA[Au programme : Stripe rachète OpenRouter, OpenAI met pause sur ses projets, agents IA en chirurgie.

@@ -468,5 +468,15 @@
     "size": 4149885,
     "guid": "ia-au-carre-2026-08-24",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 48,
+    "date": "2026-08-25T08:30:00",
+    "title": "IA au Carré #48 — 25/08/2026",
+    "description": "Au programme : régulation de l'IA agentique, puces révolutionnaires, risques de sécurité du code, coûts explosifs de l'IA.\n\n📰 Sources : <a href=\"https://www.techtimes.com/articles/325297/20260824/singapore-abandons-voluntary-ai-governance-binding-law-end-social-media-self-declaration.htm\">TechTimes</a> | <a href=\"https://www.techbuzz.ai/articles/nvidia-groq-3-lpx-hits-production-for-agentic-ai-speed\">The Tech Buzz</a> | <a href=\"https://backendnews.net/gartner-ai-agent-workflow-costs-to-rise-fivefold\">Back End News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260825.mp3",
+    "size": 4930653,
+    "guid": "ia-au-carre-2026-08-25",
+    "duration": "00:15:00"
   }
 ]
