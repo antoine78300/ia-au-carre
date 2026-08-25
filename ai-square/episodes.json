@@ -238,5 +238,15 @@
     "size": 4471869,
     "guid": "ai-square-2026-08-24",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 25,
+    "date": "2026-08-25T08:30:00",
+    "title": "AI Square #25 — 25/08/2026",
+    "description": "On the agenda: AI regulation shifts, breakthrough chips, hidden code risks, agentic AI costs surge.\n\n📰 Sources : <a href=\"https://www.techtimes.com/articles/325297/20260824/singapore-abandons-voluntary-ai-governance-binding-law-end-social-media-self-declaration.htm\">TechTimes</a> | <a href=\"https://www.techbuzz.ai/articles/nvidia-groq-3-lpx-hits-production-for-agentic-ai-speed\">The Tech Buzz</a> | <a href=\"https://backendnews.net/gartner-ai-agent-workflow-costs-to-rise-fivefold\">Back End News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260825.mp3",
+    "size": 5525229,
+    "guid": "ai-square-2026-08-25",
+    "duration": "00:15:00"
   }
 ]
