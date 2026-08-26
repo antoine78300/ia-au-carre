@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 25 Aug 2026 06:32:57 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:32:32 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #49 — 26/08/2026</title>
+      <description><![CDATA[Au programme : acquisitions dans la santé, failles de sécurité IA, modèle IBM pour les entreprises.
+
+📰 Sources : <a href="https://hitconsultant.net/2026/08/25/wellstack-acquires-delorean-ai/">HIT Consultant</a> | <a href="https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw">Dark Reading</a> | <a href="https://research.ibm.com/blog/introducing-granite-4-2">IBM Research</a>]]></description>
+      <pubDate>Wed, 26 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260826.mp3" length="4487421" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-26</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #48 — 25/08/2026</title>
       <description><![CDATA[Au programme : régulation de l'IA agentique, puces révolutionnaires, risques de sécurité du code, coûts explosifs de l'IA.
