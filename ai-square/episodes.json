@@ -248,5 +248,15 @@
     "size": 5525229,
     "guid": "ai-square-2026-08-25",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 26,
+    "date": "2026-08-26T08:30:00",
+    "title": "AI Square #26 — 26/08/2026",
+    "description": "On the program: AI acquisitions reshaping healthcare, critical security vulnerabilities, IBM's new enterprise model.\n\n📰 Sources : <a href=\"https://hitconsultant.net/2026/08/25/wellstack-acquires-delorean-ai/\">HIT Consultant</a> | <a href=\"https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw\">Dark Reading</a> | <a href=\"https://research.ibm.com/blog/introducing-granite-4-2\">IBM Research</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260826.mp3",
+    "size": 4942893,
+    "guid": "ai-square-2026-08-26",
+    "duration": "00:15:00"
   }
 ]
