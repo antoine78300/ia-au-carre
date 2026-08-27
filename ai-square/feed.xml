@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 26 Aug 2026 06:35:13 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:34:57 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #27 — 27/08/2026</title>
+      <description><![CDATA[On programme : unauthorized AI tools in enterprises, Meta's new affordable AI agent, self-improving AI models.
+
+📰 Sources : <a href="https://www.prnewswire.com/in/news-releases/g-p-delivers-compliant-global-workforce-intelligence-to-enterprise-ai-tools-302859982.html">PR Newswire</a> | <a href="https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/">Infosecurity Magazine</a> | <a href="https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription">The Next Web</a>]]></description>
+      <pubDate>Thu, 27 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260827.mp3" length="4612845" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-27</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #26 — 26/08/2026</title>
       <description><![CDATA[On the program: AI acquisitions reshaping healthcare, critical security vulnerabilities, IBM's new enterprise model.

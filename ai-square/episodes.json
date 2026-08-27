@@ -258,5 +258,15 @@
     "size": 4942893,
     "guid": "ai-square-2026-08-26",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 27,
+    "date": "2026-08-27T08:30:00",
+    "title": "AI Square #27 — 27/08/2026",
+    "description": "On programme : unauthorized AI tools in enterprises, Meta's new affordable AI agent, self-improving AI models.\n\n📰 Sources : <a href=\"https://www.prnewswire.com/in/news-releases/g-p-delivers-compliant-global-workforce-intelligence-to-enterprise-ai-tools-302859982.html\">PR Newswire</a> | <a href=\"https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/\">Infosecurity Magazine</a> | <a href=\"https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription\">The Next Web</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260827.mp3",
+    "size": 4612845,
+    "guid": "ai-square-2026-08-27",
+    "duration": "00:15:00"
   }
 ]
