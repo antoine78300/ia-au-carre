@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 26 Aug 2026 06:32:32 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:32:20 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #50 — 27/08/2026</title>
+      <description><![CDATA[Au programme : IA non supervisée en entreprise, agents IA autonomes chez Meta, modèles auto-améliorables.
+
+📰 Sources : <a href="https://www.prnewswire.com/in/news-releases/g-p-delivers-compliant-global-workforce-intelligence-to-enterprise-ai-tools-302859982.html">PR Newswire</a> | <a href="https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/">Infosecurity Magazine</a> | <a href="https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription">The Next Web</a>]]></description>
+      <pubDate>Thu, 27 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260827.mp3" length="4220013" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-27</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #49 — 26/08/2026</title>
       <description><![CDATA[Au programme : acquisitions dans la santé, failles de sécurité IA, modèle IBM pour les entreprises.

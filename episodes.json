@@ -488,5 +488,15 @@
     "size": 4487421,
     "guid": "ia-au-carre-2026-08-26",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 50,
+    "date": "2026-08-27T08:30:00",
+    "title": "IA au Carré #50 — 27/08/2026",
+    "description": "Au programme : IA non supervisée en entreprise, agents IA autonomes chez Meta, modèles auto-améliorables.\n\n📰 Sources : <a href=\"https://www.prnewswire.com/in/news-releases/g-p-delivers-compliant-global-workforce-intelligence-to-enterprise-ai-tools-302859982.html\">PR Newswire</a> | <a href=\"https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/\">Infosecurity Magazine</a> | <a href=\"https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription\">The Next Web</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260827.mp3",
+    "size": 4220013,
+    "guid": "ia-au-carre-2026-08-27",
+    "duration": "00:15:00"
   }
 ]
