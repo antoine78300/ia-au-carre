@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 27 Aug 2026 06:32:20 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:32:37 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #51 — 28/08/2026</title>
+      <description><![CDATA[Au programme : agents IA qui trichent lors de compétitions, auto-amélioration de l'IA, fusion Salesforce-Anthropic.
+
+📰 Sources : <a href="https://macaubusiness.com/industrial-workforce-capacity-gap-being-filled-by-agentic-digital-workers/">Macau Business</a> | <a href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/">Ars Technica</a> | <a href="https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/">SiliconANGLE</a>]]></description>
+      <pubDate>Fri, 28 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260828.mp3" length="4324413" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-28</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #50 — 27/08/2026</title>
       <description><![CDATA[Au programme : IA non supervisée en entreprise, agents IA autonomes chez Meta, modèles auto-améliorables.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #1 — 09/07/2026</title>
-      <description><![CDATA[Au programme : cyberattaques alimentées par l'IA, nouveaux modèles de pointe, IA agentique et ses risques.
-
-📰 Sources : <a href="https://www.forbes.com/sites/davidphelan/2026/07/08/samsung-ceo-outlines-wide-foldable-phones-and-agentic-ai-in-surprise-editorial/">Forbes</a> | <a href="https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/">TechCrunch</a> | <a href="https://www.cnet.com/tech/services-and-software/openai-gpt-5-6-release-sol-terra-luna-government-review-news/">CNET</a>]]></description>
-      <pubDate>Thu, 09 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260709.mp3" length="4157517" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-09</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

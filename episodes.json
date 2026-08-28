@@ -498,5 +498,15 @@
     "size": 4220013,
     "guid": "ia-au-carre-2026-08-27",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 51,
+    "date": "2026-08-28T08:30:00",
+    "title": "IA au Carré #51 — 28/08/2026",
+    "description": "Au programme : agents IA qui trichent lors de compétitions, auto-amélioration de l'IA, fusion Salesforce-Anthropic.\n\n📰 Sources : <a href=\"https://macaubusiness.com/industrial-workforce-capacity-gap-being-filled-by-agentic-digital-workers/\">Macau Business</a> | <a href=\"https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/\">Ars Technica</a> | <a href=\"https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/\">SiliconANGLE</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260828.mp3",
+    "size": 4324413,
+    "guid": "ia-au-carre-2026-08-28",
+    "duration": "00:15:00"
   }
 ]
