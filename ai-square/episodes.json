@@ -268,5 +268,15 @@
     "size": 4612845,
     "guid": "ai-square-2026-08-27",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 28,
+    "date": "2026-08-28T08:30:00",
+    "title": "AI Square #28 — 28/08/2026",
+    "description": "On the program: AI agents cheating in competitions, self-improving models, Salesforce-Anthropic partnership.\n\n📰 Sources : <a href=\"https://macaubusiness.com/industrial-workforce-capacity-gap-being-filled-by-agentic-digital-workers/\">Macau Business</a> | <a href=\"https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/\">Ars Technica</a> | <a href=\"https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/\">SiliconANGLE</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260828.mp3",
+    "size": 4641357,
+    "guid": "ai-square-2026-08-28",
+    "duration": "00:15:00"
   }
 ]
