@@ -508,5 +508,15 @@
     "size": 4324413,
     "guid": "ia-au-carre-2026-08-28",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 52,
+    "date": "2026-08-29T08:30:00",
+    "title": "IA au Carré #52 — 29/08/2026",
+    "description": "Au programme : investissement des majors dans Stability AI, IA et musique, révolution de l'industrie musicale.\n\n📰 Sources : <a href=\"https://korben.info/en/voicebox-clone-voices-locally-without-cloud.html\">Korben</a> | <a href=\"https://en.wowtale.net/2026/08/28/234903\">WOWTALE</a> | <a href=\"https://www.01net.it/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model\">01net.it</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260829.mp3",
+    "size": 4432989,
+    "guid": "ia-au-carre-2026-08-29",
+    "duration": "00:15:00"
   }
 ]
