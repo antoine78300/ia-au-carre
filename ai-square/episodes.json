@@ -278,5 +278,15 @@
     "size": 4641357,
     "guid": "ai-square-2026-08-28",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 29,
+    "date": "2026-08-29T08:30:00",
+    "title": "AI Square #29 — 29/08/2026",
+    "description": "On the program: AI music industry investment, robot developments, voice technology innovations.\n\n📰 Sources : <a href=\"https://korben.info/en/voicebox-clone-voices-locally-without-cloud.html\">Korben</a> | <a href=\"https://en.wowtale.net/2026/08/28/234903\">WOWTALE</a> | <a href=\"https://www.01net.it/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model\">01net.it</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260829.mp3",
+    "size": 4851453,
+    "guid": "ai-square-2026-08-29",
+    "duration": "00:15:00"
   }
 ]
