@@ -518,5 +518,15 @@
     "size": 4432989,
     "guid": "ia-au-carre-2026-08-29",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 53,
+    "date": "2026-08-30T08:30:00",
+    "title": "IA au Carré #53 — 30/08/2026",
+    "description": "Au programme : les limites réelles de l'IA selon Anima Anandkumar, l'actualité tech de la semaine en IA.\n\n📰 Sources : <a href=\"https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html\">Firstpost</a> | <a href=\"https://www.thedailystar.net/news/technology/news/stability-ai-raises-76m-entertainment-groups-back-generative-ai-company-4258126\">The Daily Star</a> | <a href=\"https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html\">Firstpost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260830.mp3",
+    "size": 4661373,
+    "guid": "ia-au-carre-2026-08-30",
+    "duration": "00:15:00"
   }
 ]
