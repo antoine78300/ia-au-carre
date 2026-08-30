@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sat, 29 Aug 2026 06:34:59 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:36:12 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #30 — 30/08/2026</title>
+      <description><![CDATA[On the agenda: AI knowledge limitations, Anima Anandkumar's research on AI capabilities.
+
+📰 Sources : <a href="https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html">Firstpost</a> | <a href="https://www.thedailystar.net/news/technology/news/stability-ai-raises-76m-entertainment-groups-back-generative-ai-company-4258126">The Daily Star</a> | <a href="https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html">Firstpost</a>]]></description>
+      <pubDate>Sun, 30 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260830.mp3" length="4997901" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-08-30</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #29 — 29/08/2026</title>
       <description><![CDATA[On the program: AI music industry investment, robot developments, voice technology innovations.
