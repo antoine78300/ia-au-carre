@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 30 Aug 2026 06:33:03 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:33:00 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #54 — 31/08/2026</title>
+      <description><![CDATA[Au programme : l'acquisition de Hugging Face par NVIDIA, la gouvernance des agents IA, les nouveaux outils d'entraînement des agents.
+
+📰 Sources : <a href="https://startupfortune.com/nvidia-is-closing-in-on-a-12-9-billion-deal-to-buy-hugging-face">Startup Fortune</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a>]]></description>
+      <pubDate>Mon, 31 Aug 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260831.mp3" length="4866861" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-08-31</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #53 — 30/08/2026</title>
       <description><![CDATA[Au programme : les limites réelles de l'IA selon Anima Anandkumar, l'actualité tech de la semaine en IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #4 — 12/07/2026</title>
-      <description><![CDATA[Au programme : OpenAI cible les seniors et familles, expansion de ChatGPT vers nouveaux publics.
-
-📰 Sources : <a href="https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/">TechCrunch</a> | <a href="https://www.forbes.com/sites/lanceeliot/2026/07/11/typology-of-ai-based-therapy-micro-bursts-reveals-how-people-lean-into-chatbots-for-mental-health-advice/">Forbes</a> | <a href="https://en.wowtale.net/2026/07/11/234441/">Wowtale</a>]]></description>
-      <pubDate>Sun, 12 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260712.mp3" length="4266381" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-12</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

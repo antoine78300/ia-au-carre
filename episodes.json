@@ -528,5 +528,15 @@
     "size": 4661373,
     "guid": "ia-au-carre-2026-08-30",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 54,
+    "date": "2026-08-31T08:30:00",
+    "title": "IA au Carré #54 — 31/08/2026",
+    "description": "Au programme : l'acquisition de Hugging Face par NVIDIA, la gouvernance des agents IA, les nouveaux outils d'entraînement des agents.\n\n📰 Sources : <a href=\"https://startupfortune.com/nvidia-is-closing-in-on-a-12-9-billion-deal-to-buy-hugging-face\">Startup Fortune</a> | <a href=\"https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds\">MarkTechPost</a> | <a href=\"https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds\">MarkTechPost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260831.mp3",
+    "size": 4866861,
+    "guid": "ia-au-carre-2026-08-31",
+    "duration": "00:15:00"
   }
 ]
