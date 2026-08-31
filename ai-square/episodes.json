@@ -298,5 +298,15 @@
     "size": 4997901,
     "guid": "ai-square-2026-08-30",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 31,
+    "date": "2026-08-31T08:30:00",
+    "title": "AI Square #31 — 31/08/2026",
+    "description": "On the program: NVIDIA's $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.\n\n📰 Sources : <a href=\"https://startupfortune.com/nvidia-is-closing-in-on-a-12-9-billion-deal-to-buy-hugging-face\">Startup Fortune</a> | <a href=\"https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds\">MarkTechPost</a> | <a href=\"https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds\">MarkTechPost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260831.mp3",
+    "size": 5304909,
+    "guid": "ai-square-2026-08-31",
+    "duration": "00:15:00"
   }
 ]
