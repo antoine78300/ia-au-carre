@@ -308,5 +308,15 @@
     "size": 5304909,
     "guid": "ai-square-2026-08-31",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 32,
+    "date": "2026-09-01T08:30:00",
+    "title": "AI Square #32 — 01/09/2026",
+    "description": "On the program: Agentic AI security threats, critical vulnerabilities in Elixir framework, AI agent risks in enterprise environments.\n\n📰 Sources : <a href=\"https://www.storagereview.com/news/broadcom-agentminder-debuts-alongside-vdefend-avi-and-truesource-upgrades-for-agentic-ai-security\">Broadcom / Storage Review</a> | <a href=\"https://forkast.news/ash_ai-6-cve-cluster-exposes-the-full-agent-stack-in-elixirs-first-coordinated-ai-framework-disclosure\">Forkast</a> | <a href=\"https://www.broadcom.com/company/news/releases/broadcom-announces-vmware-ai-factory\">Broadcom</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260901.mp3",
+    "size": 4407645,
+    "guid": "ai-square-2026-09-01",
+    "duration": "00:15:00"
   }
 ]

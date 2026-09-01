@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 31 Aug 2026 06:35:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:34:46 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #32 — 01/09/2026</title>
+      <description><![CDATA[On the program: Agentic AI security threats, critical vulnerabilities in Elixir framework, AI agent risks in enterprise environments.
+
+📰 Sources : <a href="https://www.storagereview.com/news/broadcom-agentminder-debuts-alongside-vdefend-avi-and-truesource-upgrades-for-agentic-ai-security">Broadcom / Storage Review</a> | <a href="https://forkast.news/ash_ai-6-cve-cluster-exposes-the-full-agent-stack-in-elixirs-first-coordinated-ai-framework-disclosure">Forkast</a> | <a href="https://www.broadcom.com/company/news/releases/broadcom-announces-vmware-ai-factory">Broadcom</a>]]></description>
+      <pubDate>Tue, 01 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260901.mp3" length="4407645" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-01</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #31 — 31/08/2026</title>
       <description><![CDATA[On the program: NVIDIA's $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.
