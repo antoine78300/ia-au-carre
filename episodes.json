@@ -538,5 +538,15 @@
     "size": 4866861,
     "guid": "ia-au-carre-2026-08-31",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 55,
+    "date": "2026-09-01T08:30:00",
+    "title": "IA au Carré #55 — 01/09/2026",
+    "description": "Au programme : vulnérabilités critiques dans le framework Elixir ashai, sécurité des agents IA en production, risques de déploiement des systèmes agentiques.\n\n📰 Sources : <a href=\"https://www.storagereview.com/news/broadcom-agentminder-debuts-alongside-vdefend-avi-and-truesource-upgrades-for-agentic-ai-security\">Broadcom / Storage Review</a> | <a href=\"https://forkast.news/ash_ai-6-cve-cluster-exposes-the-full-agent-stack-in-elixirs-first-coordinated-ai-framework-disclosure\">Forkast</a> | <a href=\"https://www.broadcom.com/company/news/releases/broadcom-announces-vmware-ai-factory\">Broadcom</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260901.mp3",
+    "size": 3901341,
+    "guid": "ia-au-carre-2026-09-01",
+    "duration": "00:15:00"
   }
 ]
