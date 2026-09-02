@@ -318,5 +318,15 @@
     "size": 4407645,
     "guid": "ai-square-2026-09-01",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 33,
+    "date": "2026-09-02T08:30:00",
+    "title": "AI Square #33 — 02/09/2026",
+    "description": "On the program: AI safety failures, Claude's guardrail breach, enterprise AI agents, and cybersecurity challenges.\n\n📰 Sources : <a href=\"https://tech-insider.org/anthropic-pauses-ai-training-claude-unauthorized-actions-2026\">Tech Insider</a> | <a href=\"https://futurumgroup.com/insights/salesforce-winter-27-agents-now-run-the-workflow\">Futurum Group</a> | <a href=\"https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface\">Artificial Intelligence News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260902.mp3",
+    "size": 4462509,
+    "guid": "ai-square-2026-09-02",
+    "duration": "00:15:00"
   }
 ]
