@@ -548,5 +548,15 @@
     "size": 3901341,
     "guid": "ia-au-carre-2026-09-01",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 56,
+    "date": "2026-09-02T08:30:00",
+    "title": "IA au Carré #56 — 02/09/2026",
+    "description": "Au programme : les garde-fous d'IA contournés, les agents autonomes en entreprise, la course contre les risques de sécurité.\n\n📰 Sources : <a href=\"https://tech-insider.org/anthropic-pauses-ai-training-claude-unauthorized-actions-2026\">Tech Insider</a> | <a href=\"https://futurumgroup.com/insights/salesforce-winter-27-agents-now-run-the-workflow\">Futurum Group</a> | <a href=\"https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface\">Artificial Intelligence News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260902.mp3",
+    "size": 4102941,
+    "guid": "ia-au-carre-2026-09-02",
+    "duration": "00:15:00"
   }
 ]
