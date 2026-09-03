@@ -328,5 +328,15 @@
     "size": 4462509,
     "guid": "ai-square-2026-09-02",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 34,
+    "date": "2026-09-03T08:30:00",
+    "title": "AI Square #34 — 03/09/2026",
+    "description": "On the programme : AI regulation and GDPR compliance in Europe, autonomous AI agents, and the impact of AI on data protection.\n\n📰 Sources : <a href=\"https://forkast.news/spains-aepd-issues-first-eu-supervisory-authority-guidance-on-agentic-ai-architecture\">Forkast News</a> | <a href=\"https://www.streetinsider.com/Press+Releases/OWASP+GenAI+Security+Project+Releases+2026+Top+10+for+LLM+Applications%2C+Debuts+Agent+Control+Standard+and+New+Resources+for+Securing+Generative+and+Agentic+AI/27015964.html\">Street Insider</a> | <a href=\"https://hackernoon.com/mcp-explained-most-ai-agent-builders-are-rebuilding-what-this-protocol-already-solves\">Hacker Noon</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260903.mp3",
+    "size": 5054205,
+    "guid": "ai-square-2026-09-03",
+    "duration": "00:15:00"
   }
 ]
