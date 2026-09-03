@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 02 Sep 2026 06:32:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:32:33 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #57 — 03/09/2026</title>
+      <description><![CDATA[Au programme : réglementation IA et RGPD en Espagne, sécurité des agents IA, levées de fonds et nouveaux modèles.
+
+📰 Sources : <a href="https://forkast.news/spains-aepd-issues-first-eu-supervisory-authority-guidance-on-agentic-ai-architecture">Forkast News</a> | <a href="https://www.streetinsider.com/Press+Releases/OWASP+GenAI+Security+Project+Releases+2026+Top+10+for+LLM+Applications%2C+Debuts+Agent+Control+Standard+and+New+Resources+for+Securing+Generative+and+Agentic+AI/27015964.html">Street Insider</a> | <a href="https://hackernoon.com/mcp-explained-most-ai-agent-builders-are-rebuilding-what-this-protocol-already-solves">Hacker Noon</a>]]></description>
+      <pubDate>Thu, 03 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260903.mp3" length="4628253" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-03</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #56 — 02/09/2026</title>
       <description><![CDATA[Au programme : les garde-fous d'IA contournés, les agents autonomes en entreprise, la course contre les risques de sécurité.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>8</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #7 — 15/07/2026</title>
-      <description><![CDATA[Au programme : IA autonome supprimant des fichiers, transformation des télécoms par l'IA, révolution de la logistique par l'intelligence artificielle.
-
-📰 Sources : <a href="https://www.rcrwireless.com/20260714/carriers/agentic-ai-orange-says">RCR Wireless News</a> | <a href="https://www.rcrwireless.com/20260714/opinion/agentic-future-ai-connectivity-vodafone-business">RCR Wireless News</a> | <a href="https://gizmodo.com/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files-2000785551">Gizmodo</a>]]></description>
-      <pubDate>Wed, 15 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260715.mp3" length="4566621" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-15</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

@@ -558,5 +558,15 @@
     "size": 4102941,
     "guid": "ia-au-carre-2026-09-02",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 57,
+    "date": "2026-09-03T08:30:00",
+    "title": "IA au Carré #57 — 03/09/2026",
+    "description": "Au programme : réglementation IA et RGPD en Espagne, sécurité des agents IA, levées de fonds et nouveaux modèles.\n\n📰 Sources : <a href=\"https://forkast.news/spains-aepd-issues-first-eu-supervisory-authority-guidance-on-agentic-ai-architecture\">Forkast News</a> | <a href=\"https://www.streetinsider.com/Press+Releases/OWASP+GenAI+Security+Project+Releases+2026+Top+10+for+LLM+Applications%2C+Debuts+Agent+Control+Standard+and+New+Resources+for+Securing+Generative+and+Agentic+AI/27015964.html\">Street Insider</a> | <a href=\"https://hackernoon.com/mcp-explained-most-ai-agent-builders-are-rebuilding-what-this-protocol-already-solves\">Hacker Noon</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260903.mp3",
+    "size": 4628253,
+    "guid": "ia-au-carre-2026-09-03",
+    "duration": "00:15:00"
   }
 ]
