@@ -338,5 +338,15 @@
     "size": 5054205,
     "guid": "ai-square-2026-09-03",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 35,
+    "date": "2026-09-04T08:30:00",
+    "title": "AI Square #35 — 04/09/2026",
+    "description": "On the program: OpenAI's GPT-6 Astra and the AGI threshold, industry shift to agentic AI, cybersecurity applications.\n\n📰 Sources : <a href=\"https://www.hpcwire.com/off-the-wire/ciq-launches-fuzzball-4-2-with-agentic-ai-and-amd-gpu-support\">HPCWire</a> | <a href=\"https://futurumgroup.com/insights/broadcom-builds-sovereign-agentic-ai-foundations-around-vmware-tanzu\">Futurum Group</a> | <a href=\"https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release\">The Verge</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260904.mp3",
+    "size": 4406349,
+    "guid": "ai-square-2026-09-04",
+    "duration": "00:15:00"
   }
 ]

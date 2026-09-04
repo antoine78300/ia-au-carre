@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 03 Sep 2026 06:35:17 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:34:27 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #35 — 04/09/2026</title>
+      <description><![CDATA[On the program: OpenAI's GPT-6 Astra and the AGI threshold, industry shift to agentic AI, cybersecurity applications.
+
+📰 Sources : <a href="https://www.hpcwire.com/off-the-wire/ciq-launches-fuzzball-4-2-with-agentic-ai-and-amd-gpu-support">HPCWire</a> | <a href="https://futurumgroup.com/insights/broadcom-builds-sovereign-agentic-ai-foundations-around-vmware-tanzu">Futurum Group</a> | <a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release">The Verge</a>]]></description>
+      <pubDate>Fri, 04 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260904.mp3" length="4406349" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-04</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #34 — 03/09/2026</title>
       <description><![CDATA[On the programme : AI regulation and GDPR compliance in Europe, autonomous AI agents, and the impact of AI on data protection.
