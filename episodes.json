@@ -568,5 +568,15 @@
     "size": 4628253,
     "guid": "ia-au-carre-2026-09-03",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 58,
+    "date": "2026-09-04T08:30:00",
+    "title": "IA au Carré #58 — 04/09/2026",
+    "description": "Au programme : lancement de GPT-6 Astra par OpenAI, atteinte du seuil AGI, déploiement en cybersécurité.\n\n📰 Sources : <a href=\"https://www.hpcwire.com/off-the-wire/ciq-launches-fuzzball-4-2-with-agentic-ai-and-amd-gpu-support\">HPCWire</a> | <a href=\"https://futurumgroup.com/insights/broadcom-builds-sovereign-agentic-ai-foundations-around-vmware-tanzu\">Futurum Group</a> | <a href=\"https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release\">The Verge</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260904.mp3",
+    "size": 4097901,
+    "guid": "ia-au-carre-2026-09-04",
+    "duration": "00:15:00"
   }
 ]

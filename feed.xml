@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 03 Sep 2026 06:32:33 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:32:06 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #58 — 04/09/2026</title>
+      <description><![CDATA[Au programme : lancement de GPT-6 Astra par OpenAI, atteinte du seuil AGI, déploiement en cybersécurité.
+
+📰 Sources : <a href="https://www.hpcwire.com/off-the-wire/ciq-launches-fuzzball-4-2-with-agentic-ai-and-amd-gpu-support">HPCWire</a> | <a href="https://futurumgroup.com/insights/broadcom-builds-sovereign-agentic-ai-foundations-around-vmware-tanzu">Futurum Group</a> | <a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release">The Verge</a>]]></description>
+      <pubDate>Fri, 04 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260904.mp3" length="4097901" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-04</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #57 — 03/09/2026</title>
       <description><![CDATA[Au programme : réglementation IA et RGPD en Espagne, sécurité des agents IA, levées de fonds et nouveaux modèles.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>9</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #8 — 16/07/2026</title>
-      <description><![CDATA[Au programme : IA agentique dans l'économie, Inkling le géant open-source de Mira Murati, révolution des modèles d'IA.
-
-📰 Sources : <a href="https://marketscale.com/industries/software-and-technology/openais-five-step-framework-for-managing-agentic-ai-spend">MarketScale</a> | <a href="https://www.globenewswire.com/news-release/2026/07/15/3327557/0/en/akamai-research-commerce-becomes-the-epicenter-for-ai-bot-attacks-and-agentic-fraud-in-2026.html">Akamai / GlobeNewswire</a> | <a href="https://zamin.uz/en/technology/212626-thinking-machines-the-startup-founded-by-mira-murati-unveils-its-first-open-ai-model.html">Zamin.uz</a>]]></description>
-      <pubDate>Thu, 16 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260716.mp3" length="4433853" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-16</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
