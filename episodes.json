@@ -578,5 +578,15 @@
     "size": 4097901,
     "guid": "ia-au-carre-2026-09-04",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 59,
+    "date": "2026-09-05T08:30:00",
+    "title": "IA au Carré #59 — 05/09/2026",
+    "description": "Au programme : lancement de GPT-6 Astra par OpenAI, performances records en sciences et mathématiques.\n\n📰 Sources : <a href=\"https://www.pastemagazine.com/music/a-i-artificial-intelligence/suno-accused-of-copying-sk8er-boi-and-life-is-a-highway-in-new-suit\">Paste Magazine</a> | <a href=\"https://worldbusinessoutlook.com/zeroth-launches-bridge-worlds-first-ai-native-embodied-robot-with-openbridge\">World Business Outlook</a> | <a href=\"https://www.usatoday.com/story/money/money-management/healthcare/2026/09/04/ai-new-medicines-faster/91565550007\">USA Today</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260905.mp3",
+    "size": 4252413,
+    "guid": "ia-au-carre-2026-09-05",
+    "duration": "00:15:00"
   }
 ]
