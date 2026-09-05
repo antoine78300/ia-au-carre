@@ -348,5 +348,15 @@
     "size": 4406349,
     "guid": "ai-square-2026-09-04",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 36,
+    "date": "2026-09-05T08:30:00",
+    "title": "AI Square #36 — 05/09/2026",
+    "description": "On the program: GPT-6 Astra launch, breakthrough AI performance in science and math, OpenAI's latest developments.\n\n📰 Sources : <a href=\"https://www.pastemagazine.com/music/a-i-artificial-intelligence/suno-accused-of-copying-sk8er-boi-and-life-is-a-highway-in-new-suit\">Paste Magazine</a> | <a href=\"https://worldbusinessoutlook.com/zeroth-launches-bridge-worlds-first-ai-native-embodied-robot-with-openbridge\">World Business Outlook</a> | <a href=\"https://www.usatoday.com/story/money/money-management/healthcare/2026/09/04/ai-new-medicines-faster/91565550007\">USA Today</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260905.mp3",
+    "size": 4682541,
+    "guid": "ai-square-2026-09-05",
+    "duration": "00:15:00"
   }
 ]
