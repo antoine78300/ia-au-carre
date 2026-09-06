@@ -588,5 +588,15 @@
     "size": 4252413,
     "guid": "ia-au-carre-2026-09-05",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 60,
+    "date": "2026-09-06T08:30:00",
+    "title": "IA au Carré #60 — 06/09/2026",
+    "description": "Au programme : GPT-6 Astra d'OpenAI, les avancées révolutionnaires de l'IA, décryptage des nouveaux modèles.\n\n📰 Sources : <a href=\"https://openai.com/index/gpt-6-astra\">OpenAI</a> | <a href=\"https://www.prnewswire.com/news-releases/pudu-robotics-makes-its-ifa-debut-bringing-its-full-robotics-portfolio-to-europe-302870497.html\">PRNewswire</a> | <a href=\"https://www.techtimes.com/articles/326764/20260905/eccv-2026-preview-computer-vision-converges-world-models-embodied-ai.htm\">TechTimes</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260906.mp3",
+    "size": 4196541,
+    "guid": "ia-au-carre-2026-09-06",
+    "duration": "00:15:00"
   }
 ]

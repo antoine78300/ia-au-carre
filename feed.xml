@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 05 Sep 2026 06:32:28 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 06:32:25 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #60 — 06/09/2026</title>
+      <description><![CDATA[Au programme : GPT-6 Astra d'OpenAI, les avancées révolutionnaires de l'IA, décryptage des nouveaux modèles.
+
+📰 Sources : <a href="https://openai.com/index/gpt-6-astra">OpenAI</a> | <a href="https://www.prnewswire.com/news-releases/pudu-robotics-makes-its-ifa-debut-bringing-its-full-robotics-portfolio-to-europe-302870497.html">PRNewswire</a> | <a href="https://www.techtimes.com/articles/326764/20260905/eccv-2026-preview-computer-vision-converges-world-models-embodied-ai.htm">TechTimes</a>]]></description>
+      <pubDate>Sun, 06 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260906.mp3" length="4196541" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-06</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #59 — 05/09/2026</title>
       <description><![CDATA[Au programme : lancement de GPT-6 Astra par OpenAI, performances records en sciences et mathématiques.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>11</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #10 — 18/07/2026</title>
-      <description><![CDATA[Au programme : Netflix et l'IA en post-production, applications de l'IA générative dans le streaming.
-
-📰 Sources : <a href="https://gigazine.net/gsc_news/en/20250717-netflix-gen-ai-title/">Gigazine</a> | <a href="https://roboticsandautomationnews.com/2026/07/17/robbyant-unveils-lingbot-vla-2-0-universal-ai-model-for-embodied-robots/103355/">Robotics & Automation News</a> | <a href="https://www.manilatimes.net/2026/07/17/tmt-newswire/media-outreach-newswire/chinese-company-yingshen-intelligences-4d-world-model-powered-embodied-robots-enter-vietnamese-factories-pioneering-a-token-based-service-model-for-global-expansion/2386404">The Manila Times</a>]]></description>
-      <pubDate>Sat, 18 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260718.mp3" length="4391517" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-18</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
