@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 06 Sep 2026 06:32:25 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:32:59 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #61 — 07/09/2026</title>
+      <description><![CDATA[Au programme : lancement de GPT-6 Astra, révolution en cybersécurité avec CrowdStrike, recherche agentique à Berkeley.
+
+📰 Sources : <a href="https://cybersecuritynews.com/crowdstrike-launches-safemind">CybersecurityNews</a> | <a href="https://www.theregreview.org/2026/09/06/spotlight-regulating-technology-in-financial-markets">The Regulatory Review</a> | <a href="https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/amp">MarketTechPost</a>]]></description>
+      <pubDate>Mon, 07 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260907.mp3" length="5422269" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-07</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #60 — 06/09/2026</title>
       <description><![CDATA[Au programme : GPT-6 Astra d'OpenAI, les avancées révolutionnaires de l'IA, décryptage des nouveaux modèles.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>12</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #11 — 19/07/2026</title>
-      <description><![CDATA[Au programme : production Netflix utilisant l'IA, actualités intelligences artificielles, impact de l'IA sur la création audiovisuelle.
-
-📰 Sources : <a href="https://www.govtech.com/question-of-the-day/how-many-titles-did-netflix-use-ai-in-creating-in-2026">GovTech</a> | <a href="https://www.newsweek.com/boards-are-rewarding-ai-hype-instead-of-results-opinion-12206117">Newsweek</a> | <a href="https://roboticsandautomationnews.com/2026/07/18/nvidia-and-hugging-face-expand-lerobot-with-new-open-robotics-ai-tools/103491/">Robotics & Automation News</a>]]></description>
-      <pubDate>Sun, 19 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260719.mp3" length="4372941" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-19</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

@@ -598,5 +598,15 @@
     "size": 4196541,
     "guid": "ia-au-carre-2026-09-06",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 61,
+    "date": "2026-09-07T08:30:00",
+    "title": "IA au Carré #61 — 07/09/2026",
+    "description": "Au programme : lancement de GPT-6 Astra, révolution en cybersécurité avec CrowdStrike, recherche agentique à Berkeley.\n\n📰 Sources : <a href=\"https://cybersecuritynews.com/crowdstrike-launches-safemind\">CybersecurityNews</a> | <a href=\"https://www.theregreview.org/2026/09/06/spotlight-regulating-technology-in-financial-markets\">The Regulatory Review</a> | <a href=\"https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/amp\">MarketTechPost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260907.mp3",
+    "size": 5422269,
+    "guid": "ia-au-carre-2026-09-07",
+    "duration": "00:15:00"
   }
 ]
