@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 07 Sep 2026 06:32:59 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:32:13 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #62 — 08/09/2026</title>
+      <description><![CDATA[Au programme : monitorabilité de l'IA autonome, problèmes de surveillance de GPT-6 Astra, complexité des modèles d'IA.
+
+📰 Sources : <a href="https://www.intelligentcio.com/eu/2026/09/07/ubers-us966-million-fine-puts-agentic-ai-governance-in-focus">Intelligent CIO</a> | <a href="https://eu.36kr.com/en/p/3971303958868231">36kr</a> | <a href="https://securitybrief.com.au/story/microsoft-tightens-ai-governance-as-agentic-risks-rise">SecurityBrief</a>]]></description>
+      <pubDate>Tue, 08 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260908.mp3" length="4073277" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-08</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #61 — 07/09/2026</title>
       <description><![CDATA[Au programme : lancement de GPT-6 Astra, révolution en cybersécurité avec CrowdStrike, recherche agentique à Berkeley.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>13</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #12 — 20/07/2026</title>
-      <description><![CDATA[Au programme : agents IA dans le retail, prédiction d'achat, conscience artificielle et Claude d'Anthropic.
-
-📰 Sources : <a href="https://www.forbes.com/sites/pamdanziger/2026/07/19/washington-watchdogs-take-notice-as-ai-becomes-retails-front-door/">Forbes</a> | <a href="https://www.haaretz.com/israel-news/tech-news/2026-07-19/ty-article-magazine/the-sound-of-depression-translating-brain-activity-into-language/">Haaretz</a> | <a href="https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious">The Guardian</a>]]></description>
-      <pubDate>Mon, 20 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260720.mp3" length="4440621" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-20</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

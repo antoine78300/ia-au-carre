@@ -608,5 +608,15 @@
     "size": 5422269,
     "guid": "ia-au-carre-2026-09-07",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 62,
+    "date": "2026-09-08T08:30:00",
+    "title": "IA au Carré #62 — 08/09/2026",
+    "description": "Au programme : monitorabilité de l'IA autonome, problèmes de surveillance de GPT-6 Astra, complexité des modèles d'IA.\n\n📰 Sources : <a href=\"https://www.intelligentcio.com/eu/2026/09/07/ubers-us966-million-fine-puts-agentic-ai-governance-in-focus\">Intelligent CIO</a> | <a href=\"https://eu.36kr.com/en/p/3971303958868231\">36kr</a> | <a href=\"https://securitybrief.com.au/story/microsoft-tightens-ai-governance-as-agentic-risks-rise\">SecurityBrief</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260908.mp3",
+    "size": 4073277,
+    "guid": "ia-au-carre-2026-09-08",
+    "duration": "00:15:00"
   }
 ]
