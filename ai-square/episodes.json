@@ -378,5 +378,15 @@
     "size": 5904237,
     "guid": "ai-square-2026-09-07",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 39,
+    "date": "2026-09-08T08:30:00",
+    "title": "AI Square #39 — 08/09/2026",
+    "description": "On the program: AI autonomy and monitoring challenges, OpenAI's GPT-6 Astra transparency issues, complexity of advanced AI systems.\n\n📰 Sources : <a href=\"https://www.intelligentcio.com/eu/2026/09/07/ubers-us966-million-fine-puts-agentic-ai-governance-in-focus\">Intelligent CIO</a> | <a href=\"https://eu.36kr.com/en/p/3971303958868231\">36kr</a> | <a href=\"https://securitybrief.com.au/story/microsoft-tightens-ai-governance-as-agentic-risks-rise\">SecurityBrief</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260908.mp3",
+    "size": 4463661,
+    "guid": "ai-square-2026-09-08",
+    "duration": "00:15:00"
   }
 ]
