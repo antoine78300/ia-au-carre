@@ -388,5 +388,15 @@
     "size": 4463661,
     "guid": "ai-square-2026-09-08",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 40,
+    "date": "2026-09-09T08:30:00",
+    "title": "AI Square #40 — 09/09/2026",
+    "description": "On the program: AI solves century-old math problems, French AI investment boom, record-breaking inference speeds, governance challenges.\n\n📰 Sources : <a href=\"https://dynamicbusiness.com/article/tech-tuesday-the-complete-guide-to-agentic-ai-tools-in-2026\">Dynamic Business</a> | <a href=\"https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round\">Silicon Angle</a> | <a href=\"https://shattered.io/inception-mercury-2-5-diffusion-llm-2026\">Shattered</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260909.mp3",
+    "size": 4705581,
+    "guid": "ai-square-2026-09-09",
+    "duration": "00:15:00"
   }
 ]
