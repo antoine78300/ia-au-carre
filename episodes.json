@@ -618,5 +618,15 @@
     "size": 4073277,
     "guid": "ia-au-carre-2026-09-08",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 63,
+    "date": "2026-09-09T08:30:00",
+    "title": "IA au Carré #63 — 09/09/2026",
+    "description": "Au programme : résolution du problème de Navier-Stokes par l'IA, investissements massifs dans l'IA française, records de vitesse d'inférence, enjeux de gouvernance.\n\n📰 Sources : <a href=\"https://dynamicbusiness.com/article/tech-tuesday-the-complete-guide-to-agentic-ai-tools-in-2026\">Dynamic Business</a> | <a href=\"https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round\">Silicon Angle</a> | <a href=\"https://shattered.io/inception-mercury-2-5-diffusion-llm-2026\">Shattered</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260909.mp3",
+    "size": 4327869,
+    "guid": "ia-au-carre-2026-09-09",
+    "duration": "00:15:00"
   }
 ]
