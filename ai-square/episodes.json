@@ -398,5 +398,15 @@
     "size": 4705581,
     "guid": "ai-square-2026-09-09",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 41,
+    "date": "2026-09-10T08:30:00",
+    "title": "AI Square #41 — 10/09/2026",
+    "description": "On the program: Mistral AI's record €3 billion funding round, AI agents deployment in banks, superintelligence concerns from Anthropic.\n\n📰 Sources : <a href=\"https://www.challenges.fr/entreprise/tech-numerique/trois-milliards-deuros-leves-mais-pour-faire-quoi-mistral-ai-la-pepite-francaise-qui-ne-faisait-plus-dia_645634\">Challenges</a> | <a href=\"https://ffnews.com/news/embargoed-mastercard-and-backbase-partner-to-move-agentic-banking-into-productio-f9a9d3c4\">FF News</a> | <a href=\"https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy\">NPR</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260910.mp3",
+    "size": 5438541,
+    "guid": "ai-square-2026-09-10",
+    "duration": "00:15:00"
   }
 ]
