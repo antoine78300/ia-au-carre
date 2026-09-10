@@ -628,5 +628,15 @@
     "size": 4327869,
     "guid": "ia-au-carre-2026-09-09",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 64,
+    "date": "2026-09-10T08:30:00",
+    "title": "IA au Carré #64 — 10/09/2026",
+    "description": "Au programme : record de levée de fonds pour Mistral AI, agents IA dans les banques mondiales, alertes sur la superintelligence.\n\n📰 Sources : <a href=\"https://www.challenges.fr/entreprise/tech-numerique/trois-milliards-deuros-leves-mais-pour-faire-quoi-mistral-ai-la-pepite-francaise-qui-ne-faisait-plus-dia_645634\">Challenges</a> | <a href=\"https://ffnews.com/news/embargoed-mastercard-and-backbase-partner-to-move-agentic-banking-into-productio-f9a9d3c4\">FF News</a> | <a href=\"https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy\">NPR</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260910.mp3",
+    "size": 5025405,
+    "guid": "ia-au-carre-2026-09-10",
+    "duration": "00:15:00"
   }
 ]
