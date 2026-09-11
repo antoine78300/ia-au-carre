@@ -408,5 +408,15 @@
     "size": 5438541,
     "guid": "ai-square-2026-09-10",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 42,
+    "date": "2026-09-11T08:30:00",
+    "title": "AI Square #42 — 11/09/2026",
+    "description": "On the program: AI existential risk warnings, French agentic framework, financial industry's AI buzz.\n\n📰 Sources : <a href=\"https://www.huffingtonpost.fr/tech-futurs/article/l-ia-pourrait-tous-nous-tuer-l-alerte-de-ce-chercheur-qui-a-quitte-anthropic-a-fait-le-tour-du-monde_321268.html\">HuffPost Tech & Futurs</a> | <a href=\"https://www.globenewswire.com/de/news-release/2026/09/10/3359377/0/en/sidetrade-launches-safe-the-sidetrade-agentic-framework-for-enterprise.html\">GlobeNewswire</a> | <a href=\"https://www.finextra.com/newsarticle/48377/ant-international-visa-and-mastercard-to-develop-know-your-agent-framework\">Finextra</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260911.mp3",
+    "size": 4809549,
+    "guid": "ai-square-2026-09-11",
+    "duration": "00:15:00"
   }
 ]

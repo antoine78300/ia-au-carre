@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 10 Sep 2026 06:35:38 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:35:19 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #42 — 11/09/2026</title>
+      <description><![CDATA[On the program: AI existential risk warnings, French agentic framework, financial industry's AI buzz.
+
+📰 Sources : <a href="https://www.huffingtonpost.fr/tech-futurs/article/l-ia-pourrait-tous-nous-tuer-l-alerte-de-ce-chercheur-qui-a-quitte-anthropic-a-fait-le-tour-du-monde_321268.html">HuffPost Tech & Futurs</a> | <a href="https://www.globenewswire.com/de/news-release/2026/09/10/3359377/0/en/sidetrade-launches-safe-the-sidetrade-agentic-framework-for-enterprise.html">GlobeNewswire</a> | <a href="https://www.finextra.com/newsarticle/48377/ant-international-visa-and-mastercard-to-develop-know-your-agent-framework">Finextra</a>]]></description>
+      <pubDate>Fri, 11 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260911.mp3" length="4809549" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-11</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #41 — 10/09/2026</title>
       <description><![CDATA[On the program: Mistral AI's record €3 billion funding round, AI agents deployment in banks, superintelligence concerns from Anthropic.
