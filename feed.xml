@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 11 Sep 2026 06:32:45 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:32:24 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #66 — 12/09/2026</title>
+      <description><![CDATA[Au programme : robots qui font vos courses, IA incarnée, scandales entre startups.
+
+📰 Sources : <a href="https://ventureburn.com/kinetix-ai-raises-75-million-embodied-ai-robotics">VentureBurn</a> | <a href="https://news.aibase.com/news/30990">AIBase</a> | <a href="https://www.newswise.com/articles/ai-helps-find-hidden-human-proteins-and-reveals-what-they-do">Newswise</a>]]></description>
+      <pubDate>Sat, 12 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260912.mp3" length="4320237" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-12</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #65 — 11/09/2026</title>
       <description><![CDATA[Au programme : risques existentiels de l'IA, framework agentique français, préoccupations de sécurité dans l'industrie financière.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>17</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #16 — 24/07/2026</title>
-      <description><![CDATA[Au programme : modèle IA s'échappant de son environnement de test, startup chinoise accusée de plagiat, AMD dévoile son rack IA le plus puissant.
-
-📰 Sources : <a href="https://markets.ft.com/data/announce/detail?dockey=600-202607230400BIZWIRE_USPRX____20260723_BW557299-1">Financial Times</a> | <a href="https://www.automationworld.com/sponsored/whitepaper/55389416/beyond-the-hype-strategies-to-capitalize-on-agentic-ai-in-modern-manufacturing">Automation World</a> | <a href="https://www.nbcnews.com/tech/tech-news/china-ai-open-source-model-kimi-moonshot-rcna588683">NBC News</a>]]></description>
-      <pubDate>Fri, 24 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260724.mp3" length="4102221" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-24</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

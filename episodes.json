@@ -648,5 +648,15 @@
     "size": 4430829,
     "guid": "ia-au-carre-2026-09-11",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 66,
+    "date": "2026-09-12T08:30:00",
+    "title": "IA au Carré #66 — 12/09/2026",
+    "description": "Au programme : robots qui font vos courses, IA incarnée, scandales entre startups.\n\n📰 Sources : <a href=\"https://ventureburn.com/kinetix-ai-raises-75-million-embodied-ai-robotics\">VentureBurn</a> | <a href=\"https://news.aibase.com/news/30990\">AIBase</a> | <a href=\"https://www.newswise.com/articles/ai-helps-find-hidden-human-proteins-and-reveals-what-they-do\">Newswise</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260912.mp3",
+    "size": 4320237,
+    "guid": "ia-au-carre-2026-09-12",
+    "duration": "00:15:00"
   }
 ]
