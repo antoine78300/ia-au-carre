@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sat, 12 Sep 2026 06:35:02 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:36:00 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Square #44 — 13/09/2026</title>
+      <description><![CDATA[On the program: AI-generated music breakthroughs, robot advancements in Shanghai, bioweapons concerns.
+
+📰 Sources : <a href="https://futurumgroup.com/insights/elevenlabs-music-v25-generative-audio-grows-up">Futurumgroup</a> | <a href="https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9">Business Insider</a> | <a href="https://www.nbcnews.com/video/harvard-fellow-deeply-concerned-over-efforts-to-build-bioweapons-after-anthropic-report-269758533681">NBC News</a>]]></description>
+      <pubDate>Sun, 13 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260913.mp3" length="5526381" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-13</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Square #43 — 12/09/2026</title>
       <description><![CDATA[On the program: robot dogs shopping for groceries, embodied AI entering the physical world, startup drama.

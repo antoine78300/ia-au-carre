@@ -428,5 +428,15 @@
     "size": 4623645,
     "guid": "ai-square-2026-09-12",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 44,
+    "date": "2026-09-13T08:30:00",
+    "title": "AI Square #44 — 13/09/2026",
+    "description": "On the program: AI-generated music breakthroughs, robot advancements in Shanghai, bioweapons concerns.\n\n📰 Sources : <a href=\"https://futurumgroup.com/insights/elevenlabs-music-v25-generative-audio-grows-up\">Futurumgroup</a> | <a href=\"https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9\">Business Insider</a> | <a href=\"https://www.nbcnews.com/video/harvard-fellow-deeply-concerned-over-efforts-to-build-bioweapons-after-anthropic-report-269758533681\">NBC News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260913.mp3",
+    "size": 5526381,
+    "guid": "ai-square-2026-09-13",
+    "duration": "00:15:00"
   }
 ]
