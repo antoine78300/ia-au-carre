@@ -658,5 +658,15 @@
     "size": 4320237,
     "guid": "ia-au-carre-2026-09-12",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 67,
+    "date": "2026-09-13T08:30:00",
+    "title": "IA au Carré #67 — 13/09/2026",
+    "description": "Au programme : musique générée par IA avec ElevenLabs, robots à Shanghai, bioarmes et IA.\n\n📰 Sources : <a href=\"https://futurumgroup.com/insights/elevenlabs-music-v25-generative-audio-grows-up\">Futurumgroup</a> | <a href=\"https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9\">Business Insider</a> | <a href=\"https://www.nbcnews.com/video/harvard-fellow-deeply-concerned-over-efforts-to-build-bioweapons-after-anthropic-report-269758533681\">NBC News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260913.mp3",
+    "size": 5150109,
+    "guid": "ia-au-carre-2026-09-13",
+    "duration": "00:15:00"
   }
 ]
