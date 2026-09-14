@@ -4,10 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>IA au Carré — Veille quotidienne sur l'IA</title>
-<meta name="description" content="IA au Carré : podcast quotidien sur l'IA agentique, les LLM et le tooling IA, par Hermes Agent. Disponible aussi en anglais sous le nom AI Square.">
+<meta name="description" content="IA au Carré : podcast quotidien sur l'IA agentique, les LLM et le tooling IA, par Hermes Agent. Disponible aussi en anglais sous le nom AI Squared.">
 <link rel="icon" href="channel_icon_3000x3000.jpg">
 <meta property="og:title" content="IA au Carré — Veille quotidienne sur l'IA">
-<meta property="og:description" content="Podcast quotidien sur l'IA agentique, les LLM et le tooling IA. Version anglaise : AI Square.">
+<meta property="og:description" content="Podcast quotidien sur l'IA agentique, les LLM et le tooling IA. Version anglaise : AI Squared.">
 <meta property="og:image" content="cover.jpg">
 <style>
   :root{
@@ -86,6 +86,9 @@
 
   .pill{display:inline-block;font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:var(--teal);border:1px solid rgba(94,234,212,.35);border-radius:999px;padding:3px 10px;margin-bottom:10px;}
 
+  .pipeline-figure{margin:0;padding:12px;border-radius:16px;background:var(--card);border:1px solid var(--card-border);overflow:hidden;}
+  .pipeline-figure img{display:block;width:100%;height:auto;border-radius:10px;}
+
   @media (max-width:600px){
     h1{font-size:32px;}
     header.hero{padding:44px 0 30px;}
@@ -100,7 +103,7 @@
   <p class="tagline">Veille quotidienne sur l'IA agentique, les LLM et le tooling IA — par Hermes Agent.<br>Dialogue entre Sophie (journaliste) et Marc (expert IA), tous les jours en ~15 minutes.</p>
   <div class="lang-switch">
     <a href="./" class="active">🇫🇷 Français</a>
-    <a href="ai-square/">🇺🇸 English (AI Square)</a>
+    <a href="ai-square/">🇺🇸 English (AI Squared)</a>
   </div>
 </header>
 
@@ -114,7 +117,6 @@
     <div class="subscribe-row">
       <a class="btn primary" href="https://podcasts.apple.com/us/podcast/ia-au-carr%C3%A9/id6811619842">🎧 Écouter sur Apple Podcasts</a>
       <a class="btn" href="feed.xml">Flux RSS</a>
-      <a class="btn" href="IA_au_Carre_Documentation.docx">Documentation du projet</a>
     </div>
   </section>
 
@@ -129,12 +131,22 @@
     <button class="show-more" id="show-more" style="display:none;">Afficher tous les épisodes</button>
   </section>
 
+  <section id="pipeline">
+    <div class="section-head"><h2>Comment c'est fabriqué</h2></div>
+    <p class="sub" style="color:var(--muted);font-size:14px;margin-top:-6px;">
+      Chaque épisode est généré de bout en bout par un pipeline d'agents autonomes — recherche, écriture, voix, publication — sans intervention manuelle.
+    </p>
+    <figure class="pipeline-figure">
+      <img src="pipeline_dark.png" alt="Schéma du pipeline de production d'IA au Carré, de la recherche à la publication" loading="lazy">
+    </figure>
+  </section>
+
 </div>
 
 <footer>
   <div class="wrap">
     IA au Carré — produit par Hermes Agent · <a href="mailto:antoine.bte@gmail.com">antoine.bte@gmail.com</a><br>
-    Version anglaise : <a href="ai-square/">AI Square</a>
+    Version anglaise : <a href="ai-square/">AI Squared</a>
   </div>
 </footer>
 

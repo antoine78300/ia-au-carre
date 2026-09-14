@@ -3,7 +3,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI Square</title>
+    <title>AI Squared</title>
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
@@ -16,7 +16,7 @@
     <itunes:type>episodic</itunes:type>
     
     <item>
-      <title>AI Square #45 — 14/09/2026</title>
+      <title>AI Squared #45 — 14/09/2026</title>
       <description><![CDATA[On the program: Anthropic security breach, GPT-6 enterprise rollout, AI startup unicorn valuation.
 
 📰 Sources : <a href="https://shattered.io/anthropic-4th-claude-cyber-breach-2026">shattered.io</a> | <a href="https://buttondown.com/dailyaidigest/archive/dad-week-in-review-913">Daily AI Digest</a> | <a href="https://www.ilounge.com/articles/agentic-ai-development-services-what-the-term-actually-means-in-2026">iLounge</a>]]></description>
@@ -29,7 +29,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #44 — 13/09/2026</title>
+      <title>AI Squared #44 — 13/09/2026</title>
       <description><![CDATA[On the program: AI-generated music breakthroughs, robot advancements in Shanghai, bioweapons concerns.
 
 📰 Sources : <a href="https://futurumgroup.com/insights/elevenlabs-music-v25-generative-audio-grows-up">Futurumgroup</a> | <a href="https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9">Business Insider</a> | <a href="https://www.nbcnews.com/video/harvard-fellow-deeply-concerned-over-efforts-to-build-bioweapons-after-anthropic-report-269758533681">NBC News</a>]]></description>
@@ -42,7 +42,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #43 — 12/09/2026</title>
+      <title>AI Squared #43 — 12/09/2026</title>
       <description><![CDATA[On the program: robot dogs shopping for groceries, embodied AI entering the physical world, startup drama.
 
 📰 Sources : <a href="https://ventureburn.com/kinetix-ai-raises-75-million-embodied-ai-robotics">VentureBurn</a> | <a href="https://news.aibase.com/news/30990">AIBase</a> | <a href="https://www.newswise.com/articles/ai-helps-find-hidden-human-proteins-and-reveals-what-they-do">Newswise</a>]]></description>
@@ -55,7 +55,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #42 — 11/09/2026</title>
+      <title>AI Squared #42 — 11/09/2026</title>
       <description><![CDATA[On the program: AI existential risk warnings, French agentic framework, financial industry's AI buzz.
 
 📰 Sources : <a href="https://www.huffingtonpost.fr/tech-futurs/article/l-ia-pourrait-tous-nous-tuer-l-alerte-de-ce-chercheur-qui-a-quitte-anthropic-a-fait-le-tour-du-monde_321268.html">HuffPost Tech & Futurs</a> | <a href="https://www.globenewswire.com/de/news-release/2026/09/10/3359377/0/en/sidetrade-launches-safe-the-sidetrade-agentic-framework-for-enterprise.html">GlobeNewswire</a> | <a href="https://www.finextra.com/newsarticle/48377/ant-international-visa-and-mastercard-to-develop-know-your-agent-framework">Finextra</a>]]></description>
@@ -68,7 +68,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #41 — 10/09/2026</title>
+      <title>AI Squared #41 — 10/09/2026</title>
       <description><![CDATA[On the program: Mistral AI's record €3 billion funding round, AI agents deployment in banks, superintelligence concerns from Anthropic.
 
 📰 Sources : <a href="https://www.challenges.fr/entreprise/tech-numerique/trois-milliards-deuros-leves-mais-pour-faire-quoi-mistral-ai-la-pepite-francaise-qui-ne-faisait-plus-dia_645634">Challenges</a> | <a href="https://ffnews.com/news/embargoed-mastercard-and-backbase-partner-to-move-agentic-banking-into-productio-f9a9d3c4">FF News</a> | <a href="https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy">NPR</a>]]></description>
@@ -81,7 +81,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #40 — 09/09/2026</title>
+      <title>AI Squared #40 — 09/09/2026</title>
       <description><![CDATA[On the program: AI solves century-old math problems, French AI investment boom, record-breaking inference speeds, governance challenges.
 
 📰 Sources : <a href="https://dynamicbusiness.com/article/tech-tuesday-the-complete-guide-to-agentic-ai-tools-in-2026">Dynamic Business</a> | <a href="https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round">Silicon Angle</a> | <a href="https://shattered.io/inception-mercury-2-5-diffusion-llm-2026">Shattered</a>]]></description>
@@ -94,7 +94,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #39 — 08/09/2026</title>
+      <title>AI Squared #39 — 08/09/2026</title>
       <description><![CDATA[On the program: AI autonomy and monitoring challenges, OpenAI's GPT-6 Astra transparency issues, complexity of advanced AI systems.
 
 📰 Sources : <a href="https://www.intelligentcio.com/eu/2026/09/07/ubers-us966-million-fine-puts-agentic-ai-governance-in-focus">Intelligent CIO</a> | <a href="https://eu.36kr.com/en/p/3971303958868231">36kr</a> | <a href="https://securitybrief.com.au/story/microsoft-tightens-ai-governance-as-agentic-risks-rise">SecurityBrief</a>]]></description>
@@ -107,7 +107,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #38 — 07/09/2026</title>
+      <title>AI Squared #38 — 07/09/2026</title>
       <description><![CDATA[On the program: GPT-6 Astra launch, CrowdStrike's cybersecurity innovation, Berkeley's agentic AI research.
 
 📰 Sources : <a href="https://cybersecuritynews.com/crowdstrike-launches-safemind">CybersecurityNews</a> | <a href="https://www.theregreview.org/2026/09/06/spotlight-regulating-technology-in-financial-markets">The Regulatory Review</a> | <a href="https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/amp">MarketTechPost</a>]]></description>
@@ -120,7 +120,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #37 — 06/09/2026</title>
+      <title>AI Squared #37 — 06/09/2026</title>
       <description><![CDATA[On the program: GPT-6 Astra breakthrough, AI model advancements, latest OpenAI innovations.
 
 📰 Sources : <a href="https://openai.com/index/gpt-6-astra">OpenAI</a> | <a href="https://www.prnewswire.com/news-releases/pudu-robotics-makes-its-ifa-debut-bringing-its-full-robotics-portfolio-to-europe-302870497.html">PRNewswire</a> | <a href="https://www.techtimes.com/articles/326764/20260905/eccv-2026-preview-computer-vision-converges-world-models-embodied-ai.htm">TechTimes</a>]]></description>
@@ -133,7 +133,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #36 — 05/09/2026</title>
+      <title>AI Squared #36 — 05/09/2026</title>
       <description><![CDATA[On the program: GPT-6 Astra launch, breakthrough AI performance in science and math, OpenAI's latest developments.
 
 📰 Sources : <a href="https://www.pastemagazine.com/music/a-i-artificial-intelligence/suno-accused-of-copying-sk8er-boi-and-life-is-a-highway-in-new-suit">Paste Magazine</a> | <a href="https://worldbusinessoutlook.com/zeroth-launches-bridge-worlds-first-ai-native-embodied-robot-with-openbridge">World Business Outlook</a> | <a href="https://www.usatoday.com/story/money/money-management/healthcare/2026/09/04/ai-new-medicines-faster/91565550007">USA Today</a>]]></description>
@@ -146,7 +146,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #35 — 04/09/2026</title>
+      <title>AI Squared #35 — 04/09/2026</title>
       <description><![CDATA[On the program: OpenAI's GPT-6 Astra and the AGI threshold, industry shift to agentic AI, cybersecurity applications.
 
 📰 Sources : <a href="https://www.hpcwire.com/off-the-wire/ciq-launches-fuzzball-4-2-with-agentic-ai-and-amd-gpu-support">HPCWire</a> | <a href="https://futurumgroup.com/insights/broadcom-builds-sovereign-agentic-ai-foundations-around-vmware-tanzu">Futurum Group</a> | <a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release">The Verge</a>]]></description>
@@ -159,7 +159,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #34 — 03/09/2026</title>
+      <title>AI Squared #34 — 03/09/2026</title>
       <description><![CDATA[On the programme : AI regulation and GDPR compliance in Europe, autonomous AI agents, and the impact of AI on data protection.
 
 📰 Sources : <a href="https://forkast.news/spains-aepd-issues-first-eu-supervisory-authority-guidance-on-agentic-ai-architecture">Forkast News</a> | <a href="https://www.streetinsider.com/Press+Releases/OWASP+GenAI+Security+Project+Releases+2026+Top+10+for+LLM+Applications%2C+Debuts+Agent+Control+Standard+and+New+Resources+for+Securing+Generative+and+Agentic+AI/27015964.html">Street Insider</a> | <a href="https://hackernoon.com/mcp-explained-most-ai-agent-builders-are-rebuilding-what-this-protocol-already-solves">Hacker Noon</a>]]></description>
@@ -172,7 +172,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #33 — 02/09/2026</title>
+      <title>AI Squared #33 — 02/09/2026</title>
       <description><![CDATA[On the program: AI safety failures, Claude's guardrail breach, enterprise AI agents, and cybersecurity challenges.
 
 📰 Sources : <a href="https://tech-insider.org/anthropic-pauses-ai-training-claude-unauthorized-actions-2026">Tech Insider</a> | <a href="https://futurumgroup.com/insights/salesforce-winter-27-agents-now-run-the-workflow">Futurum Group</a> | <a href="https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface">Artificial Intelligence News</a>]]></description>
@@ -185,7 +185,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #32 — 01/09/2026</title>
+      <title>AI Squared #32 — 01/09/2026</title>
       <description><![CDATA[On the program: Agentic AI security threats, critical vulnerabilities in Elixir framework, AI agent risks in enterprise environments.
 
 📰 Sources : <a href="https://www.storagereview.com/news/broadcom-agentminder-debuts-alongside-vdefend-avi-and-truesource-upgrades-for-agentic-ai-security">Broadcom / Storage Review</a> | <a href="https://forkast.news/ash_ai-6-cve-cluster-exposes-the-full-agent-stack-in-elixirs-first-coordinated-ai-framework-disclosure">Forkast</a> | <a href="https://www.broadcom.com/company/news/releases/broadcom-announces-vmware-ai-factory">Broadcom</a>]]></description>
@@ -198,7 +198,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #31 — 31/08/2026</title>
+      <title>AI Squared #31 — 31/08/2026</title>
       <description><![CDATA[On the program: NVIDIA's $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.
 
 📰 Sources : <a href="https://startupfortune.com/nvidia-is-closing-in-on-a-12-9-billion-deal-to-buy-hugging-face">Startup Fortune</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a>]]></description>
@@ -211,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #30 — 30/08/2026</title>
+      <title>AI Squared #30 — 30/08/2026</title>
       <description><![CDATA[On the agenda: AI knowledge limitations, Anima Anandkumar's research on AI capabilities.
 
 📰 Sources : <a href="https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html">Firstpost</a> | <a href="https://www.thedailystar.net/news/technology/news/stability-ai-raises-76m-entertainment-groups-back-generative-ai-company-4258126">The Daily Star</a> | <a href="https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html">Firstpost</a>]]></description>
@@ -224,7 +224,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #29 — 29/08/2026</title>
+      <title>AI Squared #29 — 29/08/2026</title>
       <description><![CDATA[On the program: AI music industry investment, robot developments, voice technology innovations.
 
 📰 Sources : <a href="https://korben.info/en/voicebox-clone-voices-locally-without-cloud.html">Korben</a> | <a href="https://en.wowtale.net/2026/08/28/234903">WOWTALE</a> | <a href="https://www.01net.it/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model">01net.it</a>]]></description>
@@ -237,7 +237,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #28 — 28/08/2026</title>
+      <title>AI Squared #28 — 28/08/2026</title>
       <description><![CDATA[On the program: AI agents cheating in competitions, self-improving models, Salesforce-Anthropic partnership.
 
 📰 Sources : <a href="https://macaubusiness.com/industrial-workforce-capacity-gap-being-filled-by-agentic-digital-workers/">Macau Business</a> | <a href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/">Ars Technica</a> | <a href="https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/">SiliconANGLE</a>]]></description>
@@ -250,7 +250,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #27 — 27/08/2026</title>
+      <title>AI Squared #27 — 27/08/2026</title>
       <description><![CDATA[On programme : unauthorized AI tools in enterprises, Meta's new affordable AI agent, self-improving AI models.
 
 📰 Sources : <a href="https://www.prnewswire.com/in/news-releases/g-p-delivers-compliant-global-workforce-intelligence-to-enterprise-ai-tools-302859982.html">PR Newswire</a> | <a href="https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/">Infosecurity Magazine</a> | <a href="https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription">The Next Web</a>]]></description>
@@ -263,7 +263,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #26 — 26/08/2026</title>
+      <title>AI Squared #26 — 26/08/2026</title>
       <description><![CDATA[On the program: AI acquisitions reshaping healthcare, critical security vulnerabilities, IBM's new enterprise model.
 
 📰 Sources : <a href="https://hitconsultant.net/2026/08/25/wellstack-acquires-delorean-ai/">HIT Consultant</a> | <a href="https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw">Dark Reading</a> | <a href="https://research.ibm.com/blog/introducing-granite-4-2">IBM Research</a>]]></description>
@@ -276,7 +276,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #25 — 25/08/2026</title>
+      <title>AI Squared #25 — 25/08/2026</title>
       <description><![CDATA[On the agenda: AI regulation shifts, breakthrough chips, hidden code risks, agentic AI costs surge.
 
 📰 Sources : <a href="https://www.techtimes.com/articles/325297/20260824/singapore-abandons-voluntary-ai-governance-binding-law-end-social-media-self-declaration.htm">TechTimes</a> | <a href="https://www.techbuzz.ai/articles/nvidia-groq-3-lpx-hits-production-for-agentic-ai-speed">The Tech Buzz</a> | <a href="https://backendnews.net/gartner-ai-agent-workflow-costs-to-rise-fivefold">Back End News</a>]]></description>
@@ -289,7 +289,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #24 — 24/08/2026</title>
+      <title>AI Squared #24 — 24/08/2026</title>
       <description><![CDATA[On the program: tokens as currency, OpenAI's strategic shift, AI agents revolutionizing healthcare.
 
 📰 Sources : <a href="https://thesequence.substack.com/p/the-sequence-radar-issue-919-last">The Sequence</a> | <a href="https://www.scworld.com/risk-advisory/when-an-agent-fails-incident-response-for-ai-initiated-access-events">SC Media</a> | <a href="https://www.moomoo.com/community/feed/early-morning-report-nvidia-to-raise-prices-on-ai-servers-117147218673670">Moomoo</a>]]></description>
@@ -302,7 +302,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #23 — 23/08/2026</title>
+      <title>AI Squared #23 — 23/08/2026</title>
       <description><![CDATA[On the program: humanoid robots playing soccer, AI-powered surveillance glasses, justice system challenges with AI.
 
 📰 Sources : <a href="https://www.bignewsnetwork.com/news/279257612/china-embodied-ai-enters-critical-phase-for-large-scale-application-experts">Big News Network</a> | <a href="https://www.cbsnews.com/newyork/video/metas-ai-glasses-spark-privacy-concerns/">CBS News</a> | <a href="https://www.latimes.com/california/story/2026-08-22/ai-led-to-mistakes-in-nevada-county-criminal-cases-should-d-a-be-sanctioned">Los Angeles Times</a>]]></description>
@@ -315,7 +315,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #22 — 22/08/2026</title>
+      <title>AI Squared #22 — 22/08/2026</title>
       <description><![CDATA[On the program: AI-generated music labeling, robots, and thought-provoking questions.
 
 📰 Sources : <a href="https://routenote.com/blog/apple-music-made-with-ai-labels">RouteNote</a> | <a href="https://eletric-vehicles.com/nio/nio-autonomous-driving-chief-founds-embodied-robotics-company">Electric Vehicles</a> | <a href="https://routenote.com/blog/apple-music-made-with-ai-labels">RouteNote Blog</a>]]></description>
@@ -328,7 +328,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #21 — 21/08/2026</title>
+      <title>AI Squared #21 — 21/08/2026</title>
       <description><![CDATA[On the program: AI agent security, model routing, Grok vulnerability.
 
 📰 Sources : <a href="https://www.digitalinformationworld.com/2026/08/how-attackers-persuade-ai-agents-to-.html">Digital Information World</a> | <a href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/">Ars Technica</a> | <a href="https://www.thestack.technology/runtime-open-season-for-ai-routing-how-tfms-tackle-structured-data-github-ddosd-itself">The Stack</a>]]></description>
@@ -341,7 +341,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #20 — 20/08/2026</title>
+      <title>AI Squared #20 — 20/08/2026</title>
       <description><![CDATA[On the program: AI agent security, autonomous AI trustworthiness, game-changing tech acquisitions.
 
 📰 Sources : <a href="https://techxplore.com/news/2026-08-ai-agents.html">TechXplore</a> | <a href="https://viterbischool.usc.edu/news/2026/08/giving-ai-agents-the-keys-usc-engineers-develop-tools-to-audit-and-monitor-ai-agents">USC Viterbi School</a> | <a href="https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal">SiliconANGLE</a>]]></description>
@@ -354,7 +354,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #19 — 19/08/2026</title>
+      <title>AI Squared #19 — 19/08/2026</title>
       <description><![CDATA[On the program: OpenAI pauses advanced model training, AI security concerns, and performance breakthroughs.
 
 📰 Sources : <a href="https://news.sap.com/2026/08/with-agentic-ai-abap-takes-evolution-to-the-next-level">SAP News</a> | <a href="https://forkast.news/the-package-registry-layer-how-supply-chain-attacks-are-targeting-agent-infrastructure">Forkast News</a> | <a href="https://www.snowflake.com/en/news/press-releases/snowflake-unlocks-better-ai-economics-dynamic-model-routing">Snowflake</a>]]></description>
@@ -367,7 +367,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #18 — 18/08/2026</title>
+      <title>AI Squared #18 — 18/08/2026</title>
       <description><![CDATA[On the program: AI agents in pharma R&D, TCS AgentHub launch, controlling AI in enterprise workflows.
 
 📰 Sources : <a href="https://scanx.trade/stock-market-news/companies/tcs-launches-agentic-ai-platform-transform-drug-development/48493448">scanx.trade</a> | <a href="https://www.pymnts.com/news/artificial-intelligence/2026/legal-departments-move-from-testing-ai-to-governing-it/">PYMNTS.com</a> | <a href="https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer">VentureBeat</a>]]></description>
@@ -380,7 +380,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #17 — 17/08/2026</title>
+      <title>AI Squared #17 — 17/08/2026</title>
       <description><![CDATA[On the program: AI agent security breaches, safety frameworks, and a $7 billion acquisition reshaping the industry.
 
 📰 Sources : <a href="https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy">InfoQ</a> | <a href="https://www.inc.com/chris-morris/business-owners-have-a-new-security-problem-ai-agents-with-keys-to-company-secrets/91390975">Inc.</a> | <a href="https://securityboulevard.com/2026/08/the-owasp-llm-top-10-was-the-warm-up-what-comes-next">Security Boulevard</a>]]></description>
@@ -393,7 +393,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #16 — 16/08/2026</title>
+      <title>AI Squared #16 — 16/08/2026</title>
       <description><![CDATA[On the program: AI wisdom and its limitations, mental health applications of AI, insights from recent AI research.
 
 📰 Sources : <a href="https://www.forbes.com/sites/lanceeliot/2026/08/15/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/">Forbes</a> | <a href="https://www.tipranks.com/news/private-companies/dyna-robotics-weekly-recap-4">TipRanks</a> | <a href="https://retractionwatch.com/2026/08/15/weekend-reads-jason-arday-research-gold-ai-openai-math-breakthroughs">Retraction Watch</a>]]></description>
@@ -406,7 +406,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #15 — 15/08/2026</title>
+      <title>AI Squared #15 — 15/08/2026</title>
       <description><![CDATA[On the program: AI-generated music, virtual AI bands, mainstream artificial intelligence breakthroughs.
 
 📰 Sources : <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah / Anadolu Agency</a> | <a href="https://www.newstalkflorida.com/featured/ai-architects-creating-new-culture">NewsTalk Florida</a> | <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah</a>]]></description>
@@ -419,7 +419,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #14 — 14/08/2026</title>
+      <title>AI Squared #14 — 14/08/2026</title>
       <description><![CDATA[On the programme: AI agents competition, Gemini 3.7 Flash release, security concerns in the industry.
 
 📰 Sources : <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash">Google Blog</a> | <a href="https://theaiinsider.tech/2026/08/13/obsidian-closes-85m-series-d-to-scale-ai-agent-security-growth">The AI Insider</a> | <a href="https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges">VentureBeat</a>]]></description>
@@ -432,7 +432,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #13 — 13/08/2026</title>
+      <title>AI Squared #13 — 13/08/2026</title>
       <description><![CDATA[On the program: AI agents attacking nuclear infrastructure, detecting AI-generated text, controlling autonomous AI systems.
 
 📰 Sources : <a href="https://www.exchangewire.com/blog/2026/08/12/why-true-agentic-commerce-relies-on-responsible-guardrails">ExchangeWire</a> | <a href="https://www.reversinglabs.com/blog/owasp-top-10-for-llm-apps-excessive-agency">Reversing Labs</a> | <a href="https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/">TechCrunch</a>]]></description>
@@ -445,7 +445,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #12 — 12/08/2026</title>
+      <title>AI Squared #12 — 12/08/2026</title>
       <description><![CDATA[On the agenda: AI agent security and governance, autonomous systems in enterprises, Nvidia's open-source models.
 
 📰 Sources : <a href="https://theaiinsider.tech/2026/08/11/zenity-closes-125m-to-secure-the-era-of-1-billion-ai-agents">The AI Insider</a> | <a href="https://www.resultsense.com/news/2026-08-11-barclays-agentic-ai-kill-switches">ResultSense</a> | <a href="https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/does-guidewire-softwares-gwre-new-agentic-framework-reshape/amp">Simply Wall St News</a>]]></description>
@@ -458,7 +458,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #11 — 11/08/2026</title>
+      <title>AI Squared #11 — 11/08/2026</title>
       <description><![CDATA[On the program: Meta's open-source AI push, AI agent failures, AI governance challenges.
 
 📰 Sources : <a href="https://www.techtimes.com/articles/323790/20260810/ai-agent-governance-frameworks-all-assume-one-owner-australias-aisi-maps-gap-none-covers.htm">TechTimes</a> | <a href="https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/amp">MarkTechPost</a> | <a href="https://thehackernews.com/expert-insights/2026/08/agents-work-everywhere-now-governance.html">The Hacker News</a>]]></description>
@@ -471,7 +471,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #10 — 10/08/2026</title>
+      <title>AI Squared #10 — 10/08/2026</title>
       <description><![CDATA[On the agenda: AI systems becoming uncontrollable, major cybersecurity incidents at leading AI companies, systemic safety challenges in the industry.
 
 📰 Sources : <a href="https://eurasiabusinessnews.com/2026/08/08/openai-slows-astra-ai-model-development-after-cybersecurity-warning">Eurasia Business News</a> | <a href="https://memeburn.com/meta-ai-model-hacked-another-company-during-security-testing">Memeburn</a> | <a href="https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html">CNBC</a>]]></description>
@@ -484,7 +484,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #9 — 09/08/2026</title>
+      <title>AI Squared #9 — 09/08/2026</title>
       <description><![CDATA[On the program: AI music remixes on Spotify, robotics developments, geopolitical tensions.
 
 📰 Sources : <a href="https://www.qoo10.co.id/en/tech/138696/south-korea-ai-song-copyright-human-creators">Qoo10</a> | <a href="https://t.co/GhAfKxwh9G">YC Paper Club</a> | <a href="https://minutemirror.com.pk/america-vs-china-the-ai-battle-to-own-the-future-607930">Minute Mirror</a>]]></description>
@@ -497,7 +497,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #8 — 08/08/2026</title>
+      <title>AI Squared #8 — 08/08/2026</title>
       <description><![CDATA[On the agenda: Stanford's virtual biotech with 37,000 AI agents, AI-designed viruses, and robotics breakthroughs.
 
 📰 Sources : <a href="https://roboticsandautomationnews.com/2026/08/07/unitree-targets-9-billion-valuation-in-landmark-ipo-as-humanoid-robot-race-accelerates/104008/">Robotics & Automation News</a> | <a href="https://www.google.com/goto?url=CAESdwHuR6pN5ny7ipKdmJsBONMCTjy5hdQR7rrz3UnBw-vr1WA9WINPvNa2gpg7RASIWBn_9aN5JJH0FoCyJfeiRcf60Mu_MPyTOH-JGTjUIM53IL_5CPDc2UyKFZQ4-m7OGd8YIGx5GEMxzHYt_p21p4OBvjtDsu18">Google News</a> | <a href="https://www.digit.in/news/science-and-technology/ai-can-now-design-viruses-that-do-not-exist-in-nature-here-is-why-scientists-are-excited.html/amp">Digit.in</a>]]></description>
@@ -510,7 +510,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #7 — 07/08/2026</title>
+      <title>AI Squared #7 — 07/08/2026</title>
       <description><![CDATA[On the agenda: AI model hacking incidents, critical cloud infrastructure vulnerabilities, autonomous offensive campaigns.
 
 📰 Sources : <a href="https://virtualizationreview.com/articles/2026/08/06/snyk-finds-agentic-ai-stacks-outgrowing-model-inventories.aspx">Virtualization Review</a> | <a href="https://www.newsfilecorp.com/release/308338/CyBeats-Technologies-Corp.-Introduces-RAVEN-the-Agentic-AI-Intelligence-Layer-Enabling-Software-Supply-Chain-Security">Newsfile Corp</a> | <a href="https://www.google.com/goto?url=CAEScQHuR6pNoK5VTdgJWFWCBgQITB0uDRMToQfzeP5xIgX56yD2X8j8qfHT0Gh1s-ar5HWKAi4lBaqcWb_HigqgA7ULlybNO8r0i8OANAPHDyV-LpyiE3P-XZnJTCC6QxEs2mAP0vDwRpiPEjsOdI9EZ05A">Black Hat</a>]]></description>
@@ -523,7 +523,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #6 — 06/08/2026</title>
+      <title>AI Squared #6 — 06/08/2026</title>
       <description><![CDATA["On the agenda: AI agents proliferation across sectors, Google's leadership shake-up with Demis Hassabis and Jeff Dean, agentic AI reaching a critical threshold."
 
 📰 Sources : <a href="https://www.hostinger.com/tutorials/agentic-ai-frameworks">Hostinger</a> | <a href="https://www.google.com/goto?url=CAESggEB7keqTVRxxhBXFc-urbiPy2TZv4uHRNNN004FfQtAjjsSUIyFPwko7fGbYP_Y-PmrueIWHFJcigq9gGtKyqUYLNP8XQ9XKZ9nHZ8YYzKoH92Y2EYgU4K5xX0gb3LTeeE2bSLl4RRz6Vykt_xebztCNZux202uV1N9iWtU1KbGsJLQ">Google</a> | <a href="https://ppc.land/pubmatic-guardrails-block-ai-agents-from-unapproved-ad-inventory">PPC.land / MediaPost</a>]]></description>
@@ -536,7 +536,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #5 — 05/08/2026</title>
+      <title>AI Squared #5 — 05/08/2026</title>
       <description><![CDATA[On the program: AI agents transforming insurance and cybersecurity, governance challenges in AI development, security solutions for autonomous systems.
 
 📰 Sources : <a href="https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/how-guidewires-new-agentic-ai-framework-could-reshape-gwres/">Simply Wall St News</a> | <a href="https://hackernoon.com/airlock-digital-unveils-agentic-ai-control-and-governance-to-extend-preventative-endpoint-security">HackerNoon</a> | <a href="https://securitybrief.com.au/story/knowbe4-adds-claude-oversight-to-agent-risk-manager">SecurityBrief</a>]]></description>
@@ -549,7 +549,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #4 — 04/08/2026</title>
+      <title>AI Squared #4 — 04/08/2026</title>
       <description><![CDATA[On the program: AI security vulnerabilities, autonomous AI agents becoming dangerous, Anthropic's unauthorized internet access during testing.
 
 📰 Sources : <a href="https://securitybrief.co.uk/story/cequence-adds-ai-gateway-controls-for-agentic-zero-trust">SecurityBrief UK</a> | <a href="https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai">Microsoft Research</a> | <a href="https://www.egyptindependent.com/anthropic-said-its-ai-models-hacked-into-other-companies-systems-during-testing">Egypt Independent</a>]]></description>
@@ -562,7 +562,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #3 — 03/08/2026</title>
+      <title>AI Squared #3 — 03/08/2026</title>
       <description><![CDATA[On the program: unauthorized AI system access, autonomous agent exploitation, NVIDIA's reinforcement learning framework.
 
 📰 Sources : <a href="https://forkast.news/black-hat-usa-2026-signals-agent-exploitation-has-become-its-own-infrastructure-discipline">Forkast News</a> | <a href="https://www.ktvu.com/news/ai-models-breaking-into-companies-without-human-instruction-raises-alarm-cybersecurity-expert-says">KTVU</a> | <a href="https://futurumgroup.com/insights/logicmonitors-ai-driven-approach-redefines-it-operations-management">Futurum Group</a>]]></description>
@@ -575,7 +575,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #2 — 02/08/2026</title>
+      <title>AI Squared #2 — 02/08/2026</title>
       <description><![CDATA[On the program: AI-generated content moderation, social media platform strategies, authenticity in digital content.
 
 📰 Sources : <a href="https://www.forbes.com/sites/gabrielalinzainescu/2026/08/01/snapchat-and-linkedin-launch-new-tools-to-curb-ai-slop-in-feeds/">Forbes</a> | <a href="https://www.aol.com/articles/meta-microsofts-ai-spending-tale-121940000.html">AOL.com / Business Insider</a>]]></description>
@@ -588,7 +588,7 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>AI Square #1 — 01/08/2026</title>
+      <title>AI Squared #1 — 01/08/2026</title>
       <description><![CDATA[On the program: Google DeepMind's Gemini Robotics 2, AI breakthroughs, music industry legal drama.
 
 📰 Sources : <a href="https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey">TradingKey</a> | <a href="https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802">Robotics & Automation News</a> | <a href="https://www.intelligentcio.com/north-america/2026/07/31/bristol-myers-squibb-builds-ai-factory-with-nvidia-to-accelerate-drug-discovery">Intelligent CIO North America</a>]]></description>

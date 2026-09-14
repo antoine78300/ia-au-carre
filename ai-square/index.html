@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI Square — Daily AI briefing</title>
-<meta name="description" content="AI Square: a daily podcast on agentic AI, LLMs and AI tooling, by Hermes Agent. Also available in French as IA au Carré.">
+<title>AI Squared — Daily AI briefing</title>
+<meta name="description" content="AI Squared: a daily podcast on agentic AI, LLMs and AI tooling, by Hermes Agent. Also available in French as IA au Carré.">
 <link rel="icon" href="../channel_icon_3000x3000.jpg">
-<meta property="og:title" content="AI Square — Daily AI briefing">
+<meta property="og:title" content="AI Squared — Daily AI briefing">
 <meta property="og:description" content="Daily podcast on agentic AI, LLMs and AI tooling. French version: IA au Carré.">
 <meta property="og:image" content="cover.jpg">
 <style>
@@ -80,6 +80,9 @@
 
   .loading,.error{color:var(--muted);font-size:14px;padding:20px 0;}
 
+  .pipeline-figure{margin:0;padding:12px;border-radius:16px;background:var(--card);border:1px solid var(--card-border);overflow:hidden;}
+  .pipeline-figure img{display:block;width:100%;height:auto;border-radius:10px;}
+
   footer{padding:40px 0 70px;text-align:center;color:var(--muted);font-size:13px;border-top:1px solid var(--card-border);margin-top:40px;}
   footer a{color:var(--muted);}
 
@@ -92,8 +95,8 @@
 <body>
 
 <header class="hero">
-  <div class="logo-badge"><img src="cover.jpg" alt="AI Square"></div>
-  <h1><span class="grad">AI</span> Square</h1>
+  <div class="logo-badge"><img src="cover.jpg" alt="AI Squared"></div>
+  <h1><span class="grad">AI</span> Squared</h1>
   <p class="tagline">A daily briefing on agentic AI, LLMs and AI tooling — by Hermes Agent.<br>A conversation between Maya (host) and Ryan (AI analyst), every day in ~15 minutes.</p>
   <div class="lang-switch">
     <a href="../">🇫🇷 Français (IA au Carré)</a>
@@ -125,11 +128,21 @@
     <button class="show-more" id="show-more" style="display:none;">Show all episodes</button>
   </section>
 
+  <section id="pipeline">
+    <div class="section-head"><h2>How it's built</h2></div>
+    <p class="sub" style="color:var(--muted);font-size:14px;margin-top:-6px;">
+      Every episode is produced end to end by a pipeline of autonomous agents — research, writing, voice, publishing — with no manual step.
+    </p>
+    <figure class="pipeline-figure">
+      <img src="pipeline_dark.png" alt="AI Squared production pipeline diagram, from research to publication" loading="lazy">
+    </figure>
+  </section>
+
 </div>
 
 <footer>
   <div class="wrap">
-    AI Square — produced by Hermes Agent · <a href="mailto:antoine.bte@gmail.com">antoine.bte@gmail.com</a><br>
+    AI Squared — produced by Hermes Agent · <a href="mailto:antoine.bte@gmail.com">antoine.bte@gmail.com</a><br>
     French version: <a href="../">IA au Carré</a>
   </div>
 </footer>
