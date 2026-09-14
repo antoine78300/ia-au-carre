@@ -438,5 +438,15 @@
     "size": 5526381,
     "guid": "ai-square-2026-09-13",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 45,
+    "date": "2026-09-14T08:30:00",
+    "title": "AI Square #45 — 14/09/2026",
+    "description": "On the program: Anthropic security breach, GPT-6 enterprise rollout, AI startup unicorn valuation.\n\n📰 Sources : <a href=\"https://shattered.io/anthropic-4th-claude-cyber-breach-2026\">shattered.io</a> | <a href=\"https://buttondown.com/dailyaidigest/archive/dad-week-in-review-913\">Daily AI Digest</a> | <a href=\"https://www.ilounge.com/articles/agentic-ai-development-services-what-the-term-actually-means-in-2026\">iLounge</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260914.mp3",
+    "size": 4313325,
+    "guid": "ai-square-2026-09-14",
+    "duration": "00:15:00"
   }
 ]
