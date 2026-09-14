@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Squared #31 — 31/08/2026 — AI Squared</title>
+<meta name="description" content="On the program: NVIDIA&#x27;s $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.">
+<link rel="canonical" href="https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-08-31.html">
+<link rel="icon" href="../../channel_icon_3000x3000.jpg">
+<meta property="og:title" content="AI Squared #31 — 31/08/2026">
+<meta property="og:description" content="On the program: NVIDIA&#x27;s $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-08-31.html">
+<meta property="og:locale" content="en_US">
+<style>
+:root{
+  --bg:#070B14; --card:#101a2c; --card-border:#1e2c47;
+  --teal:#5EEAD4; --blue:#7DD3FC; --violet:#C4B5FD;
+  --text:#E5E9F5; --muted:#94A3B8;
+  --grad:linear-gradient(100deg,var(--teal),var(--blue) 55%,var(--violet));
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:
+    radial-gradient(1100px 500px at 12% -10%, rgba(94,234,212,.12), transparent 60%),
+    radial-gradient(1100px 600px at 90% 0%, rgba(196,181,253,.10), transparent 55%),
+    var(--bg);
+  color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.6;
+}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px 70px;}
+a{color:var(--blue);}
+header.ep-header{padding:28px 24px;}
+header.ep-header a.back-link{color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;}
+header.ep-header a.back-link:hover{color:var(--text);}
+.ep-eyebrow{color:var(--teal);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin:0 0 10px;}
+h1{font-size:30px;font-weight:800;letter-spacing:-0.3px;margin:0 0 16px;line-height:1.25;}
+.ep-desc{color:var(--muted);font-size:16px;margin:0 0 22px;}
+.ep-desc a{color:var(--teal);text-decoration:none;}
+audio{width:100%;height:40px;margin-bottom:20px;}
+.subscribe-row{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 40px;}
+.btn{
+  display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:12px;
+  font-size:14px;font-weight:600;text-decoration:none;border:1px solid var(--card-border);
+  color:var(--text);background:rgba(255,255,255,.03);
+}
+.btn.primary{background:var(--grad);color:#07101d;border:none;}
+h2.transcript-heading{font-size:20px;font-weight:700;margin:0 0 18px;padding-top:28px;border-top:1px solid var(--card-border);}
+.transcript{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 30px;}
+.transcript p{margin:0 0 18px;font-size:15.5px;}
+.transcript p:last-child{margin-bottom:0;}
+.transcript .spk{font-weight:700;margin-right:6px;}
+footer{padding:40px 24px 70px;text-align:center;color:var(--muted);font-size:13px;max-width:760px;margin:0 auto;}
+footer a{color:var(--muted);}
+@media (max-width:600px){
+  h1{font-size:24px;}
+  .transcript{padding:22px 18px;}
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "url": "https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-08-31.html",
+  "name": "AI Squared #31 — 31/08/2026",
+  "datePublished": "2026-08-31",
+  "description": "On the program: NVIDIA's $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.",
+  "episodeNumber": 31,
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260831.mp3"
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "AI Squared",
+    "url": "https://antoine78300.github.io/ia-au-carre/ai-square/"
+  },
+  "timeRequired": "PT15M"
+}
+</script>
+</head>
+<body>
+
+<header class="ep-header">
+  <a class="back-link" href="../">← AI Squared</a>
+</header>
+
+<div class="wrap">
+  <article>
+    <p class="ep-eyebrow">Episode 31 · August 31, 2026</p>
+    <h1>AI Squared #31 — 31/08/2026</h1>
+    <p class="ep-desc">On the program: NVIDIA&#x27;s $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.</p>
+    <audio controls preload="none" src="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260831.mp3"></audio>
+    <div class="subscribe-row">
+      <a class="btn" href="../feed.xml">RSS feed</a>
+    </div>
+
+    <h2 class="transcript-heading">Full transcript</h2>
+    <div class="transcript">
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Hey everyone, welcome to AI Square, the podcast that breaks down artificial intelligence in your everyday life. I&#x27;m Maya, and we have a story today that is absolutely going to dominate the conversation: twelve point nine billion dollars, that&#x27;s what NVIDIA is reportedly set to pay to acquire Hugging Face. We&#x27;re also going to dig into AI agent governance, which is fast becoming one of the defining issues of our time, plus a handful of tools that are changing how we train these agents. Let&#x27;s get into it, Monday August 31, 2026.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Ryan, we are kicking things off with the story that swallowed the entire weekend news cycle, and that&#x27;s NVIDIA&#x27;s imminent acquisition of Hugging Face. Twelve point nine billion dollars. That is a massive number. What exactly is going on here?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yeah Maya, this is genuinely the earthquake of the week for the AI ecosystem. Let me set the scene for anyone who&#x27;s not super familiar with Hugging Face: it is the go-to platform for everything open-source in artificial intelligence. We&#x27;re talking thirteen million developers who use it every single day to share models, datasets, and code. Think of it as the GitHub of AI, that&#x27;s really the best way to put it.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And NVIDIA is buying it. But why NVIDIA? Most people know them for graphics chips, for GPUs.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> And that is exactly the right question to ask. NVIDIA today is so much more than a chipmaker. They figured out a long time ago that hardware alone doesn&#x27;t get you there. If you control the platform where developers go to find their models, their tools, their datasets, you effectively control a very significant piece of the entire AI value chain. This is an extremely aggressive vertical integration play.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> But that raises some real concerns, right? Because the whole point of Hugging Face, its superpower, is that it&#x27;s neutral. It&#x27;s open to everybody.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Absolutely, and that&#x27;s where things get complicated fast. Right now, direct NVIDIA competitors like AMD and Google are posting models on Hugging Face, using the platform, contributing to the community. If NVIDIA closes this deal, are those players going to keep trusting a platform that&#x27;s owned by a direct competitor? Is Hugging Face going to start favoring NVIDIA GPUs in its recommendations? Could certain models become harder to access? These are completely legitimate questions that a lot of developers are wrestling with right now.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And would this be the biggest acquisition in NVIDIA&#x27;s history?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Absolutely. Twelve point nine billion tops everything they&#x27;ve done before. To put it in perspective, their attempted ARM acquisition a few years back, which ultimately fell apart under regulatory pressure, was valued at forty billion. So this deal is smaller in raw dollar terms, but strategically, Hugging Face might actually be even more central to the future of AI than ARM ever was. And I fully expect regulators, especially in Europe, to take a very hard look at this one.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So this is way bigger than just a check being written. We&#x27;ll be watching this one closely. Alright, let&#x27;s move into our tools and frameworks segment, because we&#x27;ve got several interesting things to cover today. Ryan, where do you want to start?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Let&#x27;s start with EnvHarness, which Google Cloud AI Research just unveiled. It tackles a problem that anyone working on AI agents runs into: how do you actually train these things properly?</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So what&#x27;s broken about the way we train agents today?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Until now, the standard approach has been to use static benchmarks. Picture a fixed exam: you always ask the same questions in the same order, you measure the results, and you use that to figure out whether your agent is improving. The problem is that looks nothing like the real world. In real deployment, an agent is going to face situations that are constantly changing, unpredictable, dynamic.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And how does EnvHarness fix that?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> The clever idea behind EnvHarness is to take those static environments and turn them into adaptive worlds. Concretely, it&#x27;s a programmable layer that you drop on top of an existing benchmark. That layer watches what the agent does well and what it struggles with, and then it actually reconfigures the environment to specifically target those weak spots. Under the hood, it uses plug-in components that interface through standard commands. If you&#x27;re a developer, you&#x27;ll recognize the pattern immediately: reset and step, the two basic functions of reinforcement learning environments.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So the agent learns in a way that&#x27;s much more organic, much closer to what it&#x27;s actually going to experience once it&#x27;s deployed in the wild.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Exactly. And this fundamentally shifts the philosophy of training. You go from a model where you&#x27;re evaluating an agent on fixed, curated text, to a model where the agent learns through dynamic interaction. It&#x27;s kind of like the difference between learning a language from a textbook versus just moving to the country and living there.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> That&#x27;s a really good analogy. We also have the topic of AAMP protocols for agentic advertising. What&#x27;s that all about?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> So the IAB Tech Lab, which is the standardization body for digital advertising, has released a new version of what they call the Agentic Advertising Management Protocols, AAMP for short. They just dropped version two point three. The idea behind AAMP is to define how AI agents can participate in real-time advertising auction systems in a way that&#x27;s secure and standardized.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Because programmatic advertising is already highly automated, but we&#x27;re taking it to another level here?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> A whole other level. Today&#x27;s ad algorithms follow rules that are pre-programmed ahead of time. With AI agents, you&#x27;re talking about systems that can actually reason, adapt, and make far more complex decisions in real time. AAMP puts some very concrete guardrails in place: agent code has to run inside isolated containers, any network traffic outside the orchestration layer is blocked, and communication protocols are standardized through gRPC. And version two point three adds extra layers around consumer privacy protection and regulatory compliance.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> What&#x27;s interesting here is that this is essentially an industry regulating itself.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Right, and that matters a lot. In an environment where public regulation is struggling to keep pace, industry standards like AAMP play a critical role in establishing common rules of the road and preventing things from going sideways.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Now let&#x27;s get into our research segment, and this is one I really wanted to dig into: AI agent security. Because there was an incident at Cursor AI that triggered a pretty significant response from US authorities.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yeah, and this is a really important signal. Cursor AI, which is an incredibly popular code assistance tool among developers, experienced a security breach. The exact details of the incident are still partially under wraps, but the fallout was immediate and dramatic: CISA, the US Cybersecurity and Infrastructure Security Agency, published twenty-three new governance directives specifically for autonomous AI agents.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Twenty-three directives at once, that is a lot. What do they actually say?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Two main themes. First, limiting agent autonomy. Federal agencies and companies now have to define very precise operational boundaries for their AI agents. An agent cannot unilaterally decide to step outside its defined scope of action. Second, these agents have to align with existing cybersecurity frameworks, specifically the NIST Cybersecurity Framework. Essentially, we&#x27;re applying to AI agents the same security standards we already apply to traditional IT systems.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Does this risk stifling innovation though? Because the whole value of an AI agent is precisely that it can operate with a fair degree of autonomy.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> That&#x27;s the core tension, and it&#x27;s a really valid point. Too many restrictions and you kill the usefulness of the agent. But an agent that&#x27;s too autonomous inside critical systems can cause very real damage if something goes wrong. What CISA is essentially saying is: you can have powerful agents, as long as their perimeter is explicitly defined and auditable. That&#x27;s a reasonable approach, but it does demand serious design effort from the teams building these systems.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And that connects to a bigger picture topic we need to get into now: the industry impact. Because by some observers&#x27; accounts, AI regulation is turning into something close to organized chaos.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> The word chaos is actually being used by journalists at CNN and Radio New Zealand who&#x27;ve put out some really compelling investigations on this. The comparison that keeps coming up is the early days of the COVID pandemic: a technology moving incredibly fast, authorities scrambling to catch up, standards multiplying without coordination, and widespread uncertainty about where this all lands.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And Jensen Huang, NVIDIA&#x27;s CEO, has staked out a pretty strong position on this.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> He has, and it&#x27;s telling. Jensen Huang is proposing that frontier AI models, meaning the most powerful ones, should be treated like hazardous materials. He&#x27;s advocating for mandatory government testing standards before any deployment. Now, that&#x27;s a striking stance coming from the CEO of the company whose chips power all of these models. But it shows that even inside the industry, there&#x27;s a growing recognition that the current situation isn&#x27;t sustainable.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> He also launched some kind of coalition, right?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> He did, he&#x27;s been pulling together stakeholders around an open-source defense initiative against malicious AI agents. The idea is to share data on attack attempts and abnormal agent behavior, modeled pretty closely on how traditional cybersecurity already works with the sharing of indicators of compromise.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Speaking of AWS, there&#x27;s also a story that directly involves the US federal government, around AWS GovCloud.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yes, and this is very concrete. Amazon Web Services just announced that several major AI models are now available in Amazon Bedrock on the GovCloud platform, which is AWS&#x27;s specially certified environment built specifically for US government agencies. We&#x27;re talking models from Anthropic, Meta Llama, NVIDIA Nemotron models, OpenAI models, and even xAI&#x27;s Grok.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So federal agencies can now access the same models as the private sector?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Exactly, but with the security and compliance guarantees that come with GovCloud. And what&#x27;s interesting is the phrase AWS is using in their messaging: &quot;mission advantage.&quot; The idea is that flexibility in model choice becomes an operational edge for agencies. You&#x27;re no longer locked into a single vendor, you can pick the model that&#x27;s best suited for each specific use case while staying inside a sovereign, secure environment.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And we&#x27;re wrapping up our overview with Gemini three point seven Flash from Google, because this one is a story with direct economic impact for AI development teams.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> It really is, and it&#x27;s great news for developers and companies. Google has cut the pricing for Gemini three point seven Flash by fifty percent. Just to recap, this model launched in mid-August and it&#x27;s designed for high-volume tasks: code assistance, document processing, agent workflows. It offers a context window of one million tokens, which is enormous.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> One million tokens, for listeners who aren&#x27;t super familiar with that concept, what does that actually mean in practical terms?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> So the context window is basically the amount of information the model can hold in mind at one time. One million tokens works out to roughly seven hundred to eight hundred thousand words, which is the equivalent of several full-length books. In practice, that means an agent can analyze a very large document, an entire codebase, very long conversation histories, without losing track of anything. And with that fifty percent price cut, running this model at scale becomes a whole lot more economically viable.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And it&#x27;s becoming the default model in some Google tools?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yes, it&#x27;s now the default in the Gemini Enterprise Agent Platform and in Gemini Spark. It&#x27;s also been rolled out in Android Studio for mobile developers. This is clearly a volume play: make the model cheaper so it gets used everywhere, and in return you generate adoption and data at massive scale.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Perfect. Ryan, thank you for such a rich breakdown today. Let&#x27;s do a quick recap of the big takeaways. The headline story is NVIDIA&#x27;s imminent acquisition of Hugging Face for nearly thirteen billion dollars, a deal that raises serious questions about the future of open-source AI. On the tools side, Google unveiled EnvHarness to make AI agent training smarter, and the IAB dropped an update to its agentic advertising protocols. On the security front, the Cursor AI breach triggered a wave of twenty-three new governance directives from CISA. And rounding things out, the market is taking shape with AWS GovCloud opening up to major AI models, and Google slashing Gemini three point seven Flash prices in half.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> And if I had to pull out one common thread running through everything today, it&#x27;s that agentic AI is moving out of the lab and into the real world, and all the hard questions are coming with it: who controls the platforms, how do we secure these agents, how do we regulate them. This is no longer speculation about the future. This is today&#x27;s news.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Couldn&#x27;t have said it better. Thanks so much to everyone for tuning in. If you got something out of this episode, share it with someone who&#x27;d enjoy it, that&#x27;s honestly the best way to help this community grow. We&#x27;ll see you tomorrow for another episode of AI Square. Have a great day, everyone.</p>
+    </div>
+  </article>
+</div>
+
+<footer>
+  AI Squared — produced by Hermes Agent · <a href="../">← AI Squared</a>
+</footer>
+
+</body>
+</html>

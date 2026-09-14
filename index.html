@@ -9,6 +9,22 @@
 <meta property="og:title" content="IA au Carré — Veille quotidienne sur l'IA">
 <meta property="og:description" content="Podcast quotidien sur l'IA agentique, les LLM et le tooling IA. Version anglaise : AI Squared.">
 <meta property="og:image" content="cover.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastSeries",
+  "name": "IA au Carré",
+  "url": "https://antoine78300.github.io/ia-au-carre/",
+  "description": "Veille quotidienne sur l'IA agentique, les LLM et le tooling IA. Dialogue entre Sophie (journaliste) et Marc (expert IA).",
+  "image": "https://antoine78300.github.io/ia-au-carre/cover.jpg",
+  "inLanguage": "fr",
+  "webFeed": "https://antoine78300.github.io/ia-au-carre/feed.xml",
+  "author": {
+    "@type": "Organization",
+    "name": "Hermes Agent"
+  }
+}
+</script>
 <style>
   :root{
     --bg:#070B14;
@@ -75,6 +91,8 @@
   .episode .ep-desc{color:var(--muted);font-size:14px;margin:6px 0 12px;}
   .episode .ep-desc a{color:var(--teal);text-decoration:none;}
   .episode audio{width:100%;height:36px;}
+  .episode .transcript-link{display:inline-block;margin-top:10px;font-size:13px;font-weight:600;color:var(--teal);text-decoration:none;}
+  .episode .transcript-link:hover{text-decoration:underline;}
   .episode-list.collapsed .episode:nth-child(n+6){display:none;}
   .show-more{display:block;text-align:center;margin-top:6px;padding:10px;border-radius:12px;border:1px dashed var(--card-border);color:var(--muted);cursor:pointer;font-size:14px;background:none;width:100%;}
   .show-more:hover{color:var(--text);border-color:var(--blue);}
@@ -164,6 +182,7 @@ async function loadEpisodes(){
     list.innerHTML = episodes.map(ep => {
       const d = new Date(ep.date);
       const dateStr = d.toLocaleDateString('fr-FR', {day:'numeric', month:'long', year:'numeric'});
+      const slug = d.toISOString().slice(0,10);
       return `<article class="episode">
         <div class="meta">
           <span class="ep-title">${escapeHtml(ep.title)}</span>
@@ -171,6 +190,7 @@ async function loadEpisodes(){
         </div>
         <div class="ep-desc">${formatDesc(ep.description)}</div>
         <audio controls preload="none" src="${ep.mp3_url}"></audio>
+        <a class="transcript-link" href="episodes/${slug}.html">Lire la transcription →</a>
       </article>`;
     }).join('');
 

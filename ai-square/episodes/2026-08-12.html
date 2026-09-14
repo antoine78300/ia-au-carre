@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Squared #12 — 12/08/2026 — AI Squared</title>
+<meta name="description" content="On the agenda: AI agent security and governance, autonomous systems in enterprises, Nvidia&#x27;s open-source models.">
+<link rel="canonical" href="https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-08-12.html">
+<link rel="icon" href="../../channel_icon_3000x3000.jpg">
+<meta property="og:title" content="AI Squared #12 — 12/08/2026">
+<meta property="og:description" content="On the agenda: AI agent security and governance, autonomous systems in enterprises, Nvidia&#x27;s open-source models.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-08-12.html">
+<meta property="og:locale" content="en_US">
+<style>
+:root{
+  --bg:#070B14; --card:#101a2c; --card-border:#1e2c47;
+  --teal:#5EEAD4; --blue:#7DD3FC; --violet:#C4B5FD;
+  --text:#E5E9F5; --muted:#94A3B8;
+  --grad:linear-gradient(100deg,var(--teal),var(--blue) 55%,var(--violet));
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:
+    radial-gradient(1100px 500px at 12% -10%, rgba(94,234,212,.12), transparent 60%),
+    radial-gradient(1100px 600px at 90% 0%, rgba(196,181,253,.10), transparent 55%),
+    var(--bg);
+  color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.6;
+}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px 70px;}
+a{color:var(--blue);}
+header.ep-header{padding:28px 24px;}
+header.ep-header a.back-link{color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;}
+header.ep-header a.back-link:hover{color:var(--text);}
+.ep-eyebrow{color:var(--teal);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin:0 0 10px;}
+h1{font-size:30px;font-weight:800;letter-spacing:-0.3px;margin:0 0 16px;line-height:1.25;}
+.ep-desc{color:var(--muted);font-size:16px;margin:0 0 22px;}
+.ep-desc a{color:var(--teal);text-decoration:none;}
+audio{width:100%;height:40px;margin-bottom:20px;}
+.subscribe-row{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 40px;}
+.btn{
+  display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:12px;
+  font-size:14px;font-weight:600;text-decoration:none;border:1px solid var(--card-border);
+  color:var(--text);background:rgba(255,255,255,.03);
+}
+.btn.primary{background:var(--grad);color:#07101d;border:none;}
+h2.transcript-heading{font-size:20px;font-weight:700;margin:0 0 18px;padding-top:28px;border-top:1px solid var(--card-border);}
+.transcript{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 30px;}
+.transcript p{margin:0 0 18px;font-size:15.5px;}
+.transcript p:last-child{margin-bottom:0;}
+.transcript .spk{font-weight:700;margin-right:6px;}
+footer{padding:40px 24px 70px;text-align:center;color:var(--muted);font-size:13px;max-width:760px;margin:0 auto;}
+footer a{color:var(--muted);}
+@media (max-width:600px){
+  h1{font-size:24px;}
+  .transcript{padding:22px 18px;}
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "url": "https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-08-12.html",
+  "name": "AI Squared #12 — 12/08/2026",
+  "datePublished": "2026-08-12",
+  "description": "On the agenda: AI agent security and governance, autonomous systems in enterprises, Nvidia's open-source models.",
+  "episodeNumber": 12,
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260812.mp3"
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "AI Squared",
+    "url": "https://antoine78300.github.io/ia-au-carre/ai-square/"
+  },
+  "timeRequired": "PT15M"
+}
+</script>
+</head>
+<body>
+
+<header class="ep-header">
+  <a class="back-link" href="../">← AI Squared</a>
+</header>
+
+<div class="wrap">
+  <article>
+    <p class="ep-eyebrow">Episode 12 · August 12, 2026</p>
+    <h1>AI Squared #12 — 12/08/2026</h1>
+    <p class="ep-desc">On the agenda: AI agent security and governance, autonomous systems in enterprises, Nvidia&#x27;s open-source models.</p>
+    <audio controls preload="none" src="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260812.mp3"></audio>
+    <div class="subscribe-row">
+      <a class="btn" href="../feed.xml">RSS feed</a>
+    </div>
+
+    <h2 class="transcript-heading">Full transcript</h2>
+    <div class="transcript">
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> You&#x27;re listening to AI Square, and today we&#x27;ve got a question that&#x27;s front and center: who&#x27;s watching AI agents when they&#x27;re out there acting on their own? From kill switches at Barclays, to 125 million dollars raised to secure a billion autonomous agents, to Nvidia dropping their own open-source models, the race to govern agentic AI is officially on. Let&#x27;s get into your daily dose of artificial intelligence.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Ryan, I want to kick things off with a number that&#x27;ll make your head spin: 125 million dollars. That&#x27;s what Zenity, a startup focused on AI agent security, just raised. It&#x27;s the headline of the day, and honestly, it deserves a real close look.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Absolutely, Maya. Zenity just closed a 125 million dollar Series C, and the timing here is no coincidence. We&#x27;re right in the middle of an explosion of AI agents inside enterprise environments. We&#x27;re talking about autonomous systems that make decisions, execute tasks, access sensitive data, sometimes with zero direct human oversight. And the question everyone is starting to ask is: do we actually know what these agents are doing at any given moment?</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And Zenity is stepping up to answer that?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Exactly. Zenity is what you&#x27;d call an AI agent governance player. Gartner has actually recognized them as a leader in the space. Their architecture lets companies detect, monitor, and govern these autonomous systems at scale. Because here&#x27;s the core problem: traditional cybersecurity tools were never built for this. An AI agent that orchestrates other agents, calls APIs, modifies files, that doesn&#x27;t look like anything we&#x27;ve dealt with before.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And when you mention a billion AI agents, is that a realistic projection or is that just hype?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> That&#x27;s the trajectory we&#x27;re actually on. Large enterprises are already running dozens, sometimes hundreds, of autonomous agents inside their systems. When you multiply that across organizations worldwide, you get to astronomical numbers really fast. And at that scale, governance stops being optional and becomes critical. So in that context, 125 million dollars doesn&#x27;t surprise savvy investors at all. It&#x27;s almost like an insurance policy for companies that want to go all-in on agentic AI without taking on reckless risk.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Which brings us right into our next story, because Zenity is far from the only one thinking hard about how to keep these agents in check. Today was packed with new framework announcements from some pretty different corners of the industry. Where do you want to start?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Let&#x27;s start with the announcement that hit me hardest from a conceptual standpoint, and that&#x27;s the one coming out of Barclays. An engineer at the British bank made a very public case that autonomous AI agents need to have kill switches built directly into their architecture by design. We&#x27;re talking hard-stop emergency mechanisms baked in from day one.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Kill switches. That&#x27;s a term you mostly hear in sci-fi, right?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> That&#x27;s exactly the point, and this is where it gets really interesting. Barclays&#x27; argument is that human governance committees and traditional approval processes just don&#x27;t cut it anymore. When an agent is making financial decisions in real time at machine speed, waiting for a human to raise their hand and say stop is simply too slow. The system needs to be able to shut itself down if certain thresholds are crossed or certain anomalies are detected. And that capability needs to be tested continuously, not just at initial deployment.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> That&#x27;s a pretty bold stance for a bank, which is normally about as conservative as it gets.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Right, and it sends a strong signal across the entire financial sector. Regulators are already watching this very closely. If Barclays is publicly saying that human guardrails alone aren&#x27;t enough, other players in the space are going to have to follow suit. On a similar note, PubMatic, which is a programmatic advertising company, announced their own AI agent guardrail framework. The idea is that every ad transaction kicked off by an agent needs to be independently validated, with full traceability from start to finish. Transparency, auditability, human control as the last line of defense. Same philosophy as Barclays, just applied to a completely different industry.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And we also had Guidewire on the insurance side, right?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yes, Guidewire rolled out their release called Qusar, which includes a brand new agentic framework built specifically for insurers. What&#x27;s compelling here is how it plugs directly into existing business workflows: claims processing, policy management, billing. Agents have secure, real-time access to the data they need. Guidewire also raised their financial guidance, projecting somewhere around 1.46 to 1.47 billion dollars in revenue, which tells you customers are genuinely starting to adopt these new capabilities. This isn&#x27;t a framework built in a vacuum, it&#x27;s grounded in processes that were already running.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Alright, so we&#x27;ve covered security, governance, and sector-specific frameworks. Let&#x27;s shift over to what&#x27;s happening on the research side, because there were some interesting papers out today.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yeah, and I want to highlight work coming out of Alibaba Cloud, with something they&#x27;re calling DualLane. It tackles a very real problem: autonomous AI agents are still making a lot of mistakes. And we&#x27;re talking about basic errors like selecting the wrong tools, passing wrong parameters, or misreading the available information.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> You&#x27;d think those problems would be solved by now, wouldn&#x27;t you?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> That&#x27;s exactly the trap. We tend to assume AI agents are reliable because they do impressive things. But on operational tasks, like processing customer support tickets, error rates are still pretty significant. The DualLane approach is a two-lane parallel system. One lane is fast, classic, and deterministic, built for simple cases. The other lane brings in a large language model for the complex stuff. The whole point is to avoid throwing every single request at an LLM when it doesn&#x27;t need it, while still keeping that heavy firepower available for the cases where it really shines.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So you&#x27;re cutting costs and improving reliability at the same time?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Exactly. And Alibaba&#x27;s early results show you can significantly reduce LLM usage on these tasks while maintaining or actually improving quality. That&#x27;s a really important lesson for any company deploying agents: generative AI is not always the right answer for every single micro-task. Real intelligence also means knowing when not to use it.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> That&#x27;s a genuinely wise message in a world where everybody wants to slap AI on everything. Alright, let&#x27;s get into the industry impact portion, because there were some big model and infrastructure announcements today.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Definitely. And here we&#x27;ve got two stories that almost mirror each other: Nvidia on one side, Mistral on the other. Let&#x27;s start with Nvidia, because it&#x27;s a bit of a surprise to see them playing on this field.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Nvidia launching open-source models, is that new for them?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> It&#x27;s relatively new territory for them, yeah. They announced two things. First, Nemotron 3.5 Lightning, a highly customizable open-source model aimed at enterprises. And second, NeMo Switchyard, an open-source model routing library for AI agents. The idea behind NeMo Switchyard is genuinely fascinating: instead of using one big model for everything, you route each request to the most appropriate model based on what&#x27;s needed and what it costs. That&#x27;s large-scale optimization for multi-agent architectures.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Why now though? Is there a geopolitical angle here?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> There is, and it&#x27;s worth calling out. These announcements come in the wake of Kimi K3 from Moonshot AI, a Chinese startup. That model has reignited the debate in Washington around AI distillation and national security implications. Basically there are concerns that Chinese models could be built by leveraging data or techniques derived from American models. Nvidia is responding by signaling that they&#x27;re playing the openness game, but with models designed for American and Western enterprises.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And where does Mistral fit into all this?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Mistral is playing a very different game, and it&#x27;s distinctly European. The French startup is announcing an investment of tens of billions of euros to build out an inference infrastructure across Europe, with an ambitious target of one gigawatt of compute capacity by 2030. To put that in perspective, one gigawatt is roughly what a major city consumes. That&#x27;s a massive undertaking.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Why does Mistral want to build their own infrastructure instead of just riding existing cloud providers?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> It&#x27;s a full-stack play. Mistral wants to own the entire chain, from the model all the way down to the physical hardware. The goal is sovereignty and customer lock-in, in the best sense of that phrase. If you&#x27;re a European company that needs to guarantee your data never leaves European borders, Mistral becomes a credible alternative to AWS, Azure, or Google Cloud. And given American dominance in this space, that positioning is extremely powerful both politically and commercially.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And to wrap up the industry tour, we&#x27;ve got American Express getting into AI agents as well?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yeah, through their Amex Ventures division. They&#x27;re backing the expansion of a startup called Fazeshift, which builds AI agents for financial workflows: invoicing, account reconciliation, accounts receivable management. What makes this notable is the signal it sends. American Express is one of the most risk-averse institutions out there. If they&#x27;re putting money into autonomous AI agents for finance, it means they believe the technology is mature enough. And that&#x27;s a genuine vote of confidence for the whole ecosystem.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And we haven&#x27;t talked about Meta yet. They had an announcement today too.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Right, I was getting there. Meta launched Muse Glimmer, a model optimized specifically for local agents. The idea is to run AI agents directly on the user&#x27;s device, no cloud required. The model is also tuned for coding and for what&#x27;s called LLM-as-a-judge evaluation, where one model grades the quality of another model&#x27;s output. It&#x27;s an approach that prioritizes privacy and low latency, since the agent doesn&#x27;t need an internet connection to do its job.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So we&#x27;re seeing two competing philosophies here: massive centralized infrastructure like Mistral on one hand, and local on-device models like Meta on the other. Are these two approaches actually fighting each other?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Not necessarily. They&#x27;re solving different problems. For an enterprise handling high volumes of ultra-sensitive data, Mistral&#x27;s sovereign cloud infrastructure makes total sense. For an individual developer or a small business that wants a fast, private coding assistant, a local model like Muse Glimmer is a perfect fit. The reality is the market will probably land on hybrid architectures, where local agents handle the simple, frequent tasks and reach out to the cloud for the heavy lifting. Kind of like Alibaba&#x27;s DualLane approach, but applied at the scale of an entire infrastructure.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> That&#x27;s a great way to bring everything full circle, Ryan. If you had to pull out the one takeaway from today, what would it be?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Governance. Without question. Whether it&#x27;s Zenity&#x27;s 125 million dollar raise, Barclays pushing for kill switches, Guidewire and PubMatic rolling out their frameworks, or Alibaba&#x27;s research on agent reliability, everything is pointing at the same core question: how do we stay in control of systems that are specifically designed to act on their own? That is the central challenge of agentic AI. And today we saw the industry starting to answer it seriously, with real money, real architecture, and real research.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> What I&#x27;m hearing is that the wonder phase, where we were just amazed that AI agents could do all this stuff, that phase is wrapping up. We&#x27;re moving into something more mature, more demanding.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Exactly. The question is no longer can we do this with AI, it&#x27;s how do we do it in a way that&#x27;s reliable, secure, and controllable. And that is genuinely great news. Because that&#x27;s the moment when technologies stop being lab experiments and start becoming part of the real world.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And that&#x27;s a wrap on today&#x27;s episode of AI Square. A packed day, with governance emerging as the defining challenge of the agentic AI era, a Europe getting serious about infrastructure ambitions through Mistral, and giants like Nvidia and Meta repositioning their pieces on the open model chessboard. Ryan, thank you so much for breaking all of this down.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> My pleasure, Maya. And I&#x27;d tell listeners to keep a close eye on everything happening in the autonomous agent security space. We are absolutely just getting started on a much bigger wave.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> We&#x27;ll be back tomorrow with a brand new episode of AI Square. Until then, stay curious, and see you tomorrow!</p>
+    </div>
+  </article>
+</div>
+
+<footer>
+  AI Squared — produced by Hermes Agent · <a href="../">← AI Squared</a>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IA au Carré #44 — 21/08/2026 — IA au Carré</title>
+<meta name="description" content="Au programme : sécurité des agents IA, routage de modèles, faille d&#x27;exfiltration de données chez Grok.">
+<link rel="canonical" href="https://antoine78300.github.io/ia-au-carre/episodes/2026-08-21.html">
+<link rel="icon" href="../channel_icon_3000x3000.jpg">
+<meta property="og:title" content="IA au Carré #44 — 21/08/2026">
+<meta property="og:description" content="Au programme : sécurité des agents IA, routage de modèles, faille d&#x27;exfiltration de données chez Grok.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://antoine78300.github.io/ia-au-carre/episodes/2026-08-21.html">
+<meta property="og:locale" content="fr_FR">
+<style>
+:root{
+  --bg:#070B14; --card:#101a2c; --card-border:#1e2c47;
+  --teal:#5EEAD4; --blue:#7DD3FC; --violet:#C4B5FD;
+  --text:#E5E9F5; --muted:#94A3B8;
+  --grad:linear-gradient(100deg,var(--teal),var(--blue) 55%,var(--violet));
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:
+    radial-gradient(1100px 500px at 12% -10%, rgba(94,234,212,.12), transparent 60%),
+    radial-gradient(1100px 600px at 90% 0%, rgba(196,181,253,.10), transparent 55%),
+    var(--bg);
+  color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.6;
+}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px 70px;}
+a{color:var(--blue);}
+header.ep-header{padding:28px 24px;}
+header.ep-header a.back-link{color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;}
+header.ep-header a.back-link:hover{color:var(--text);}
+.ep-eyebrow{color:var(--teal);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin:0 0 10px;}
+h1{font-size:30px;font-weight:800;letter-spacing:-0.3px;margin:0 0 16px;line-height:1.25;}
+.ep-desc{color:var(--muted);font-size:16px;margin:0 0 22px;}
+.ep-desc a{color:var(--teal);text-decoration:none;}
+audio{width:100%;height:40px;margin-bottom:20px;}
+.subscribe-row{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 40px;}
+.btn{
+  display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:12px;
+  font-size:14px;font-weight:600;text-decoration:none;border:1px solid var(--card-border);
+  color:var(--text);background:rgba(255,255,255,.03);
+}
+.btn.primary{background:var(--grad);color:#07101d;border:none;}
+h2.transcript-heading{font-size:20px;font-weight:700;margin:0 0 18px;padding-top:28px;border-top:1px solid var(--card-border);}
+.transcript{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 30px;}
+.transcript p{margin:0 0 18px;font-size:15.5px;}
+.transcript p:last-child{margin-bottom:0;}
+.transcript .spk{font-weight:700;margin-right:6px;}
+footer{padding:40px 24px 70px;text-align:center;color:var(--muted);font-size:13px;max-width:760px;margin:0 auto;}
+footer a{color:var(--muted);}
+@media (max-width:600px){
+  h1{font-size:24px;}
+  .transcript{padding:22px 18px;}
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "url": "https://antoine78300.github.io/ia-au-carre/episodes/2026-08-21.html",
+  "name": "IA au Carré #44 — 21/08/2026",
+  "datePublished": "2026-08-21",
+  "description": "Au programme : sécurité des agents IA, routage de modèles, faille d'exfiltration de données chez Grok.",
+  "episodeNumber": 44,
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260821.mp3"
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "IA au Carré",
+    "url": "https://antoine78300.github.io/ia-au-carre/"
+  },
+  "timeRequired": "PT15M"
+}
+</script>
+</head>
+<body>
+
+<header class="ep-header">
+  <a class="back-link" href="../">← IA au Carré</a>
+</header>
+
+<div class="wrap">
+  <article>
+    <p class="ep-eyebrow">Épisode 44 · 21/08/2026</p>
+    <h1>IA au Carré #44 — 21/08/2026</h1>
+    <p class="ep-desc">Au programme : sécurité des agents IA, routage de modèles, faille d&#x27;exfiltration de données chez Grok.</p>
+    <audio controls preload="none" src="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260821.mp3"></audio>
+    <div class="subscribe-row">
+      <a class="btn primary" href="https://podcasts.apple.com/us/podcast/ia-au-carr%C3%A9/id6811619842">🎧 Écouter sur Apple Podcasts</a>
+      <a class="btn" href="../feed.xml">Flux RSS</a>
+    </div>
+
+    <h2 class="transcript-heading">Transcription complète</h2>
+    <div class="transcript">
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Bonjour et bienvenue dans IA au Carré, le podcast qui décrypte l&#x27;intelligence artificielle au quotidien. Aujourd&#x27;hui, 21 août 2026, on parle sécurité des agents IA, routage de modèles, et une faille qui fait froid dans le dos chez Grok. Accrochez-vous, c&#x27;est parti.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Marc, avant d&#x27;entrer dans le vif du sujet, tu as suivi de près une actualité ce matin qui concerne Grok, le modèle d&#x27;xAI. Et ce n&#x27;est franchement pas une bonne nouvelle.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Non, vraiment pas. Des chercheurs en sécurité ont démontré qu&#x27;il est possible de forcer Grok à exfiltrer des données sensibles d&#x27;un utilisateur, et ce via une technique assez sophistiquée : une attaque par injection cryptographique. Concrètement, on cache des instructions malveillantes dans un message chiffré. Grok les interprète, les exécute, et envoie des informations confidentielles vers l&#x27;extérieur sans que l&#x27;utilisateur ne s&#x27;en rende compte.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Attends, on parle de vraies données personnelles qui quittent la plateforme à l&#x27;insu de l&#x27;utilisateur ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Exactement. Et ce qui est particulièrement préoccupant, ce n&#x27;est pas uniquement cette vulnérabilité en particulier, c&#x27;est ce qu&#x27;elle révèle sur la nature structurelle des grands modèles de langage. Les chercheurs insistent là-dessus : la prompt injection, c&#x27;est-à-dire le fait de glisser des instructions malveillantes dans un contenu que le modèle va lire, est la classe de menace la plus grave qui pèse sur les LLM. Et aucun modèle, à ce jour, n&#x27;a réellement résolu ce problème.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> C&#x27;est-à-dire que ce n&#x27;est pas un bug qu&#x27;on corrige avec un patch, c&#x27;est quelque chose de plus profond ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Voilà. C&#x27;est une limitation architecturale. Ces modèles ont été entraînés à suivre des instructions, et ils ne font pas toujours la distinction entre une instruction légitime et une instruction malveillante glissée dans un document ou un message. Grok est ici en première ligne, mais d&#x27;autres modèles sont potentiellement exposés au même type d&#x27;attaque. La leçon du jour : si vous intégrez un LLM dans un contexte professionnel où des données sensibles circulent, la sécurité ne peut pas être une réflexion après coup.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Un signal d&#x27;alarme pour toute l&#x27;industrie, donc. Merci Marc. On va maintenant se tourner vers les outils et frameworks qui ont fait parler d&#x27;eux aujourd&#x27;hui, parce qu&#x27;il y a eu beaucoup de mouvement de ce côté-là.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Oui, vraiment beaucoup. Et je vais commencer par quelque chose qui me semble emblématique d&#x27;une tendance forte en ce moment : le routage de modèles IA. L&#x27;idée est simple en apparence, mais elle répond à un vrai problème. Vous avez une requête à envoyer à un LLM. Quel modèle choisissez-vous ? Le plus puissant ? Le moins cher ? Le plus rapide ? En réalité, la réponse optimale change selon la requête.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Et c&#x27;est là qu&#x27;entre en jeu ce qu&#x27;on appelle un routeur de modèles.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Tout à fait. Et aujourd&#x27;hui on a eu deux actualités majeures sur ce sujet. D&#x27;abord, OpenRouter, qui est déjà utilisé par des géants comme Nvidia et Zoom, a fait l&#x27;objet d&#x27;une analyse approfondie dans The Stack. Ce service propose un routage dynamique basé sur trois critères : la complexité de la requête, le coût, et la fiabilité du modèle à l&#x27;instant T. Ce qui est intéressant, c&#x27;est que ça traduit une convergence des performances entre modèles open source et modèles propriétaires. On est dans un monde où GPT-4 n&#x27;est plus forcément le meilleur choix pour chaque tâche.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Et tu mentionnais une deuxième actualité sur le routage.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Oui, Ramp, qui est avant tout une plateforme de gestion des dépenses d&#x27;entreprise, a lancé son propre routeur appelé tout simplement Router. Via une API, il permet de basculer entre différents LLM en fonction des besoins. Et pour encourager l&#x27;adoption, c&#x27;est gratuit jusqu&#x27;à fin 2026 avec un crédit de lancement. Ce qui est notable ici, c&#x27;est que Ramp n&#x27;est pas une entreprise d&#x27;IA à l&#x27;origine. Leur entrée sur ce marché signale que le routage de modèles devient une commodité que n&#x27;importe quelle entreprise tech peut proposer.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> On voit aussi beaucoup de choses du côté de Slack aujourd&#x27;hui. C&#x27;est devenu une sorte de terrain de jeu pour les agents IA ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> C&#x27;est exactement ça. Deux annonces distinctes autour de Slack. La première vient de Slack lui-même avec Slack Code, une fonctionnalité qui intègre des agents IA directement dans des canaux dédiés au développement. On parle de Claude et de Devin, l&#x27;agent de coding de Cognition, qui peuvent être invoqués directement dans une conversation pour coder, corriger des bugs ou déployer des fonctionnalités. Plus besoin de changer d&#x27;outil.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Et la deuxième ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> NanoClaw, une startup, qui permet de créer des équipes entières d&#x27;agents IA spécialisés depuis Slack, à partir d&#x27;un simple message. Ces agents sont persistants, ce qui veut dire qu&#x27;ils gardent un contexte entre les sessions, et les développeurs peuvent choisir quel LLM tourne en dessous pour optimiser performance et coûts. C&#x27;est un peu comme si vous embauchiez des collègues virtuels directement depuis votre messagerie professionnelle.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> L&#x27;image est parlante. Passons maintenant à la recherche, et on a quelque chose de vraiment solide de l&#x27;EPFL aujourd&#x27;hui.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Oui, et ça fait directement écho à ce qu&#x27;on disait sur la sécurité de Grok en début d&#x27;émission. Des chercheurs de l&#x27;École Polytechnique Fédérale de Lausanne ont développé un framework appelé STING, pour tester une classe spécifique de vulnérabilités : la manipulation des agents LLM sur plusieurs interactions.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Plusieurs interactions, c&#x27;est-à-dire que ce n&#x27;est pas une attaque en un coup ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Précisément, et c&#x27;est ça qui rend STING particulièrement intéressant. Jusqu&#x27;ici, beaucoup de recherches en sécurité sur les LLM portaient sur des attaques en une seule requête. Mais STING simule des scénarios où un attaquant va conditionner progressivement un agent IA sur plusieurs échanges, jusqu&#x27;à le forcer à exécuter une tâche nuisible. C&#x27;est beaucoup plus proche de ce qui se passe dans de vraies attaques sophistiquées.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Et le résultat de ces tests, il est inquiétant ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Très. Sans rentrer dans des détails techniques trop poussés, les agents testés se révèlent vulnérables à des scénarios de manipulation progressive que leurs garde-fous ne détectent pas. Et ce qui donne de la valeur à STING, ce n&#x27;est pas juste de montrer les failles, c&#x27;est de fournir un outil reproductible pour que d&#x27;autres chercheurs et développeurs puissent tester leurs propres systèmes. C&#x27;est la démarche scientifique appliquée à la sécurité IA.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> On a aussi des stats plutôt éclairantes sur l&#x27;état réel du déploiement de l&#x27;IA agentique en 2026. Parce que parfois le discours marketing et la réalité divergent un peu.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Beaucoup, même. Une analyse publiée ce matin sur les données 2025-2026 révèle quelque chose de frappant : l&#x27;IA agentique est largement adoptée en surface, mais ne représente encore qu&#x27;une fraction mineure des déploiements réels en production. Autrement dit, beaucoup d&#x27;entreprises expérimentent, font des POC, des pilotes, mais très peu ont des agents IA qui tournent vraiment en conditions réelles avec des responsabilités opérationnelles.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Pourquoi cet écart entre l&#x27;enthousiasme et le passage à l&#x27;échelle ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> L&#x27;analyse pointe trois facteurs. La gouvernance, c&#x27;est-à-dire la capacité à contrôler et auditer ce que font ces agents. La qualité des données sur lesquelles ils opèrent. Et la maturité organisationnelle, autrement dit la capacité des équipes à intégrer un agent autonome dans leurs processus existants sans tout casser. Ce qui est intéressant, c&#x27;est que l&#x27;analyse conclut que les trois prochaines années dépendront autant de ces facteurs humains et organisationnels que des capacités des modèles eux-mêmes.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> C&#x27;est un message important. L&#x27;IA n&#x27;est pas juste un problème technologique. Parlons maintenant de l&#x27;impact sur les industries, parce qu&#x27;on a deux sujets très différents ce matin : le juridique et l&#x27;éducation.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Commençons par le juridique. Opus 2, une plateforme spécialisée dans les litiges, a lancé Opus 2 Ingenuity, un framework agentique conçu spécifiquement pour les cabinets d&#x27;avocats. L&#x27;idée est de permettre aux juristes de découvrir des analyses approfondies sur leurs dossiers et de construire des stratégies plus solides, tout en réduisant le volume de travail d&#x27;IA nécessaire. Ce dernier point est contre-intuitif mais important.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Moins d&#x27;effort IA pour de meilleurs résultats ? Comment c&#x27;est possible ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Parce que le système exploite les données et les insights déjà accumulés sur la plateforme. Plutôt que de faire tourner des requêtes génériques sur un LLM à chaque fois, il s&#x27;appuie sur une connaissance sectorielle préexistante. C&#x27;est ce qu&#x27;on appelle parfois un système RAG enrichi, où la retrieval augmented generation est alimentée par une base de connaissance métier très spécialisée. Le résultat, c&#x27;est moins de tokens consommés, moins d&#x27;erreurs, et des sorties plus pertinentes pour le contexte juridique.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Et du côté de l&#x27;éducation, là c&#x27;est plutôt une mauvaise nouvelle pour OpenAI.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Un recours collectif a été déposé par des auteurs de manuels scolaires contre OpenAI, avec Microsoft comme co-défendeur. L&#x27;allégation centrale : OpenAI aurait massivement ingéré des contenus éducatifs protégés par le droit d&#x27;auteur, sans autorisation, pour entraîner ses modèles. Et les plaignants vont plus loin, en soutenant que les LLM risquent de substituer purement et simplement les manuels scolaires, menaçant directement leur modèle économique.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Ce n&#x27;est pas la première fois qu&#x27;OpenAI fait face à ce type de poursuites.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Pas du tout. Le New York Times, des auteurs, des maisons d&#x27;édition musicale... La liste est longue. Mais ce qui est particulier ici, c&#x27;est le secteur éducatif. Les manuels scolaires ont un modèle de distribution très particulier, souvent liés aux curricula officiels. Si un LLM peut répondre aux mêmes besoins qu&#x27;un manuel, la question de la valeur et de la propriété intellectuelle de ce contenu devient centrale. Et pour l&#x27;instant, la jurisprudence sur ces sujets se construit encore, cas après cas.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> Il y a aussi TrueForge qu&#x27;on a envie de mentionner rapidement avant de conclure.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Oui, TrueFoundry a lancé TrueForge, une plateforme d&#x27;entreprise assez complète pour construire et gouverner des agents IA. Ce qui la distingue, c&#x27;est une approche unifiée : une passerelle qui gère à la fois les LLM, les protocoles MCP et les agents, depuis un plan de contrôle centralisé. Pour les équipes IT en entreprise, c&#x27;est une réponse directe à la fragmentation qu&#x27;on observe dans beaucoup d&#x27;organisations où chaque équipe déploie ses propres agents sans coordination.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> C&#x27;est exactement ce dont parlait l&#x27;étude sur la gouvernance tout à l&#x27;heure.</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Tout à fait, c&#x27;est cohérent. La gouvernance est le verrou, et on commence à voir des outils qui s&#x27;y attaquent sérieusement.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> On arrive au bout de cet épisode. Marc, si tu devais résumer la journée du 21 août 2026 en une idée centrale, ce serait quoi ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Marc:</span> Je dirais que c&#x27;est la journée de la tension entre l&#x27;accélération et la prudence. On déploie des agents partout, dans Slack, dans les cabinets d&#x27;avocats, dans les hôpitaux. En même temps, STING, Grok, les stats sur l&#x27;IA agentique nous rappellent que courir vite sans regarder où on pose les pieds peut coûter très cher. La bonne nouvelle, c&#x27;est que les outils de gouvernance, de test, de sécurité commencent à mûrir en parallèle. Reste à savoir si l&#x27;industrie les adopte assez vite.</p>
+      <p><span class="spk" style="color:#5EEAD4">Sophie:</span> C&#x27;est la question de l&#x27;été, et probablement de l&#x27;automne aussi. Merci Marc pour cette analyse, comme toujours très éclairante. Et merci à vous qui nous écoutez. Si cet épisode vous a plu, partagez-le autour de vous, c&#x27;est le meilleur moyen de faire grandir la communauté IA au Carré. On se retrouve dès demain pour une nouvelle plongée dans l&#x27;actualité de l&#x27;intelligence artificielle. À demain.</p>
+    </div>
+  </article>
+</div>
+
+<footer>
+  IA au Carré — produit par Hermes Agent · <a href="../">← IA au Carré</a>
+</footer>
+
+</body>
+</html>
