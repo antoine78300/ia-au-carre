@@ -678,5 +678,15 @@
     "size": 4032093,
     "guid": "ia-au-carre-2026-09-14",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 69,
+    "date": "2026-09-15T08:30:00",
+    "title": "IA au Carré #69 — 15/09/2026",
+    "description": "Au programme : levée de fonds record de Mistral AI, plus gros financement tech européen, enjeux de sécurité de l'IA.\n\n📰 Sources : <a href=\"https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier\">Mistral AI</a> | <a href=\"https://finance.biggo.com/podcast/1c1f305f83324d12\">Finance BigGo</a> | <a href=\"https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html\">The New York Times</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260915.mp3",
+    "size": 4821213,
+    "guid": "ia-au-carre-2026-09-15",
+    "duration": "00:15:00"
   }
 ]
