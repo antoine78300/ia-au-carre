@@ -448,5 +448,15 @@
     "size": 4313325,
     "guid": "ai-square-2026-09-14",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 46,
+    "date": "2026-09-15T08:30:00",
+    "title": "AI Squared #46 — 15/09/2026",
+    "description": "On the program: Mistral AI's record-breaking €3 billion funding round, Europe's largest tech investment, and emerging security concerns in AI development.\n\n📰 Sources : <a href=\"https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier\">Mistral AI</a> | <a href=\"https://finance.biggo.com/podcast/1c1f305f83324d12\">Finance BigGo</a> | <a href=\"https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html\">The New York Times</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260915.mp3",
+    "size": 5135565,
+    "guid": "ai-square-2026-09-15",
+    "duration": "00:15:00"
   }
 ]
