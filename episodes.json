@@ -688,5 +688,15 @@
     "size": 4821213,
     "guid": "ia-au-carre-2026-09-15",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 70,
+    "date": "2026-09-16T08:30:00",
+    "title": "IA au Carré #70 — 16/09/2026",
+    "description": "Au programme : déploiement rapide des agents IA, manque de garde-fous, démission d'un chercheur d'Anthropic et OpenAI.\n\n📰 Sources : <a href=\"https://www.hpcwire.com/aiwire/2026/09/15/ey-survey-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap\">HPC Wire</a> | <a href=\"https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl/2425615\">Manila Times</a> | <a href=\"https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax\">Google Developers Blog</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260916.mp3",
+    "size": 4851741,
+    "guid": "ia-au-carre-2026-09-16",
+    "duration": "00:15:00"
   }
 ]
