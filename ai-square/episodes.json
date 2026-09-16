@@ -458,5 +458,15 @@
     "size": 5135565,
     "guid": "ai-square-2026-09-15",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 47,
+    "date": "2026-09-16T08:30:00",
+    "title": "AI Squared #47 — 16/09/2026",
+    "description": "On the program: AI agent deployment concerns, safety guardrails lag, researcher exodus from major AI labs.\n\n📰 Sources : <a href=\"https://www.hpcwire.com/aiwire/2026/09/15/ey-survey-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap\">HPC Wire</a> | <a href=\"https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl/2425615\">Manila Times</a> | <a href=\"https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax\">Google Developers Blog</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260916.mp3",
+    "size": 5179053,
+    "guid": "ai-square-2026-09-16",
+    "duration": "00:15:00"
   }
 ]

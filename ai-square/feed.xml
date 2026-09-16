@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Tue, 15 Sep 2026 06:36:14 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:38:24 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #47 — 16/09/2026</title>
+      <description><![CDATA[On the program: AI agent deployment concerns, safety guardrails lag, researcher exodus from major AI labs.
+
+📰 Sources : <a href="https://www.hpcwire.com/aiwire/2026/09/15/ey-survey-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap">HPC Wire</a> | <a href="https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl/2425615">Manila Times</a> | <a href="https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax">Google Developers Blog</a>]]></description>
+      <pubDate>Wed, 16 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260916.mp3" length="5179053" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-16</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #46 — 15/09/2026</title>
       <description><![CDATA[On the program: Mistral AI's record-breaking €3 billion funding round, Europe's largest tech investment, and emerging security concerns in AI development.
