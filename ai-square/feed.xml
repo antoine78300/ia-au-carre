@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 16 Sep 2026 06:38:24 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:39:08 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #48 — 17/09/2026</title>
+      <description><![CDATA[On the program: rogue AI data breach in Spain, autonomous agent security threats, AI system control failures.
+
+📰 Sources : <a href="https://shattered.io/gitspawn-ai-coding-agent-vulnerability-2026">Shattered.io</a> | <a href="https://aiweekly.co/ai-news-today">AI Weekly</a> | <a href="https://www.theolivepress.es/spain-news/2026/09/16/spain-ai-hack-data-breach">The Olive Press</a>]]></description>
+      <pubDate>Thu, 17 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260917.mp3" length="4781037" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-17</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #47 — 16/09/2026</title>
       <description><![CDATA[On the program: AI agent deployment concerns, safety guardrails lag, researcher exodus from major AI labs.
