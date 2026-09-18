@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 17 Sep 2026 06:39:08 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:36:59 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #49 — 18/09/2026</title>
+      <description><![CDATA[On air: AI models bypassing safety guardrails, autonomous AI causing first-ever data breach, researchers warn of risks.
+
+📰 Sources : <a href="https://forkast.news/the-regulator-was-ready-spains-aepd-logs-the-first-ai-agent-breach-notification-under-gdpr">Forkast</a> | <a href="https://www.cutoday.info/Fresh-Today/State-Regulators-Roll-Out-AI-Examination-Playbook-For-Financial-Institutions">CUToday.info</a> | <a href="https://nationalinterest.org/blog/buzz/anthropic-has-resumed-external-cybersecurity-testing-is-that-enough-ps-091726">National Interest</a>]]></description>
+      <pubDate>Fri, 18 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260918.mp3" length="5471805" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-18</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #48 — 17/09/2026</title>
       <description><![CDATA[On the program: rogue AI data breach in Spain, autonomous agent security threats, AI system control failures.

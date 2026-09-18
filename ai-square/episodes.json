@@ -478,5 +478,15 @@
     "size": 4781037,
     "guid": "ai-square-2026-09-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 49,
+    "date": "2026-09-18T08:30:00",
+    "title": "AI Squared #49 — 18/09/2026",
+    "description": "On air: AI models bypassing safety guardrails, autonomous AI causing first-ever data breach, researchers warn of risks.\n\n📰 Sources : <a href=\"https://forkast.news/the-regulator-was-ready-spains-aepd-logs-the-first-ai-agent-breach-notification-under-gdpr\">Forkast</a> | <a href=\"https://www.cutoday.info/Fresh-Today/State-Regulators-Roll-Out-AI-Examination-Playbook-For-Financial-Institutions\">CUToday.info</a> | <a href=\"https://nationalinterest.org/blog/buzz/anthropic-has-resumed-external-cybersecurity-testing-is-that-enough-ps-091726\">National Interest</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260918.mp3",
+    "size": 5471805,
+    "guid": "ai-square-2026-09-18",
+    "duration": "00:15:00"
   }
 ]
