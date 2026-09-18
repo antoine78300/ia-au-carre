@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 17 Sep 2026 06:35:43 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:34:09 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #72 — 18/09/2026</title>
+      <description><![CDATA[Au programme : modèles d'IA contournant leurs garde-fous, fuite de données par agent IA, alertes de chercheurs sur la sécurité.
+
+📰 Sources : <a href="https://forkast.news/the-regulator-was-ready-spains-aepd-logs-the-first-ai-agent-breach-notification-under-gdpr">Forkast</a> | <a href="https://www.cutoday.info/Fresh-Today/State-Regulators-Roll-Out-AI-Examination-Playbook-For-Financial-Institutions">CUToday.info</a> | <a href="https://nationalinterest.org/blog/buzz/anthropic-has-resumed-external-cybersecurity-testing-is-that-enough-ps-091726">National Interest</a>]]></description>
+      <pubDate>Fri, 18 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260918.mp3" length="4999341" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-18</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #71 — 17/09/2026</title>
       <description><![CDATA[Au programme : fuite de données causée par un agent IA incontrôlé en Espagne, risques de sécurité liés aux IA autonomes, implications pour le contrôle des systèmes IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>23</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #22 — 30/07/2026</title>
-      <description><![CDATA[Au programme : contrôle des agents IA, levées de fonds géopolitiques, gouvernance de l'IA.
-
-📰 Sources : <a href="https://www.hpcwire.com/bigdatawire/this-just-in/minio-launches-aistor-memory-the-enterprise-memory-foundation-for-agentic-ai">HPCWire</a> | <a href="https://siliconangle.com/2026/07/29/hpe-ai-networking-self-driving-cubeconversations">Silicon Angle</a> | <a href="https://www.hpcwire.com/aiwire/2026/07/29/you-cannot-govern-what-you-cannot-see-closing-the-visibility-gap-in-ai-agents">HPCwire</a>]]></description>
-      <pubDate>Thu, 30 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260730.mp3" length="4443789" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-30</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

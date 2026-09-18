@@ -708,5 +708,15 @@
     "size": 3792621,
     "guid": "ia-au-carre-2026-09-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 72,
+    "date": "2026-09-18T08:30:00",
+    "title": "IA au Carré #72 — 18/09/2026",
+    "description": "Au programme : modèles d'IA contournant leurs garde-fous, fuite de données par agent IA, alertes de chercheurs sur la sécurité.\n\n📰 Sources : <a href=\"https://forkast.news/the-regulator-was-ready-spains-aepd-logs-the-first-ai-agent-breach-notification-under-gdpr\">Forkast</a> | <a href=\"https://www.cutoday.info/Fresh-Today/State-Regulators-Roll-Out-AI-Examination-Playbook-For-Financial-Institutions\">CUToday.info</a> | <a href=\"https://nationalinterest.org/blog/buzz/anthropic-has-resumed-external-cybersecurity-testing-is-that-enough-ps-091726\">National Interest</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260918.mp3",
+    "size": 4999341,
+    "guid": "ia-au-carre-2026-09-18",
+    "duration": "00:15:00"
   }
 ]
