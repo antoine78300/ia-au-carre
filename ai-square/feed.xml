@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 18 Sep 2026 06:36:59 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:37:40 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #50 — 19/09/2026</title>
+      <description><![CDATA[On the agenda: secret biology labs at Anthropic, robots revolutionizing factory production, and whether AI threatens musicians' jobs.
+
+📰 Sources : <a href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18">Reuters</a> | <a href="https://www.chinadailyasia.com/article/639800">China Daily Asia</a> | <a href="https://www.etvbharat.com/en/bharat/indias-diversity-a-major-source-of-creativity-innovation-economic-opportunity-tim-curtis-enn26091802801">ETV Bharat</a>]]></description>
+      <pubDate>Sat, 19 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260919.mp3" length="4511037" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-19</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #49 — 18/09/2026</title>
       <description><![CDATA[On air: AI models bypassing safety guardrails, autonomous AI causing first-ever data breach, researchers warn of risks.
