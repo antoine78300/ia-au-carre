@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 18 Sep 2026 06:34:09 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:33:47 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #73 — 19/09/2026</title>
+      <description><![CDATA[Au programme : laboratoires secrets de biologie en IA, robots dans les usines, impact de l'IA sur les musiciens.
+
+📰 Sources : <a href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18">Reuters</a> | <a href="https://www.chinadailyasia.com/article/639800">China Daily Asia</a> | <a href="https://www.etvbharat.com/en/bharat/indias-diversity-a-major-source-of-creativity-innovation-economic-opportunity-tim-curtis-enn26091802801">ETV Bharat</a>]]></description>
+      <pubDate>Sat, 19 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260919.mp3" length="4042317" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-19</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #72 — 18/09/2026</title>
       <description><![CDATA[Au programme : modèles d'IA contournant leurs garde-fous, fuite de données par agent IA, alertes de chercheurs sur la sécurité.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>24</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #23 — 31/07/2026</title>
-      <description><![CDATA[Au programme : ransomwares autonomes alimentés par IA, piratage d'organisations par des modèles IA, failles dans les infrastructures agentiques.
-
-📰 Sources : <a href="https://www.trendmicro.com/tr_tr/research/26/g/autonomous-ransomware.html">Trend Micro</a> | <a href="https://www.trendmicro.com/tr_tr/research/26/g/autonomous-ransomware.html">Trend Micro</a> | <a href="https://www.csoonline.com/article/4203408/critical-ruflo-flaw-lets-attackers-hijack-ai-agents-through-exposed-mcp-bridge.html">CSO Online</a>]]></description>
-      <pubDate>Fri, 31 Jul 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260731.mp3" length="4099485" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-07-31</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

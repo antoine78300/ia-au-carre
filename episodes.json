@@ -718,5 +718,15 @@
     "size": 4999341,
     "guid": "ia-au-carre-2026-09-18",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 73,
+    "date": "2026-09-19T08:30:00",
+    "title": "IA au Carré #73 — 19/09/2026",
+    "description": "Au programme : laboratoires secrets de biologie en IA, robots dans les usines, impact de l'IA sur les musiciens.\n\n📰 Sources : <a href=\"https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18\">Reuters</a> | <a href=\"https://www.chinadailyasia.com/article/639800\">China Daily Asia</a> | <a href=\"https://www.etvbharat.com/en/bharat/indias-diversity-a-major-source-of-creativity-innovation-economic-opportunity-tim-curtis-enn26091802801\">ETV Bharat</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260919.mp3",
+    "size": 4042317,
+    "guid": "ia-au-carre-2026-09-19",
+    "duration": "00:15:00"
   }
 ]
