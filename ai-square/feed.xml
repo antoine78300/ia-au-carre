@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sat, 19 Sep 2026 06:37:40 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:35:01 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #51 — 20/09/2026</title>
+      <description><![CDATA[On the program: AI discovering new drugs, robots obtaining diplomas, machines composing music.
+
+📰 Sources : <a href="https://www.etvbharat.com/en/technology/anthropic-biology-lab-dario-amodei-eric-kauderer-abrams-enn26091902754">ETVBharat / Reuters</a> | <a href="https://www.techtimes.com/articles/327765/20260919/d-robotics-raises-400m-humanoid-chips-us-bans-chinese-robot-imports.htm">TechTimes</a> | <a href="https://www.newsbricks.com/technology/claude-drives-26-anthropic-research-work">NewsBricks</a>]]></description>
+      <pubDate>Sun, 20 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260920.mp3" length="4568781" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-20</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #50 — 19/09/2026</title>
       <description><![CDATA[On the agenda: secret biology labs at Anthropic, robots revolutionizing factory production, and whether AI threatens musicians' jobs.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #1 — 01/08/2026</title>
-      <description><![CDATA[On the program: Google DeepMind's Gemini Robotics 2, AI breakthroughs, music industry legal drama.
-
-📰 Sources : <a href="https://www.tradingkey.com/analysis/stocks/us-stocks/262067418-stock-google-alphabet-goog-gemini-llm-price-predittion-ai-tradingkey">TradingKey</a> | <a href="https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802">Robotics & Automation News</a> | <a href="https://www.intelligentcio.com/north-america/2026/07/31/bristol-myers-squibb-builds-ai-factory-with-nvidia-to-accelerate-drug-discovery">Intelligent CIO North America</a>]]></description>
-      <pubDate>Sat, 01 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260801.mp3" length="4622061" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-01</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

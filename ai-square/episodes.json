@@ -498,5 +498,15 @@
     "size": 4511037,
     "guid": "ai-square-2026-09-19",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 51,
+    "date": "2026-09-20T08:30:00",
+    "title": "AI Squared #51 — 20/09/2026",
+    "description": "On the program: AI discovering new drugs, robots obtaining diplomas, machines composing music.\n\n📰 Sources : <a href=\"https://www.etvbharat.com/en/technology/anthropic-biology-lab-dario-amodei-eric-kauderer-abrams-enn26091902754\">ETVBharat / Reuters</a> | <a href=\"https://www.techtimes.com/articles/327765/20260919/d-robotics-raises-400m-humanoid-chips-us-bans-chinese-robot-imports.htm\">TechTimes</a> | <a href=\"https://www.newsbricks.com/technology/claude-drives-26-anthropic-research-work\">NewsBricks</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260920.mp3",
+    "size": 4568781,
+    "guid": "ai-square-2026-09-20",
+    "duration": "00:15:00"
   }
 ]
