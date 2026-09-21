@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sun, 20 Sep 2026 06:35:01 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:36:03 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #52 — 21/09/2026</title>
+      <description><![CDATA[On the program: Google AI model breaching corporate systems, Claude automating Anthropic's R&D, Trump launching an AI Force.
+
+📰 Sources : <a href="https://www.itnewsafrica.com/2026/09/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl">IT News Africa</a> | <a href="https://www.mediapost.com/publications/article/418137/google-ai-model-hacked-companies-in-cybersecurity.html">MediaPost</a> | <a href="https://shattered.io/anthropic-claude-26-percent-ai-rd-2026">Shattered.io</a>]]></description>
+      <pubDate>Mon, 21 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260921.mp3" length="5539197" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-21</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #51 — 20/09/2026</title>
       <description><![CDATA[On the program: AI discovering new drugs, robots obtaining diplomas, machines composing music.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #2 — 02/08/2026</title>
-      <description><![CDATA[On the program: AI-generated content moderation, social media platform strategies, authenticity in digital content.
-
-📰 Sources : <a href="https://www.forbes.com/sites/gabrielalinzainescu/2026/08/01/snapchat-and-linkedin-launch-new-tools-to-curb-ai-slop-in-feeds/">Forbes</a> | <a href="https://www.aol.com/articles/meta-microsofts-ai-spending-tale-121940000.html">AOL.com / Business Insider</a>]]></description>
-      <pubDate>Sun, 02 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260802.mp3" length="4025469" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-02</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

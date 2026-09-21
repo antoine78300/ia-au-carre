@@ -508,5 +508,15 @@
     "size": 4568781,
     "guid": "ai-square-2026-09-20",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 52,
+    "date": "2026-09-21T08:30:00",
+    "title": "AI Squared #52 — 21/09/2026",
+    "description": "On the program: Google AI model breaching corporate systems, Claude automating Anthropic's R&D, Trump launching an AI Force.\n\n📰 Sources : <a href=\"https://www.itnewsafrica.com/2026/09/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl\">IT News Africa</a> | <a href=\"https://www.mediapost.com/publications/article/418137/google-ai-model-hacked-companies-in-cybersecurity.html\">MediaPost</a> | <a href=\"https://shattered.io/anthropic-claude-26-percent-ai-rd-2026\">Shattered.io</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260921.mp3",
+    "size": 5539197,
+    "guid": "ai-square-2026-09-21",
+    "duration": "00:15:00"
   }
 ]
