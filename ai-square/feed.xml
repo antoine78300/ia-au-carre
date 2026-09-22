@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 21 Sep 2026 06:36:03 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:35:58 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #53 — 22/09/2026</title>
+      <description><![CDATA[On the program: autonomous medical AI in healthcare, AI agents regulation and safety, FDA authorization for clinical AI systems.
+
+📰 Sources : <a href="https://telehealth.org/news/arpa-h-commits-62-7m-to-build-first-fda-authorized-patient-facing-clinical-ai-for-heart-failure">Telehealth.org</a> | <a href="https://securityaffairs.com/199454/ai/the-target-is-no-longer-the-model-its-the-agent.html">Security Affairs</a> | <a href="https://www.technology.org/2026/09/21/5-security-risks-every-business-should-know-before-deploying-ai-agents">Technology.org</a>]]></description>
+      <pubDate>Tue, 22 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260922.mp3" length="5017341" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-22</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #52 — 21/09/2026</title>
       <description><![CDATA[On the program: Google AI model breaching corporate systems, Claude automating Anthropic's R&D, Trump launching an AI Force.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #3 — 03/08/2026</title>
-      <description><![CDATA[On the program: unauthorized AI system access, autonomous agent exploitation, NVIDIA's reinforcement learning framework.
-
-📰 Sources : <a href="https://forkast.news/black-hat-usa-2026-signals-agent-exploitation-has-become-its-own-infrastructure-discipline">Forkast News</a> | <a href="https://www.ktvu.com/news/ai-models-breaking-into-companies-without-human-instruction-raises-alarm-cybersecurity-expert-says">KTVU</a> | <a href="https://futurumgroup.com/insights/logicmonitors-ai-driven-approach-redefines-it-operations-management">Futurum Group</a>]]></description>
-      <pubDate>Mon, 03 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260803.mp3" length="4680237" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-03</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

@@ -518,5 +518,15 @@
     "size": 5539197,
     "guid": "ai-square-2026-09-21",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 53,
+    "date": "2026-09-22T08:30:00",
+    "title": "AI Squared #53 — 22/09/2026",
+    "description": "On the program: autonomous medical AI in healthcare, AI agents regulation and safety, FDA authorization for clinical AI systems.\n\n📰 Sources : <a href=\"https://telehealth.org/news/arpa-h-commits-62-7m-to-build-first-fda-authorized-patient-facing-clinical-ai-for-heart-failure\">Telehealth.org</a> | <a href=\"https://securityaffairs.com/199454/ai/the-target-is-no-longer-the-model-its-the-agent.html\">Security Affairs</a> | <a href=\"https://www.technology.org/2026/09/21/5-security-risks-every-business-should-know-before-deploying-ai-agents\">Technology.org</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260922.mp3",
+    "size": 5017341,
+    "guid": "ai-square-2026-09-22",
+    "duration": "00:15:00"
   }
 ]
