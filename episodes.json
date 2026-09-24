@@ -768,5 +768,15 @@
     "size": 4471149,
     "guid": "ia-au-carre-2026-09-23",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 78,
+    "date": "2026-09-24T08:30:00",
+    "title": "IA au Carré #78 — 24/09/2026",
+    "description": "Au programme : l'appel au ralentissement de l'IA par le PDG d'Anthropic, une fuite de données causée par un agent autonome en Espagne, les innovations d'Alibaba en puces et modèles d'IA.\n\n📰 Sources : <a href=\"https://www.mk.co.kr/en/it/12160550\">MK.co.kr</a> | <a href=\"https://www.ropesgray.com/en/insights/viewpoints/2026/09/102o2y3/lessons-from-spains-first-reported-agentic-ai-data-breach\">Ropes & Gray</a> | <a href=\"https://forkast.news/the-42-state-ag-coalition-how-state-attorneys-general-are-building-the-agent-liability-framework-congress-wont\">Forkast News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260924.mp3",
+    "size": 4850301,
+    "guid": "ia-au-carre-2026-09-24",
+    "duration": "00:15:00"
   }
 ]
