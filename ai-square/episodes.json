@@ -538,5 +538,15 @@
     "size": 4868157,
     "guid": "ai-square-2026-09-23",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 55,
+    "date": "2026-09-24T08:30:00",
+    "title": "AI Squared #55 — 24/09/2026",
+    "description": "On the agenda: AI development slowdown calls, autonomous agent data breach legal precedent, Alibaba's new chip and model release.\n\n📰 Sources : <a href=\"https://www.mk.co.kr/en/it/12160550\">MK.co.kr</a> | <a href=\"https://www.ropesgray.com/en/insights/viewpoints/2026/09/102o2y3/lessons-from-spains-first-reported-agentic-ai-data-breach\">Ropes & Gray</a> | <a href=\"https://forkast.news/the-42-state-ag-coalition-how-state-attorneys-general-are-building-the-agent-liability-framework-congress-wont\">Forkast News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260924.mp3",
+    "size": 5270061,
+    "guid": "ai-square-2026-09-24",
+    "duration": "00:15:00"
   }
 ]
