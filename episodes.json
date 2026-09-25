@@ -778,5 +778,15 @@
     "size": 4850301,
     "guid": "ia-au-carre-2026-09-24",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 79,
+    "date": "2026-09-25T08:30:00",
+    "title": "IA au Carré #79 — 25/09/2026",
+    "description": "Au programme : IA découvrant un système biologique révolutionnaire, banques adoptant l'agentique, alertes de sécurité critiques.\n\n📰 Sources : <a href=\"https://securitytoday.com/articles/2026/09/24/salt-security-adds-ai-detection-response-to-agentic-security-platform.aspx\">Security Today</a> | <a href=\"https://blogs.cisco.com/ai/llm-security-leaderboard-multimodal\">Cisco Blogs</a> | <a href=\"https://www.cio.com/article/4226160/teradata-aims-to-make-agentic-execution-of-multistep-data-work-more-efficient.html\">CIO</a> | <a href=\"https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk\">Google Developers Blog</a> | <a href=\"https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777\">Al Jazeera / The Conversation</a> | <a href=\"https://www.unite.ai/bnp-paribas-google-cloud-enter-five-year-agentic-ai-partnership\">Unite.ai</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260925.mp3",
+    "size": 4959597,
+    "guid": "ia-au-carre-2026-09-25",
+    "duration": "00:15:00"
   }
 ]
