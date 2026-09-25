@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 24 Sep 2026 06:35:37 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:06:47 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #56 — 25/09/2026</title>
+      <description><![CDATA[On the agenda: AI breakthrough in biology, banks adopting agentic AI, security alerts.
+
+📰 Sources : <a href="https://securitytoday.com/articles/2026/09/24/salt-security-adds-ai-detection-response-to-agentic-security-platform.aspx">Security Today</a> | <a href="https://blogs.cisco.com/ai/llm-security-leaderboard-multimodal">Cisco Blogs</a> | <a href="https://www.cio.com/article/4226160/teradata-aims-to-make-agentic-execution-of-multistep-data-work-more-efficient.html">CIO</a> | <a href="https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk">Google Developers Blog</a> | <a href="https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777">Al Jazeera / The Conversation</a> | <a href="https://www.unite.ai/bnp-paribas-google-cloud-enter-five-year-agentic-ai-partnership">Unite.ai</a>]]></description>
+      <pubDate>Fri, 25 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260925.mp3" length="5553597" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-09-25</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #55 — 24/09/2026</title>
       <description><![CDATA[On the agenda: AI development slowdown calls, autonomous agent data breach legal precedent, Alibaba's new chip and model release.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>7</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #6 — 06/08/2026</title>
-      <description><![CDATA["On the agenda: AI agents proliferation across sectors, Google's leadership shake-up with Demis Hassabis and Jeff Dean, agentic AI reaching a critical threshold."
-
-📰 Sources : <a href="https://www.hostinger.com/tutorials/agentic-ai-frameworks">Hostinger</a> | <a href="https://www.google.com/goto?url=CAESggEB7keqTVRxxhBXFc-urbiPy2TZv4uHRNNN004FfQtAjjsSUIyFPwko7fGbYP_Y-PmrueIWHFJcigq9gGtKyqUYLNP8XQ9XKZ9nHZ8YYzKoH92Y2EYgU4K5xX0gb3LTeeE2bSLl4RRz6Vykt_xebztCNZux202uV1N9iWtU1KbGsJLQ">Google</a> | <a href="https://ppc.land/pubmatic-guardrails-block-ai-agents-from-unapproved-ad-inventory">PPC.land / MediaPost</a>]]></description>
-      <pubDate>Thu, 06 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260806.mp3" length="5505501" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-06</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

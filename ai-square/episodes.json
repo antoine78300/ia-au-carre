@@ -548,5 +548,15 @@
     "size": 5270061,
     "guid": "ai-square-2026-09-24",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 56,
+    "date": "2026-09-25T08:30:00",
+    "title": "AI Squared #56 — 25/09/2026",
+    "description": "On the agenda: AI breakthrough in biology, banks adopting agentic AI, security alerts.\n\n📰 Sources : <a href=\"https://securitytoday.com/articles/2026/09/24/salt-security-adds-ai-detection-response-to-agentic-security-platform.aspx\">Security Today</a> | <a href=\"https://blogs.cisco.com/ai/llm-security-leaderboard-multimodal\">Cisco Blogs</a> | <a href=\"https://www.cio.com/article/4226160/teradata-aims-to-make-agentic-execution-of-multistep-data-work-more-efficient.html\">CIO</a> | <a href=\"https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk\">Google Developers Blog</a> | <a href=\"https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777\">Al Jazeera / The Conversation</a> | <a href=\"https://www.unite.ai/bnp-paribas-google-cloud-enter-five-year-agentic-ai-partnership\">Unite.ai</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260925.mp3",
+    "size": 5553597,
+    "guid": "ai-square-2026-09-25",
+    "duration": "00:15:00"
   }
 ]
