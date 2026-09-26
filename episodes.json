@@ -788,5 +788,15 @@
     "size": 4959597,
     "guid": "ia-au-carre-2026-09-25",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 80,
+    "date": "2026-09-26T08:30:00",
+    "title": "IA au Carré #80 — 26/09/2026",
+    "description": "Au programme : Claude découvre un mécanisme CRISPR en 21h, avancées en édition génétique par IA.\n\n📰 Sources : <a href=\"https://www.newsweek.com/ai-creates-songs-people-make-them-rock-12487420\">Newsweek</a> | <a href=\"https://www.foxnews.com/tech/fox-news-ai-newsletter-tech-company-says-scientific-discovery-could-change-medicine\">Fox News</a> | <a href=\"https://finance.biggo.com/news/3fdeb1db-1521-48f5-8061-ea49f56bad6d\">BigGo Finance</a> | <a href=\"https://www.americanactionforum.org/weekly-checkup/dont-be-ai-larmed-ai-can-discover-a-drug-people-still-have-to-prove-it-works\">American Action Forum</a> | <a href=\"https://www.newslink.co.za/artists-interrogate-the-machine\">Artslink.co.za</a> | <a href=\"https://www.geeky-gadgets.com/claude-ai-dna-art-discovery\">Geeky Gadgets</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260926.mp3",
+    "size": 3962829,
+    "guid": "ia-au-carre-2026-09-26",
+    "duration": "00:15:00"
   }
 ]
