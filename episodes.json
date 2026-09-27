@@ -798,5 +798,15 @@
     "size": 3962829,
     "guid": "ia-au-carre-2026-09-26",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 81,
+    "date": "2026-09-27T08:30:00",
+    "title": "IA au Carré #81 — 27/09/2026",
+    "description": "Au programme : rapport de menaces IA d'Anthropic, cybersécurité et surveillance, opérations d'influence et désinformation.\n\n📰 Sources : <a href=\"https://www.anthropic.com/threat-intelligence-report-september-2026\">Anthropic</a> | <a href=\"https://www.statesman.com/entertainment/movies/article/austin-ai-film-festival-zach-theater-22448907.php\">Austin American-Statesman</a> | <a href=\"https://news.futunn.com/en/post/1000236279/ai-takes-center-stage-at-digital-trade-fair-wang-xingxing\">Futunn News</a> | <a href=\"https://www.agibot.com/article/231/detail/123.html\">AgiBot Official</a> | <a href=\"https://streamlinefeed.co.ke/news/bristol-venues-lead-uk-backlash-against-ai-generated-artwork-and-posters\">BBC / Streamline Feed</a> | <a href=\"https://www.edexlive.com/amp/story/news/battle-for-robotic-artificial-intelligence-standards-triggers-fresh-us-restrictions-on-china\">IANS / EdexLive</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260927.mp3",
+    "size": 3445149,
+    "guid": "ia-au-carre-2026-09-27",
+    "duration": "00:15:00"
   }
 ]
