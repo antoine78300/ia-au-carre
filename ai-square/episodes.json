@@ -568,5 +568,15 @@
     "size": 4417437,
     "guid": "ai-square-2026-09-26",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 58,
+    "date": "2026-09-27T08:30:00",
+    "title": "AI Squared #58 — 27/09/2026",
+    "description": "On programme : AI security threats, Anthropic's intelligence report, cyber operations and surveillance risks.\n\n📰 Sources : <a href=\"https://www.anthropic.com/threat-intelligence-report-september-2026\">Anthropic</a> | <a href=\"https://www.statesman.com/entertainment/movies/article/austin-ai-film-festival-zach-theater-22448907.php\">Austin American-Statesman</a> | <a href=\"https://news.futunn.com/en/post/1000236279/ai-takes-center-stage-at-digital-trade-fair-wang-xingxing\">Futunn News</a> | <a href=\"https://www.agibot.com/article/231/detail/123.html\">AgiBot Official</a> | <a href=\"https://streamlinefeed.co.ke/news/bristol-venues-lead-uk-backlash-against-ai-generated-artwork-and-posters\">BBC / Streamline Feed</a> | <a href=\"https://www.edexlive.com/amp/story/news/battle-for-robotic-artificial-intelligence-standards-triggers-fresh-us-restrictions-on-china\">IANS / EdexLive</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260927.mp3",
+    "size": 3779229,
+    "guid": "ai-square-2026-09-27",
+    "duration": "00:15:00"
   }
 ]
