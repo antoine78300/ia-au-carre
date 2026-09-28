@@ -808,5 +808,15 @@
     "size": 3445149,
     "guid": "ia-au-carre-2026-09-27",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 82,
+    "date": "2026-09-28T08:30:00",
+    "title": "IA au Carré #82 — 28/09/2026",
+    "description": "Au programme : botnets autonomes et cybersécurité, avancées en robotique, vidéo générative et modèles embarqués.\n\n📰 Sources : <a href=\"https://dig.watch/updates/cybercrime-to-agentic-ai-agents-attack-chain\">Dig.Watch</a> | <a href=\"https://forkast.news/carbonato-is-the-first-botnet-where-the-command-and-control-engine-is-an-ai-agent-and-it-has-been-running-since-october-2024\">Forkast News</a> | <a href=\"https://www.foreignpolicyjournal.com/2026/09/27/soundhound-ai-nasdaq-soun-launches-oasys-edge-to-push-llm-powered-voice-ai-onto-device-hardware\">Foreign Policy Journal</a> | <a href=\"https://roboticsandautomationnews.com/2026/09/27/skylark-labs-researchers-develop-ai-system-that-enables-robots-to-keep-learning-after-deployment/105179/\">Robotics & Automation News</a> | <a href=\"https://forkast.news/three-months-to-nist-the-federal-ai-agent-standards-deadline-arrives-with-no-enforceable-framework\">Forkast News</a> | <a href=\"https://ppc.land/scope3-becomes-apostra-a-40-person-bet-on-ai-agents-that-trade-ads\">PPC.Land</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260928.mp3",
+    "size": 4927485,
+    "guid": "ia-au-carre-2026-09-28",
+    "duration": "00:15:00"
   }
 ]
