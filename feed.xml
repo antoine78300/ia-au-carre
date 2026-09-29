@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 28 Sep 2026 06:32:55 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:32:26 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #83 — 29/09/2026</title>
+      <description><![CDATA[Au programme : annulation surprise du modèle Astra 6.1 chez OpenAI, acquisition historique chez AMD, agents IA en entreprise.
+
+📰 Sources : <a href="https://www.globenewswire.com/news-release/2026/09/28/3370256/0/en/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute.html">Globe Newswire</a> | <a href="https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation">MarkTechPost</a> | <a href="https://www.recordedfuture.com/blog/mcp-intelligence-layer">Recorded Future</a> | <a href="https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model">SiliconANGLE</a> | <a href="https://shattered.io/nvidia-ai-agent-safety-platform-100-partners-2026">Shattered.io</a> | <a href="https://www.twobirds.com/en/insights/2026/hong-kong/ai-attacks-to-autonomous-breaches-hong-kong-regulators-sharpen-their-cyber-and-privacy-expectations">Bird & Bird</a>]]></description>
+      <pubDate>Tue, 29 Sep 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260929.mp3" length="3865341" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-09-29</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #82 — 28/09/2026</title>
       <description><![CDATA[Au programme : botnets autonomes et cybersécurité, avancées en robotique, vidéo générative et modèles embarqués.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>34</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #33 — 10/08/2026</title>
-      <description><![CDATA[Au programme : IA incontrôlable, piratage par modèle d'IA, incidents de sécurité chez les géants du secteur.
-
-📰 Sources : <a href="https://eurasiabusinessnews.com/2026/08/08/openai-slows-astra-ai-model-development-after-cybersecurity-warning">Eurasia Business News</a> | <a href="https://memeburn.com/meta-ai-model-hacked-another-company-during-security-testing">Memeburn</a> | <a href="https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html">CNBC</a>]]></description>
-      <pubDate>Mon, 10 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260810.mp3" length="4865421" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-08-10</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
