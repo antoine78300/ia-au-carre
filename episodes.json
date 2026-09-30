@@ -828,5 +828,15 @@
     "size": 3865341,
     "guid": "ia-au-carre-2026-09-29",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 84,
+    "date": "2026-09-30T08:30:00",
+    "title": "IA au Carré #84 — 30/09/2026",
+    "description": "Au programme : arnaque aux deepfakes vocaux (95M€), annulation d'un modèle OpenAI jugé dangereux, auto-amélioration des agents IA.\n\n📰 Sources : <a href=\"https://www.lesnumeriques.com/intelligence-artificielle/il-se-fait-duper-par-une-ia-et-transfere-95-millions-d-euros-sur-le-compte-d-un-escroc-la-somme-appartenait-a-son-employeur-une-grande-banque-europeenne-n262497.html\">Les Numériques</a> | <a href=\"https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting\">MarkTechPost</a> | <a href=\"https://www.paloaltonetworks.com/blog/ai-security/dont-let-mcp-become-an-attack-vector\">Palo Alto Networks Blog</a> | <a href=\"https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model\">TechCrunch</a> | <a href=\"https://www.scrippsnews.com/science-and-tech/artificial-intelligence/openais-new-ai-tool-was-too-capable-now-its-release-is-delayed\">Scripps News</a> | <a href=\"https://www.hpcwire.com/aiwire/2026/09/29/hpe-teams-with-nvidia-to-bring-secure-governed-agentic-ai-into-enterprise-production\">HPCwire AIwire</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260930.mp3",
+    "size": 4356237,
+    "guid": "ia-au-carre-2026-09-30",
+    "duration": "00:15:00"
   }
 ]
