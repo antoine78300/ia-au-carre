@@ -608,5 +608,15 @@
     "size": 4920285,
     "guid": "ai-square-2026-09-30",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 62,
+    "date": "2026-10-01T08:30:00",
+    "title": "AI Squared #62 — 01/10/2026",
+    "description": "On the program: Google's Gemini 4 Argon breakthrough, autonomous payments evolution, AI agent trustworthiness.\n\n📰 Sources : <a href=\"https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release\">VentureBeat</a> | <a href=\"https://www.coreweave.com/news/coreweave-forge-launches-turning-the-ai-loop-production-run-into-a-better-model-and-agent\">CoreWeave</a> | <a href=\"https://news.northeastern.edu/2026/09/30/llm-as-a-judge\">Northeastern University</a> | <a href=\"https://www.pymnts.com/mastercard/2026/mastercard-deploys-new-risk-insights-to-support-agentic-payments\">PYMNTS</a> | <a href=\"https://ppc.land/40-of-americans-would-let-ai-agents-act-for-them-channel-v-media-finds\">PPC Land</a> | <a href=\"https://9to5google.com/2026/09/30/gemini-4-argon-announcement\">9to5Google</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261001.mp3",
+    "size": 4943325,
+    "guid": "ai-square-2026-10-01",
+    "duration": "00:15:00"
   }
 ]

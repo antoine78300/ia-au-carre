@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 30 Sep 2026 06:35:51 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:35:25 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #62 — 01/10/2026</title>
+      <description><![CDATA[On the program: Google's Gemini 4 Argon breakthrough, autonomous payments evolution, AI agent trustworthiness.
+
+📰 Sources : <a href="https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release">VentureBeat</a> | <a href="https://www.coreweave.com/news/coreweave-forge-launches-turning-the-ai-loop-production-run-into-a-better-model-and-agent">CoreWeave</a> | <a href="https://news.northeastern.edu/2026/09/30/llm-as-a-judge">Northeastern University</a> | <a href="https://www.pymnts.com/mastercard/2026/mastercard-deploys-new-risk-insights-to-support-agentic-payments">PYMNTS</a> | <a href="https://ppc.land/40-of-americans-would-let-ai-agents-act-for-them-channel-v-media-finds">PPC Land</a> | <a href="https://9to5google.com/2026/09/30/gemini-4-argon-announcement">9to5Google</a>]]></description>
+      <pubDate>Thu, 01 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261001.mp3" length="4943325" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-01</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #61 — 30/09/2026</title>
       <description><![CDATA[On the program: AI voice deepfakes in banking fraud, OpenAI's dangerous model shutdown, AI self-improvement breakthroughs.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>13</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #12 — 12/08/2026</title>
-      <description><![CDATA[On the agenda: AI agent security and governance, autonomous systems in enterprises, Nvidia's open-source models.
-
-📰 Sources : <a href="https://theaiinsider.tech/2026/08/11/zenity-closes-125m-to-secure-the-era-of-1-billion-ai-agents">The AI Insider</a> | <a href="https://www.resultsense.com/news/2026-08-11-barclays-agentic-ai-kill-switches">ResultSense</a> | <a href="https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/does-guidewire-softwares-gwre-new-agentic-framework-reshape/amp">Simply Wall St News</a>]]></description>
-      <pubDate>Wed, 12 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260812.mp3" length="5018205" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-12</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
