@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 01 Oct 2026 06:32:37 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:32:41 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #86 — 02/10/2026</title>
+      <description><![CDATA[Au programme : agents IA en entreprise, défis de l'implémentation, régulation et autonomie de l'IA.
+
+📰 Sources : <a href="https://www.forbesindia.com/amp/article/upfront/brand-connect/the-overconfidence-gap-why-enterprise-ais-next-failure-wont-be-the-model/2998599/1">Forbes India</a> | <a href="https://www.prnewswire.com/news-releases/caylent-positioned-as-a-major-player-in-the-2026-idc-marketscape-for-worldwide-cloud-professional-services-in-the-ai-era-302895921.html">PRNewswire</a> | <a href="https://www.drugtargetreview.com/drug-discovery-in-q3-2026-what-changed-and-why-it-matters/2136609.article">Drug Target Review</a> | <a href="https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second">VentureBeat / TechCrunch</a> | <a href="https://tech-insider.org/ftc-investigates-openai-anthropic-ai-agents-2026">Tech Insider</a> | <a href="https://fintech.global/2026/10/01/nasdaq-calypso-unveils-agentic-ai-for-the-trade-lifecycle">FinTech Global</a>]]></description>
+      <pubDate>Fri, 02 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261002.mp3" length="3801837" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-02</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #85 — 01/10/2026</title>
       <description><![CDATA[Au programme : Gemini 4 Argon de Google, paiements autonomes, confiance envers les agents IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>37</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #36 — 13/08/2026</title>
-      <description><![CDATA[Au programme : agents IA autonomes attaquant des infrastructures nucléaires, traçabilité des textes générés par IA, contrôle des décisions des agents IA.
-
-📰 Sources : <a href="https://www.exchangewire.com/blog/2026/08/12/why-true-agentic-commerce-relies-on-responsible-guardrails">ExchangeWire</a> | <a href="https://www.reversinglabs.com/blog/owasp-top-10-for-llm-apps-excessive-agency">Reversing Labs</a> | <a href="https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/">TechCrunch</a>]]></description>
-      <pubDate>Thu, 13 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260813.mp3" length="5316141" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-08-13</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

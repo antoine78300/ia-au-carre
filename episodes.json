@@ -848,5 +848,15 @@
     "size": 4385613,
     "guid": "ia-au-carre-2026-10-01",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 86,
+    "date": "2026-10-02T08:30:00",
+    "title": "IA au Carré #86 — 02/10/2026",
+    "description": "Au programme : agents IA en entreprise, défis de l'implémentation, régulation et autonomie de l'IA.\n\n📰 Sources : <a href=\"https://www.forbesindia.com/amp/article/upfront/brand-connect/the-overconfidence-gap-why-enterprise-ais-next-failure-wont-be-the-model/2998599/1\">Forbes India</a> | <a href=\"https://www.prnewswire.com/news-releases/caylent-positioned-as-a-major-player-in-the-2026-idc-marketscape-for-worldwide-cloud-professional-services-in-the-ai-era-302895921.html\">PRNewswire</a> | <a href=\"https://www.drugtargetreview.com/drug-discovery-in-q3-2026-what-changed-and-why-it-matters/2136609.article\">Drug Target Review</a> | <a href=\"https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second\">VentureBeat / TechCrunch</a> | <a href=\"https://tech-insider.org/ftc-investigates-openai-anthropic-ai-agents-2026\">Tech Insider</a> | <a href=\"https://fintech.global/2026/10/01/nasdaq-calypso-unveils-agentic-ai-for-the-trade-lifecycle\">FinTech Global</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261002.mp3",
+    "size": 3801837,
+    "guid": "ia-au-carre-2026-10-02",
+    "duration": "00:15:00"
   }
 ]
