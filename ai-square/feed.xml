@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 02 Oct 2026 06:35:15 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:35:10 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #64 — 03/10/2026</title>
+      <description><![CDATA[On the program: AI scientist autonomous agents, breakthrough Swedish research, weekend AI news roundup.
+
+📰 Sources : <a href="https://www.euronews.com/2026/10/02/swedish-researchers-create-an-ai-scientist-that-designs-and-runs-its-own-experiments">Euronews</a> | <a href="https://www.cmcmarkets.com/en-au/opto/sdgr-stock-schroedinger-hopes-its-ai-agent-can-transform-drug-discovery">CMC Markets</a> | <a href="https://www.businesswire.com/news/home/20261001311698/en/Faraday-Future-Showcases-its-EAI-Robotics-World-2.0-at-IROS-2026">Business Wire</a> | <a href="https://www.europeanscientist.com/en/features/musical-impoverishment-is-confirmed-etienne-guereau-interview">European Scientist</a> | <a href="https://news.lavx.hu/article/pope-leo-xiv-urges-church-to-partner-with-artists-against-ai">LavX News</a> | <a href="https://itbrief.asia/story/ropedia-launches-academic-programme-for-physical-ai">IT Brief Asia</a>]]></description>
+      <pubDate>Sat, 03 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261003.mp3" length="4341981" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-03</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #63 — 02/10/2026</title>
       <description><![CDATA[On the programme: enterprise AI agents adoption, regulatory challenges in AI development, autonomous decision-making systems.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>15</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #14 — 14/08/2026</title>
-      <description><![CDATA[On the programme: AI agents competition, Gemini 3.7 Flash release, security concerns in the industry.
-
-📰 Sources : <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash">Google Blog</a> | <a href="https://theaiinsider.tech/2026/08/13/obsidian-closes-85m-series-d-to-scale-ai-agent-security-growth">The AI Insider</a> | <a href="https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges">VentureBeat</a>]]></description>
-      <pubDate>Fri, 14 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260814.mp3" length="4730637" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-14</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

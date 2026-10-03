@@ -628,5 +628,15 @@
     "size": 4253709,
     "guid": "ai-square-2026-10-02",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 64,
+    "date": "2026-10-03T08:30:00",
+    "title": "AI Squared #64 — 03/10/2026",
+    "description": "On the program: AI scientist autonomous agents, breakthrough Swedish research, weekend AI news roundup.\n\n📰 Sources : <a href=\"https://www.euronews.com/2026/10/02/swedish-researchers-create-an-ai-scientist-that-designs-and-runs-its-own-experiments\">Euronews</a> | <a href=\"https://www.cmcmarkets.com/en-au/opto/sdgr-stock-schroedinger-hopes-its-ai-agent-can-transform-drug-discovery\">CMC Markets</a> | <a href=\"https://www.businesswire.com/news/home/20261001311698/en/Faraday-Future-Showcases-its-EAI-Robotics-World-2.0-at-IROS-2026\">Business Wire</a> | <a href=\"https://www.europeanscientist.com/en/features/musical-impoverishment-is-confirmed-etienne-guereau-interview\">European Scientist</a> | <a href=\"https://news.lavx.hu/article/pope-leo-xiv-urges-church-to-partner-with-artists-against-ai\">LavX News</a> | <a href=\"https://itbrief.asia/story/ropedia-launches-academic-programme-for-physical-ai\">IT Brief Asia</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261003.mp3",
+    "size": 4341981,
+    "guid": "ai-square-2026-10-03",
+    "duration": "00:15:00"
   }
 ]
