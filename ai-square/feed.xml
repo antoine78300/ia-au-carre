@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sat, 03 Oct 2026 06:35:10 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:35:39 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #65 — 04/10/2026</title>
+      <description><![CDATA[On the agenda: major robotics breakthroughs, latest AI developments, weekly tech highlights.
+
+📰 Sources : <a href="https://www.tycoonstory.com/leonardo-ai">Tycoon Story</a> | <a href="https://www.digitalmusicnews.com/2026/10/02/ai-music-separate-chart-debate">Digital Music News</a> | <a href="https://businessupturn.com/asia/east-asia/china/china-tightens-ipo-bar-for-humanoid-robot-startups-as-bubble-fears-mount-in-red-hot-embodied-ai-sector">Business Upturn</a> | <a href="https://www.financialcontent.com/article/marketersmedia-2026-10-3-african-ai-film-festival-launches-inaugural-edition-live-in-hollywood-with-a-screening-in-kampala">FinancialContent</a> | <a href="https://www.theborneopost.com/2026/10/04/out-of-the-robot-classroom-chinas-embodied-ai-takes-on-real-world-jobs">The Borneo Post</a> | <a href="https://en.yna.co.kr/view/RPR20261004000100353?section=press-release%2Findex">PRNewswire / Yonhap News Agency</a>]]></description>
+      <pubDate>Sun, 04 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261004.mp3" length="4929213" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-04</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #64 — 03/10/2026</title>
       <description><![CDATA[On the program: AI scientist autonomous agents, breakthrough Swedish research, weekend AI news roundup.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>16</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #15 — 15/08/2026</title>
-      <description><![CDATA[On the program: AI-generated music, virtual AI bands, mainstream artificial intelligence breakthroughs.
-
-📰 Sources : <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah / Anadolu Agency</a> | <a href="https://www.newstalkflorida.com/featured/ai-architects-creating-new-culture">NewsTalk Florida</a> | <a href="https://www.dailysabah.com/arts/music/ai-generated-music-boom-raises-fears-for-human-artists/amp">Daily Sabah</a>]]></description>
-      <pubDate>Sat, 15 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260815.mp3" length="5217789" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-15</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

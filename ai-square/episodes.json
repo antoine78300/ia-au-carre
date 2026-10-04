@@ -638,5 +638,15 @@
     "size": 4341981,
     "guid": "ai-square-2026-10-03",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 65,
+    "date": "2026-10-04T08:30:00",
+    "title": "AI Squared #65 — 04/10/2026",
+    "description": "On the agenda: major robotics breakthroughs, latest AI developments, weekly tech highlights.\n\n📰 Sources : <a href=\"https://www.tycoonstory.com/leonardo-ai\">Tycoon Story</a> | <a href=\"https://www.digitalmusicnews.com/2026/10/02/ai-music-separate-chart-debate\">Digital Music News</a> | <a href=\"https://businessupturn.com/asia/east-asia/china/china-tightens-ipo-bar-for-humanoid-robot-startups-as-bubble-fears-mount-in-red-hot-embodied-ai-sector\">Business Upturn</a> | <a href=\"https://www.financialcontent.com/article/marketersmedia-2026-10-3-african-ai-film-festival-launches-inaugural-edition-live-in-hollywood-with-a-screening-in-kampala\">FinancialContent</a> | <a href=\"https://www.theborneopost.com/2026/10/04/out-of-the-robot-classroom-chinas-embodied-ai-takes-on-real-world-jobs\">The Borneo Post</a> | <a href=\"https://en.yna.co.kr/view/RPR20261004000100353?section=press-release%2Findex\">PRNewswire / Yonhap News Agency</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261004.mp3",
+    "size": 4929213,
+    "guid": "ai-square-2026-10-04",
+    "duration": "00:15:00"
   }
 ]
