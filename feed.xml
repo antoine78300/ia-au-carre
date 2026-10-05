@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 04 Oct 2026 06:32:45 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:32:57 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #89 — 05/10/2026</title>
+      <description><![CDATA[Au programme : agents IA infiltrant les banques, résolution de problèmes mathématiques par machines, contrôle des décisions automatisées.
+
+📰 Sources : <a href="https://www.indrastra.com/2026/10/when-software-fires-supplier-era-of.html">Indrastra</a> | <a href="https://ppc.land/mlcommons-catalogues-25-privacy-risks-posed-by-ai-agents">PPC.Land</a> | <a href="https://hackernoon.com/inside-jev-how-decision-models-trade-text-generation-for-typed-calibrated-answers">HackerNoon</a> | <a href="https://tech-insider.org/meta-muse-spark-6-math-problems-esp32-2026">Tech Insider</a> | <a href="https://news.sbs.co.kr/amp/news.amp?news_id=N1008782925">SBS News</a> | <a href="https://www.mk.co.kr/en/economy/12168245">MK</a>]]></description>
+      <pubDate>Mon, 05 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261005.mp3" length="4828701" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-05</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #88 — 04/10/2026</title>
       <description><![CDATA[Au programme : robots humanoïdes, actualités IA de la semaine, découvertes technologiques fascinantes.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>40</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #39 — 16/08/2026</title>
-      <description><![CDATA[Au programme : la sagesse artificielle, les capacités des LLM, la distinction entre intelligence et sagesse.
-
-📰 Sources : <a href="https://www.forbes.com/sites/lanceeliot/2026/08/15/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/">Forbes</a> | <a href="https://www.tipranks.com/news/private-companies/dyna-robotics-weekly-recap-4">TipRanks</a> | <a href="https://retractionwatch.com/2026/08/15/weekend-reads-jason-arday-research-gold-ai-openai-math-breakthroughs">Retraction Watch</a>]]></description>
-      <pubDate>Sun, 16 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260816.mp3" length="4373661" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-08-16</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
