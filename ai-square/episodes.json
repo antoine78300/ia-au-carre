@@ -648,5 +648,15 @@
     "size": 4929213,
     "guid": "ai-square-2026-10-04",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 66,
+    "date": "2026-10-05T08:30:00",
+    "title": "AI Squared #66 — 05/10/2026",
+    "description": "On the program: AI agents breaching banking systems, AI solving advanced mathematics, autonomous systems and control questions.\n\n📰 Sources : <a href=\"https://www.indrastra.com/2026/10/when-software-fires-supplier-era-of.html\">Indrastra</a> | <a href=\"https://ppc.land/mlcommons-catalogues-25-privacy-risks-posed-by-ai-agents\">PPC.Land</a> | <a href=\"https://hackernoon.com/inside-jev-how-decision-models-trade-text-generation-for-typed-calibrated-answers\">HackerNoon</a> | <a href=\"https://tech-insider.org/meta-muse-spark-6-math-problems-esp32-2026\">Tech Insider</a> | <a href=\"https://news.sbs.co.kr/amp/news.amp?news_id=N1008782925\">SBS News</a> | <a href=\"https://www.mk.co.kr/en/economy/12168245\">MK</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261005.mp3",
+    "size": 5350701,
+    "guid": "ai-square-2026-10-05",
+    "duration": "00:15:00"
   }
 ]
