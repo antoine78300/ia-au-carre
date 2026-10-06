@@ -888,5 +888,15 @@
     "size": 4828701,
     "guid": "ia-au-carre-2026-10-05",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 90,
+    "date": "2026-10-06T08:30:00",
+    "title": "IA au Carré #90 — 06/10/2026",
+    "description": "Au programme : modèle géant Beam de 501 milliards de paramètres, agent de sécurité Google traquant les failles IA, confiance des agents IA en entreprise.\n\n📰 Sources : <a href=\"https://hrme.economictimes.indiatimes.com/amp/news/workplace/the-global-race-to-put-guardrails-around-ai/134675052\">ETHRWorldEMEA (Economic Times)</a> | <a href=\"https://uk.finance.yahoo.com/news/work4flow-logicmonitor-deepen-edwin-ai-162900955.html\">Yahoo Finance / PRNewswire</a> | <a href=\"https://news.lavx.hu/article/platform-engineering-cuts-llm-hallucinations-from-15-to-1-5-in-production-retail-system\">LavX News</a> | <a href=\"https://gbhackers.com/google-pagebreak-ai-agent/amp\">GBHackers</a> | <a href=\"https://www.snowflake.com/ko/blog/ai-agent-observability-monitor-debug-optimize-llm-applications\">Snowflake Blog</a> | <a href=\"https://startupfortune.com/reflection-ai-unveils-beam-a-501-billion-parameter-open-model-to-rival-china\">Startup Fortune</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261006.mp3",
+    "size": 3969165,
+    "guid": "ia-au-carre-2026-10-06",
+    "duration": "00:15:00"
   }
 ]
