@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 05 Oct 2026 06:36:07 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:35:12 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #67 — 06/10/2026</title>
+      <description><![CDATA[On the program: 501B-parameter AI model challenging Chinese competition, Google's security vulnerability detection agent, workplace AI trust issues.
+
+📰 Sources : <a href="https://hrme.economictimes.indiatimes.com/amp/news/workplace/the-global-race-to-put-guardrails-around-ai/134675052">ETHRWorldEMEA (Economic Times)</a> | <a href="https://uk.finance.yahoo.com/news/work4flow-logicmonitor-deepen-edwin-ai-162900955.html">Yahoo Finance / PRNewswire</a> | <a href="https://news.lavx.hu/article/platform-engineering-cuts-llm-hallucinations-from-15-to-1-5-in-production-retail-system">LavX News</a> | <a href="https://gbhackers.com/google-pagebreak-ai-agent/amp">GBHackers</a> | <a href="https://www.snowflake.com/ko/blog/ai-agent-observability-monitor-debug-optimize-llm-applications">Snowflake Blog</a> | <a href="https://startupfortune.com/reflection-ai-unveils-beam-a-501-billion-parameter-open-model-to-rival-china">Startup Fortune</a>]]></description>
+      <pubDate>Tue, 06 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261006.mp3" length="4375821" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-06</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #66 — 05/10/2026</title>
       <description><![CDATA[On the program: AI agents breaching banking systems, AI solving advanced mathematics, autonomous systems and control questions.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>18</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #17 — 17/08/2026</title>
-      <description><![CDATA[On the program: AI agent security breaches, safety frameworks, and a $7 billion acquisition reshaping the industry.
-
-📰 Sources : <a href="https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy">InfoQ</a> | <a href="https://www.inc.com/chris-morris/business-owners-have-a-new-security-problem-ai-agents-with-keys-to-company-secrets/91390975">Inc.</a> | <a href="https://securityboulevard.com/2026/08/the-owasp-llm-top-10-was-the-warm-up-what-comes-next">Security Boulevard</a>]]></description>
-      <pubDate>Mon, 17 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260817.mp3" length="5141613" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-17</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
