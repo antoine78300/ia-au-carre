@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Tue, 06 Oct 2026 06:35:12 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:35:18 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #68 — 07/10/2026</title>
+      <description><![CDATA[On the program: AI agent privacy concerns, French AI competition entry, legal gaps in agentic commerce.
+
+📰 Sources : <a href="https://healthit.gov/news/hhs-announces-2026-leap-in-health-it-awardees-to-accelerate-the-use-of-agentic-ai-in-clinical-care-and-close-gaps-in-laboratory-interoperability">Office of the National Coordinator for Health Information Technology</a> | <a href="https://aiagentstore.ai/ai-agent-news/this-week">AI Agents News</a> | <a href="https://unn.ua/en/amp/french-company-mistral-has-released-a-new-ai-model-and-said-it-outperforms-some-chinese-counterparts">UNN / Reuters</a> | <a href="https://shattered.io/reflection-ai-beam-market-impact-23b-active-2026">Shattered.io</a> | <a href="https://cryptorank.io/news/feed/fa950-the-agentic-commerce-liability-gap-who-pays-when-the-agent-buys-wrong">Forkast News</a> | <a href="https://www.moneycontrol.com/news/trends/ai-assistants-may-be-seeing-more-than-you-asked-them-to-14045954.html">Moneycontrol</a>]]></description>
+      <pubDate>Wed, 07 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261007.mp3" length="4475613" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-07</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #67 — 06/10/2026</title>
       <description><![CDATA[On the program: 501B-parameter AI model challenging Chinese competition, Google's security vulnerability detection agent, workplace AI trust issues.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>19</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #18 — 18/08/2026</title>
-      <description><![CDATA[On the program: AI agents in pharma R&D, TCS AgentHub launch, controlling AI in enterprise workflows.
-
-📰 Sources : <a href="https://scanx.trade/stock-market-news/companies/tcs-launches-agentic-ai-platform-transform-drug-development/48493448">scanx.trade</a> | <a href="https://www.pymnts.com/news/artificial-intelligence/2026/legal-departments-move-from-testing-ai-to-governing-it/">PYMNTS.com</a> | <a href="https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer">VentureBeat</a>]]></description>
-      <pubDate>Tue, 18 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260818.mp3" length="4589373" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-18</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

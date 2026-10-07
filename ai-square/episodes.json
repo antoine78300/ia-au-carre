@@ -668,5 +668,15 @@
     "size": 4375821,
     "guid": "ai-square-2026-10-06",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 68,
+    "date": "2026-10-07T08:30:00",
+    "title": "AI Squared #68 — 07/10/2026",
+    "description": "On the program: AI agent privacy concerns, French AI competition entry, legal gaps in agentic commerce.\n\n📰 Sources : <a href=\"https://healthit.gov/news/hhs-announces-2026-leap-in-health-it-awardees-to-accelerate-the-use-of-agentic-ai-in-clinical-care-and-close-gaps-in-laboratory-interoperability\">Office of the National Coordinator for Health Information Technology</a> | <a href=\"https://aiagentstore.ai/ai-agent-news/this-week\">AI Agents News</a> | <a href=\"https://unn.ua/en/amp/french-company-mistral-has-released-a-new-ai-model-and-said-it-outperforms-some-chinese-counterparts\">UNN / Reuters</a> | <a href=\"https://shattered.io/reflection-ai-beam-market-impact-23b-active-2026\">Shattered.io</a> | <a href=\"https://cryptorank.io/news/feed/fa950-the-agentic-commerce-liability-gap-who-pays-when-the-agent-buys-wrong\">Forkast News</a> | <a href=\"https://www.moneycontrol.com/news/trends/ai-assistants-may-be-seeing-more-than-you-asked-them-to-14045954.html\">Moneycontrol</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261007.mp3",
+    "size": 4475613,
+    "guid": "ai-square-2026-10-07",
+    "duration": "00:15:00"
   }
 ]
