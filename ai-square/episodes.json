@@ -678,5 +678,15 @@
     "size": 4475613,
     "guid": "ai-square-2026-10-07",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 69,
+    "date": "2026-10-08T08:30:00",
+    "title": "AI Squared #69 — 08/10/2026",
+    "description": "Au programme : AI agents protecting children online, cryptographic standards for auditing AI models, financial risk regulation.\n\n📰 Sources : <a href=\"https://www.enterprisetimes.co.uk/2026/10/07/openmatter-network-and-hol-release-proposed-standards-for-verifiable-ai-compliance\">Enterprise Times</a> | <a href=\"https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material\">TechCrunch</a> | <a href=\"https://www.prnewswire.com/news-releases/apollo-graphql-introduces-graphos-agent-services-giving-ai-agents-governed-access-to-enterprise-apis-and-systems-302900890.html\">PRNewswire</a> | <a href=\"https://www.hpcwire.com/aiwire/2026/10/07/dell-gives-ai-agents-a-map-of-enterprise-data\">HPCWire AIwire</a> | <a href=\"https://opengovasia.com/mas-issues-ai-risk-management-guidelines-for-financial-institutions?c=sg\">OpenGov Asia</a> | <a href=\"https://finovate.com/gusto-helps-accountants-put-ai-agents-to-work-with-new-platform-updates\">Finovate</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261008.mp3",
+    "size": 5008413,
+    "guid": "ai-square-2026-10-08",
+    "duration": "00:15:00"
   }
 ]
