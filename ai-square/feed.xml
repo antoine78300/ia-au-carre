@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 08 Oct 2026 06:36:02 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:34:54 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #70 — 09/10/2026</title>
+      <description><![CDATA[On the agenda: AI agents hacking banks, Google's multi-model collaboration breakthrough, regulatory accountability for AI errors.
+
+📰 Sources : <a href="https://hackernoon.com/mate-security-wins-2026-cybersecurity-breakthrough-award-for-agentic-cyberdefense">HackerNoon</a> | <a href="https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html">The Hacker News</a> | <a href="https://www.housingwire.com/articles/exp-mcp-first-ai">HousingWire</a> | <a href="https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai">SAP News Center</a> | <a href="https://kingy.ai/blog/google-gemini-work-agent-claude-specs-comparisons">Kingy AI</a> | <a href="https://www.fintechfutures.com/regulations-compliance/interview-the-fcas-david-geale-on-crypto-rules-agentic-ai-liability-and-open-finance">FinTech Futures</a>]]></description>
+      <pubDate>Fri, 09 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261009.mp3" length="4513485" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-09</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #69 — 08/10/2026</title>
       <description><![CDATA[Au programme : AI agents protecting children online, cryptographic standards for auditing AI models, financial risk regulation.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>21</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #20 — 20/08/2026</title>
-      <description><![CDATA[On the program: AI agent security, autonomous AI trustworthiness, game-changing tech acquisitions.
-
-📰 Sources : <a href="https://techxplore.com/news/2026-08-ai-agents.html">TechXplore</a> | <a href="https://viterbischool.usc.edu/news/2026/08/giving-ai-agents-the-keys-usc-engineers-develop-tools-to-audit-and-monitor-ai-agents">USC Viterbi School</a> | <a href="https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal">SiliconANGLE</a>]]></description>
-      <pubDate>Thu, 20 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260820.mp3" length="5185389" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-20</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

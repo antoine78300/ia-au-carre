@@ -688,5 +688,15 @@
     "size": 5008413,
     "guid": "ai-square-2026-10-08",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 70,
+    "date": "2026-10-09T08:30:00",
+    "title": "AI Squared #70 — 09/10/2026",
+    "description": "On the agenda: AI agents hacking banks, Google's multi-model collaboration breakthrough, regulatory accountability for AI errors.\n\n📰 Sources : <a href=\"https://hackernoon.com/mate-security-wins-2026-cybersecurity-breakthrough-award-for-agentic-cyberdefense\">HackerNoon</a> | <a href=\"https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html\">The Hacker News</a> | <a href=\"https://www.housingwire.com/articles/exp-mcp-first-ai\">HousingWire</a> | <a href=\"https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai\">SAP News Center</a> | <a href=\"https://kingy.ai/blog/google-gemini-work-agent-claude-specs-comparisons\">Kingy AI</a> | <a href=\"https://www.fintechfutures.com/regulations-compliance/interview-the-fcas-david-geale-on-crypto-rules-agentic-ai-liability-and-open-finance\">FinTech Futures</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261009.mp3",
+    "size": 4513485,
+    "guid": "ai-square-2026-10-09",
+    "duration": "00:15:00"
   }
 ]
