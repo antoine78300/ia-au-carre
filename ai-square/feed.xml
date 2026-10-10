@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 09 Oct 2026 06:34:54 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:35:18 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #71 — 10/10/2026</title>
+      <description><![CDATA[On the program: China's first certified AI avatar Yuri performs live, weekly AI breakthroughs and innovations.
+
+📰 Sources : <a href="https://global.chinadaily.com.cn/a/202610/09/WS6ac83381e4b06d4aa0561c47.html">China Daily</a> | <a href="https://www.azom.com/news.aspx?newsID=65908">AZOM</a> | <a href="https://roboticsandautomationnews.com/2026/10/09/monolithos-launches-long-term-memory-system-for-robots-and-embodied-ai/105780">Robotics & Automation News</a> | <a href="https://eu.36kr.com/en/p/4017887613538182">36kr</a> | <a href="https://www.streetinsider.com/Binary+News+Network/VAYLA+Arena+and+the+AI+Music+Discovery+Challenge+%E2%80%94+Why+Human+Participation+Matters+in+an+Age+of+Expanding+Creation/27168418.html">Street Insider / Binary News Network</a> | <a href="https://menafn.com/1111782052/Robbyant-And-AFDE-Expand-Embodied-AI-Robotics-In-Middle-East">Robotics & Automation News / MENAFN</a>]]></description>
+      <pubDate>Sat, 10 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261010.mp3" length="4383885" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-10</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #70 — 09/10/2026</title>
       <description><![CDATA[On the agenda: AI agents hacking banks, Google's multi-model collaboration breakthrough, regulatory accountability for AI errors.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>22</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #21 — 21/08/2026</title>
-      <description><![CDATA[On the program: AI agent security, model routing, Grok vulnerability.
-
-📰 Sources : <a href="https://www.digitalinformationworld.com/2026/08/how-attackers-persuade-ai-agents-to-.html">Digital Information World</a> | <a href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/">Ars Technica</a> | <a href="https://www.thestack.technology/runtime-open-season-for-ai-routing-how-tfms-tackle-structured-data-github-ddosd-itself">The Stack</a>]]></description>
-      <pubDate>Fri, 21 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260821.mp3" length="4444509" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-21</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
