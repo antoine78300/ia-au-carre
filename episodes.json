@@ -928,5 +928,15 @@
     "size": 4215693,
     "guid": "ia-au-carre-2026-10-09",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 94,
+    "date": "2026-10-10T08:30:00",
+    "title": "IA au Carré #94 — 10/10/2026",
+    "description": "Au programme : le premier avatar IA certifié en Chine, sa performance live à Shanghai, les avancées IA de la semaine.\n\n📰 Sources : <a href=\"https://global.chinadaily.com.cn/a/202610/09/WS6ac83381e4b06d4aa0561c47.html\">China Daily</a> | <a href=\"https://www.azom.com/news.aspx?newsID=65908\">AZOM</a> | <a href=\"https://roboticsandautomationnews.com/2026/10/09/monolithos-launches-long-term-memory-system-for-robots-and-embodied-ai/105780\">Robotics & Automation News</a> | <a href=\"https://eu.36kr.com/en/p/4017887613538182\">36kr</a> | <a href=\"https://www.streetinsider.com/Binary+News+Network/VAYLA+Arena+and+the+AI+Music+Discovery+Challenge+%E2%80%94+Why+Human+Participation+Matters+in+an+Age+of+Expanding+Creation/27168418.html\">Street Insider / Binary News Network</a> | <a href=\"https://menafn.com/1111782052/Robbyant-And-AFDE-Expand-Embodied-AI-Robotics-In-Middle-East\">Robotics & Automation News / MENAFN</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261010.mp3",
+    "size": 4400013,
+    "guid": "ia-au-carre-2026-10-10",
+    "duration": "00:15:00"
   }
 ]
