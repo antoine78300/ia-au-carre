@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sat, 10 Oct 2026 06:35:18 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:46:34 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #72 — 11/10/2026</title>
+      <description><![CDATA[On the programme: Atlas robot's next-generation hands, AI developments, Sunday tech news roundup.
+
+📰 Sources : <a href="https://finance.yahoo.com/technology/ai/articles/ai-made-music-fast-city-141000525.html">Yahoo Finance / PRNewswire</a> | <a href="https://finance.biggo.com/news/30103f85-6ade-41d2-a112-d6856ac81a55">BigGo Finance</a> | <a href="https://carnewschina.com/2026/10/10/byd-unveils-design-for-its-first-self-developed-humanoid-robot">CarNewsChina / StarNews</a> | <a href="https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work">Boston Dynamics Blog</a> | <a href="https://english.bit.edu.cn/2026-10/10/c_1217939.htm">Beijing Institute of Technology</a> | <a href="https://www.bbc.com/news/articles/c5vgjm3gk7rzo">BBC News</a>]]></description>
+      <pubDate>Sun, 11 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261011.mp3" length="12306093" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-11</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #71 — 10/10/2026</title>
       <description><![CDATA[On the program: China's first certified AI avatar Yuri performs live, weekly AI breakthroughs and innovations.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>23</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #22 — 22/08/2026</title>
-      <description><![CDATA[On the program: AI-generated music labeling, robots, and thought-provoking questions.
-
-📰 Sources : <a href="https://routenote.com/blog/apple-music-made-with-ai-labels">RouteNote</a> | <a href="https://eletric-vehicles.com/nio/nio-autonomous-driving-chief-founds-embodied-robotics-company">Electric Vehicles</a> | <a href="https://routenote.com/blog/apple-music-made-with-ai-labels">RouteNote Blog</a>]]></description>
-      <pubDate>Sat, 22 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260822.mp3" length="3937341" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-22</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

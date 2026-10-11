@@ -708,5 +708,15 @@
     "size": 4383885,
     "guid": "ai-square-2026-10-10",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 72,
+    "date": "2026-10-11T08:30:00",
+    "title": "AI Squared #72 — 11/10/2026",
+    "description": "On the programme: Atlas robot's next-generation hands, AI developments, Sunday tech news roundup.\n\n📰 Sources : <a href=\"https://finance.yahoo.com/technology/ai/articles/ai-made-music-fast-city-141000525.html\">Yahoo Finance / PRNewswire</a> | <a href=\"https://finance.biggo.com/news/30103f85-6ade-41d2-a112-d6856ac81a55\">BigGo Finance</a> | <a href=\"https://carnewschina.com/2026/10/10/byd-unveils-design-for-its-first-self-developed-humanoid-robot\">CarNewsChina / StarNews</a> | <a href=\"https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work\">Boston Dynamics Blog</a> | <a href=\"https://english.bit.edu.cn/2026-10/10/c_1217939.htm\">Beijing Institute of Technology</a> | <a href=\"https://www.bbc.com/news/articles/c5vgjm3gk7rzo\">BBC News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261011.mp3",
+    "size": 12306093,
+    "guid": "ai-square-2026-10-11",
+    "duration": "00:15:00"
   }
 ]
