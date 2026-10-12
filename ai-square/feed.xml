@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sun, 11 Oct 2026 10:46:34 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:31:52 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #73 — 12/10/2026</title>
+      <description><![CDATA["On the program: UAE's agentic AI government rollout by 2028, understanding autonomous AI systems, future impact on public services."
+
+📰 Sources : <a href="https://www.emirates247.com/technology/uae-expands-ai-integration-across-key-sectors-in-2026/6591">Emirates 24|7</a> | <a href="https://www.kucoin.com/blog/certik-report-how-agentic-ai-is-reshaping-cybersecurity-aml-and-web3-compliance">KuCoin Blog</a> | <a href="https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026">Shattered.io / Tech Insider</a> | <a href="https://bioengineer.org/new-middleware-keeps-ai-security-reviews-honest-with-evidence-gated-handoffs">BioEngineer</a> | <a href="https://tech-insider.org/codex-cli-0-162-vs-claude-code-2-1-296-2026">Agentry Newsroom / Tech Insider</a> | <a href="https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model">MarkTechPost</a>]]></description>
+      <pubDate>Mon, 12 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261012.mp3" length="4835469" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-12</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #72 — 11/10/2026</title>
       <description><![CDATA[On the programme: Atlas robot's next-generation hands, AI developments, Sunday tech news roundup.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>24</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #23 — 23/08/2026</title>
-      <description><![CDATA[On the program: humanoid robots playing soccer, AI-powered surveillance glasses, justice system challenges with AI.
-
-📰 Sources : <a href="https://www.bignewsnetwork.com/news/279257612/china-embodied-ai-enters-critical-phase-for-large-scale-application-experts">Big News Network</a> | <a href="https://www.cbsnews.com/newyork/video/metas-ai-glasses-spark-privacy-concerns/">CBS News</a> | <a href="https://www.latimes.com/california/story/2026-08-22/ai-led-to-mistakes-in-nevada-county-criminal-cases-should-d-a-be-sanctioned">Los Angeles Times</a>]]></description>
-      <pubDate>Sun, 23 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260823.mp3" length="4516509" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-23</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
