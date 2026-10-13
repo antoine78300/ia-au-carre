@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 12 Oct 2026 08:01:01 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:07:46 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #97 — 13/10/2026</title>
+      <description><![CDATA[Au programme : agents IA contournés par une simple phrase, Meta relance la guerre des modèles frontière, failles critiques découvertes lors d'un concours de hacking.
+
+📰 Sources : <a href="https://sg.finance.yahoo.com/news/gfiber-qualcomm-gemtek-unveil-ai-140900025.html">Yahoo Finance Singapore</a> | <a href="https://www.indystar.com/press-release/story/135899/qct-showcases-future-ready-intel-based-data-center-solutions-at-the-2026-ocp-global-summit">IndyStar</a> | <a href="https://techgig.com/news/ai/advanced-architectures-for-llm-agents-move-to-production/134882371">TechGig</a> | <a href="https://www.csoonline.com/article/4233811/researchers-bypass-6-ai-agent-frameworks-with-a-simple-repeat-after-me-prompt.html">CSO Online</a> | <a href="https://www.biospace.com/press-releases/fujifilm-launches-synapse-pathology-v3-0-advancing-the-digital-pathology-experience-with-expanded-ai-capabilities">BioSpace</a> | <a href="https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents">MarkTechPost</a>]]></description>
+      <pubDate>Tue, 13 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261013.mp3" length="4451277" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-13</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #96 — 12/10/2026</title>
       <description><![CDATA[Au programme : IA agentique aux Émirats arabes unis, déploiement gouvernemental d'ici 2028, définition et enjeux de l'IA autonome.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>48</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #47 — 24/08/2026</title>
-      <description><![CDATA[Au programme : Stripe rachète OpenRouter, OpenAI met pause sur ses projets, agents IA en chirurgie.
-
-📰 Sources : <a href="https://thesequence.substack.com/p/the-sequence-radar-issue-919-last">The Sequence</a> | <a href="https://www.scworld.com/risk-advisory/when-an-agent-fails-incident-response-for-ai-initiated-access-events">SC Media</a> | <a href="https://www.moomoo.com/community/feed/early-morning-report-nvidia-to-raise-prices-on-ai-servers-117147218673670">Moomoo</a>]]></description>
-      <pubDate>Mon, 24 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260824.mp3" length="4149885" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-08-24</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
