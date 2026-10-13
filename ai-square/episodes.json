@@ -728,5 +728,15 @@
     "size": 4835469,
     "guid": "ai-square-2026-10-12",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 74,
+    "date": "2026-10-13T08:30:00",
+    "title": "AI Squared #74 — 13/10/2026",
+    "description": "On the program: AI agent vulnerabilities through prompt injection, Meta's return to frontier model development, security flaws exposed at hacking competition.\n\n📰 Sources : <a href=\"https://sg.finance.yahoo.com/news/gfiber-qualcomm-gemtek-unveil-ai-140900025.html\">Yahoo Finance Singapore</a> | <a href=\"https://www.indystar.com/press-release/story/135899/qct-showcases-future-ready-intel-based-data-center-solutions-at-the-2026-ocp-global-summit\">IndyStar</a> | <a href=\"https://techgig.com/news/ai/advanced-architectures-for-llm-agents-move-to-production/134882371\">TechGig</a> | <a href=\"https://www.csoonline.com/article/4233811/researchers-bypass-6-ai-agent-frameworks-with-a-simple-repeat-after-me-prompt.html\">CSO Online</a> | <a href=\"https://www.biospace.com/press-releases/fujifilm-launches-synapse-pathology-v3-0-advancing-the-digital-pathology-experience-with-expanded-ai-capabilities\">BioSpace</a> | <a href=\"https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents\">MarkTechPost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261013.mp3",
+    "size": 4866861,
+    "guid": "ai-square-2026-10-13",
+    "duration": "00:15:00"
   }
 ]
