@@ -738,5 +738,15 @@
     "size": 4866861,
     "guid": "ai-square-2026-10-13",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 75,
+    "date": "2026-10-14T08:30:00",
+    "title": "AI Squared #75 — 14/10/2026",
+    "description": "On the program: Workday acquires C1.ai and partners with Anthropic, Google releases new AI model, security vulnerability discovered.\n\n📰 Sources : <a href=\"https://ffnews.com/news/re-embargoed-workday-rising-announcements-46731dd5\">FF News</a> | <a href=\"https://blog.workday.com/en-us/custom-agents.html\">Workday Blog</a> | <a href=\"https://www.prnewswire.com/news-releases/contentsquare-announces-new-ai-first-experience-platform-to-optimize-every-human-and-agent-journey-302906551.html\">PR Newswire</a> | <a href=\"https://gbhackers.com/researchers-discover-253-security-vulnerabilities\">GB Hackers</a> | <a href=\"https://www.euronews.com/2026/10/13/anthropic-warns-ai-will-soon-self-replicate-and-spread-beyond-data-centres\">Euronews</a> | <a href=\"https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases\">TechCrunch</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261014.mp3",
+    "size": 4627101,
+    "guid": "ai-square-2026-10-14",
+    "duration": "00:15:00"
   }
 ]
