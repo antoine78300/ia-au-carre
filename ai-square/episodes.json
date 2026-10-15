@@ -748,5 +748,15 @@
     "size": 4627101,
     "guid": "ai-square-2026-10-14",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 76,
+    "date": "2026-10-15T08:30:00",
+    "title": "AI Squared #76 — 15/10/2026",
+    "description": "On the program: agentic AI adoption across industries, IBM's leadership recognition in AI platforms, market trends in enterprise artificial intelligence.\n\n📰 Sources : <a href=\"https://www.ibm.com/new/announcements/ibm-named-a-leader-in-the-2026-idc-marketscape-for-worldwide-agentic-ai-platforms\">IBM</a> | <a href=\"https://www.prnewswire.com/news-releases/netzilo-ai-edge-extends-ai-agent-governance-from-endpoint-to-saas-introduces-drift-control-with-system-one-models-302908251.html\">PRNewswire</a> | <a href=\"https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges\">Google Research</a> | <a href=\"https://www.adweek.com/adweek-wire/onaudience-launches-onaudience-mcp-bringing-audience-data-directly-into-agentic-advertising-workflows/?itm_source=homepage&itm_medium=adweek-wire-edge&itm_campaign=1\">Adweek</a> | <a href=\"https://roboticsandautomationnews.com/2026/10/14/neura-robotics-launches-multimodal-ai-model-that-gives-robots-perception-and-memory/105902/\">Robotics & Automation News</a> | <a href=\"https://www.prnewswire.com/news-releases/talentneuron-adds-agentic-ai-capabilities-to-synapse-delivering-boardroom-ready-workforce-analysis-in-minutes-302907975.html\">PR Newswire</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261015.mp3",
+    "size": 5080557,
+    "guid": "ai-square-2026-10-15",
+    "duration": "00:15:00"
   }
 ]

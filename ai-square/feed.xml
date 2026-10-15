@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 14 Oct 2026 07:11:05 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:09:57 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #76 — 15/10/2026</title>
+      <description><![CDATA[On the program: agentic AI adoption across industries, IBM's leadership recognition in AI platforms, market trends in enterprise artificial intelligence.
+
+📰 Sources : <a href="https://www.ibm.com/new/announcements/ibm-named-a-leader-in-the-2026-idc-marketscape-for-worldwide-agentic-ai-platforms">IBM</a> | <a href="https://www.prnewswire.com/news-releases/netzilo-ai-edge-extends-ai-agent-governance-from-endpoint-to-saas-introduces-drift-control-with-system-one-models-302908251.html">PRNewswire</a> | <a href="https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges">Google Research</a> | <a href="https://www.adweek.com/adweek-wire/onaudience-launches-onaudience-mcp-bringing-audience-data-directly-into-agentic-advertising-workflows/?itm_source=homepage&itm_medium=adweek-wire-edge&itm_campaign=1">Adweek</a> | <a href="https://roboticsandautomationnews.com/2026/10/14/neura-robotics-launches-multimodal-ai-model-that-gives-robots-perception-and-memory/105902/">Robotics & Automation News</a> | <a href="https://www.prnewswire.com/news-releases/talentneuron-adds-agentic-ai-capabilities-to-synapse-delivering-boardroom-ready-workforce-analysis-in-minutes-302907975.html">PR Newswire</a>]]></description>
+      <pubDate>Thu, 15 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261015.mp3" length="5080557" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-15</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #75 — 14/10/2026</title>
       <description><![CDATA[On the program: Workday acquires C1.ai and partners with Anthropic, Google releases new AI model, security vulnerability discovered.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>27</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #26 — 26/08/2026</title>
-      <description><![CDATA[On the program: AI acquisitions reshaping healthcare, critical security vulnerabilities, IBM's new enterprise model.
-
-📰 Sources : <a href="https://hitconsultant.net/2026/08/25/wellstack-acquires-delorean-ai/">HIT Consultant</a> | <a href="https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw">Dark Reading</a> | <a href="https://research.ibm.com/blog/introducing-granite-4-2">IBM Research</a>]]></description>
-      <pubDate>Wed, 26 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260826.mp3" length="4942893" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-26</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
