@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 15 Oct 2026 07:09:57 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:34:38 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #77 — 16/10/2026</title>
+      <description><![CDATA[On the program: autonomous AI agents in finance, healthcare and banking sector transformations, global regulatory frameworks for responsible AI adoption.
+
+📰 Sources : <a href="https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120">Healthcare Dive</a> | <a href="https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/">Infosecurity Magazine</a> | <a href="https://www.fleetowner.com/technology/autonomous-vehicles/news/55411954/samsara-launches-ai-agent-platform-for-fleet-reporting-compliance-and-driver-support">FleetOwner</a> | <a href="https://fintechmagazine.com/news/starling-to-train-ai-models-on-civos-uk-sovereign-cloud">FinTech Magazine</a> | <a href="https://www.developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20975-huaweis-stellar-ai-campus-network-powers-enterprises-for-the-agentic-ai-era.html">Developing Telecoms</a> | <a href="https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape">Dark Reading</a>]]></description>
+      <pubDate>Fri, 16 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261016.mp3" length="4947645" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-16</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #76 — 15/10/2026</title>
       <description><![CDATA[On the program: agentic AI adoption across industries, IBM's leadership recognition in AI platforms, market trends in enterprise artificial intelligence.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>28</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #27 — 27/08/2026</title>
-      <description><![CDATA[On programme : unauthorized AI tools in enterprises, Meta's new affordable AI agent, self-improving AI models.
-
-📰 Sources : <a href="https://www.prnewswire.com/in/news-releases/g-p-delivers-compliant-global-workforce-intelligence-to-enterprise-ai-tools-302859982.html">PR Newswire</a> | <a href="https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/">Infosecurity Magazine</a> | <a href="https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription">The Next Web</a>]]></description>
-      <pubDate>Thu, 27 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260827.mp3" length="4612845" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-27</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

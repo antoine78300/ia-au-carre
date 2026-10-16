@@ -758,5 +758,15 @@
     "size": 5080557,
     "guid": "ai-square-2026-10-15",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 77,
+    "date": "2026-10-16T08:30:00",
+    "title": "AI Squared #77 — 16/10/2026",
+    "description": "On the program: autonomous AI agents in finance, healthcare and banking sector transformations, global regulatory frameworks for responsible AI adoption.\n\n📰 Sources : <a href=\"https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120\">Healthcare Dive</a> | <a href=\"https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/\">Infosecurity Magazine</a> | <a href=\"https://www.fleetowner.com/technology/autonomous-vehicles/news/55411954/samsara-launches-ai-agent-platform-for-fleet-reporting-compliance-and-driver-support\">FleetOwner</a> | <a href=\"https://fintechmagazine.com/news/starling-to-train-ai-models-on-civos-uk-sovereign-cloud\">FinTech Magazine</a> | <a href=\"https://www.developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20975-huaweis-stellar-ai-campus-network-powers-enterprises-for-the-agentic-ai-era.html\">Developing Telecoms</a> | <a href=\"https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape\">Dark Reading</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261016.mp3",
+    "size": 4947645,
+    "guid": "ai-square-2026-10-16",
+    "duration": "00:15:00"
   }
 ]
