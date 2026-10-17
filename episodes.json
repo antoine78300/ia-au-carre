@@ -998,5 +998,15 @@
     "size": 4626957,
     "guid": "ia-au-carre-2026-10-16",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 101,
+    "date": "2026-10-17T08:30:00",
+    "title": "IA au Carré #101 — 17/10/2026",
+    "description": "Au programme : régulation de l'IA en Australie, droits d'auteur et oeuvres créatives, réaction du milieu culturel.\n\n📰 Sources : <a href=\"https://tech-insider.org/au/albanese-ai-copyright-music-industry-backlash-2026\">Tech Insider</a> | <a href=\"https://www.thedeepview.com/newsletter/the-music-industry-s-ai-reckoning-is-already-here\">The Deep View</a> | <a href=\"https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html\">PRNewswire</a> | <a href=\"https://www.prnewswire.com/news-releases/no-more-black-boxes-roboparty-launches-full-stack-open-source-rp1-302910191.html\">PRNewswire</a> | <a href=\"https://europeansting.com/2026/10/16/commission-launches-raise-pledging-initiative-to-boost-ai-support-for-researchers-across-europe\">European Sting</a> | <a href=\"https://routenote.com/radar/youtube-music-adds-ai-labels-to-songs-heres-what-they-mean\">RouteNote</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261017.mp3",
+    "size": 8105133,
+    "guid": "ia-au-carre-2026-10-17",
+    "duration": "00:15:00"
   }
 ]
