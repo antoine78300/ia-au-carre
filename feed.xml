@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 17 Oct 2026 06:32:36 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:32:55 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #102 — 18/10/2026</title>
+      <description><![CDATA[Au programme : musique générée par IA, gestion des plateformes de streaming, impact sur les créateurs.
+
+📰 Sources : <a href="https://www.neoteo.com/en/deezer-plans-a-reversible-ai-music-filter-for-search">NeoTeo</a> | <a href="https://www.thedailystar.net/business/news/prism-ai-creative-bootcamp-ends-dhaka-university-4301016">The Daily Star</a> | <a href="https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html">TechXplore</a> | <a href="https://t.co/eJOc3xBDVF">Média généraliste</a> | <a href="https://www.gelora.co/2026/10/how-ai-music-generators-actually-work-guide-for-2026.html">Gelora</a> | <a href="https://slguardian.org/google-expands-ai-research-into-healthcare-disaster-forecasting-and-scientific-discovery">Sri Lanka Guardian</a>]]></description>
+      <pubDate>Sun, 18 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261018.mp3" length="9703725" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-18</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #101 — 17/10/2026</title>
       <description><![CDATA[Au programme : régulation de l'IA en Australie, droits d'auteur et oeuvres créatives, réaction du milieu culturel.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>53</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #52 — 29/08/2026</title>
-      <description><![CDATA[Au programme : investissement des majors dans Stability AI, IA et musique, révolution de l'industrie musicale.
-
-📰 Sources : <a href="https://korben.info/en/voicebox-clone-voices-locally-without-cloud.html">Korben</a> | <a href="https://en.wowtale.net/2026/08/28/234903">WOWTALE</a> | <a href="https://www.01net.it/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model">01net.it</a>]]></description>
-      <pubDate>Sat, 29 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260829.mp3" length="4432989" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-08-29</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

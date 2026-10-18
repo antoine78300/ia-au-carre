@@ -1008,5 +1008,15 @@
     "size": 8105133,
     "guid": "ia-au-carre-2026-10-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 102,
+    "date": "2026-10-18T08:30:00",
+    "title": "IA au Carré #102 — 18/10/2026",
+    "description": "Au programme : musique générée par IA, gestion des plateformes de streaming, impact sur les créateurs.\n\n📰 Sources : <a href=\"https://www.neoteo.com/en/deezer-plans-a-reversible-ai-music-filter-for-search\">NeoTeo</a> | <a href=\"https://www.thedailystar.net/business/news/prism-ai-creative-bootcamp-ends-dhaka-university-4301016\">The Daily Star</a> | <a href=\"https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html\">TechXplore</a> | <a href=\"https://t.co/eJOc3xBDVF\">Média généraliste</a> | <a href=\"https://www.gelora.co/2026/10/how-ai-music-generators-actually-work-guide-for-2026.html\">Gelora</a> | <a href=\"https://slguardian.org/google-expands-ai-research-into-healthcare-disaster-forecasting-and-scientific-discovery\">Sri Lanka Guardian</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261018.mp3",
+    "size": 9703725,
+    "guid": "ia-au-carre-2026-10-18",
+    "duration": "00:15:00"
   }
 ]
