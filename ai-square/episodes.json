@@ -778,5 +778,15 @@
     "size": 8686893,
     "guid": "ai-square-2026-10-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 79,
+    "date": "2026-10-18T08:30:00",
+    "title": "AI Squared #79 — 18/10/2026",
+    "description": "On the program: AI-generated music flooding streaming platforms, AI's impact on everyday life, weekend AI news roundup.\n\n📰 Sources : <a href=\"https://www.neoteo.com/en/deezer-plans-a-reversible-ai-music-filter-for-search\">NeoTeo</a> | <a href=\"https://www.thedailystar.net/business/news/prism-ai-creative-bootcamp-ends-dhaka-university-4301016\">The Daily Star</a> | <a href=\"https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html\">TechXplore</a> | <a href=\"https://t.co/eJOc3xBDVF\">Média généraliste</a> | <a href=\"https://www.gelora.co/2026/10/how-ai-music-generators-actually-work-guide-for-2026.html\">Gelora</a> | <a href=\"https://slguardian.org/google-expands-ai-research-into-healthcare-disaster-forecasting-and-scientific-discovery\">Sri Lanka Guardian</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261018.mp3",
+    "size": 10190637,
+    "guid": "ai-square-2026-10-18",
+    "duration": "00:15:00"
   }
 ]
