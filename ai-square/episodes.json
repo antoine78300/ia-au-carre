@@ -788,5 +788,15 @@
     "size": 10190637,
     "guid": "ai-square-2026-10-18",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 80,
+    "date": "2026-10-19T08:30:00",
+    "title": "AI Squared #80 — 19/10/2026",
+    "description": "On the programme: AI agents autonomously entering contracts, Anthropic's legal hiring strategy, Apple-Meta collaboration.\n\n📰 Sources : <a href=\"https://tech-insider.org/anthropic-freshfields-ai-agents-legal-deals-2026\">Tech Insider</a> | <a href=\"https://www.hubbis.com/news/hkma-launches-art-framework-for-responsible-ai-adoption-in-banking\">Hubbis</a> | <a href=\"https://bioengineer.org/ai-agents-now-hack-systems-autonomously-in-landmark-cybersecurity-study\">BioEngineer</a> | <a href=\"https://shattered.io/deepseek-v4-1-flash-1017-hle-score-42-6-2026\">Shattered.io</a> | <a href=\"https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018\">MIT News</a> | <a href=\"https://www.fticonsulting.com/insights/articles/agentic-readiness-value-creation\">FTI Consulting</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261019.mp3",
+    "size": 4640781,
+    "guid": "ai-square-2026-10-19",
+    "duration": "00:15:00"
   }
 ]

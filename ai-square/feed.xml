@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sun, 18 Oct 2026 06:35:33 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:34:29 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #80 — 19/10/2026</title>
+      <description><![CDATA[On the programme: AI agents autonomously entering contracts, Anthropic's legal hiring strategy, Apple-Meta collaboration.
+
+📰 Sources : <a href="https://tech-insider.org/anthropic-freshfields-ai-agents-legal-deals-2026">Tech Insider</a> | <a href="https://www.hubbis.com/news/hkma-launches-art-framework-for-responsible-ai-adoption-in-banking">Hubbis</a> | <a href="https://bioengineer.org/ai-agents-now-hack-systems-autonomously-in-landmark-cybersecurity-study">BioEngineer</a> | <a href="https://shattered.io/deepseek-v4-1-flash-1017-hle-score-42-6-2026">Shattered.io</a> | <a href="https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018">MIT News</a> | <a href="https://www.fticonsulting.com/insights/articles/agentic-readiness-value-creation">FTI Consulting</a>]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261019.mp3" length="4640781" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-19</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #79 — 18/10/2026</title>
       <description><![CDATA[On the program: AI-generated music flooding streaming platforms, AI's impact on everyday life, weekend AI news roundup.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>31</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #30 — 30/08/2026</title>
-      <description><![CDATA[On the agenda: AI knowledge limitations, Anima Anandkumar's research on AI capabilities.
-
-📰 Sources : <a href="https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html">Firstpost</a> | <a href="https://www.thedailystar.net/news/technology/news/stability-ai-raises-76m-entertainment-groups-back-generative-ai-company-4258126">The Daily Star</a> | <a href="https://www.firstpost.com/world/beyond-chatgpt-how-indian-origin-scientist-anima-anandkumar-wants-ai-to-understand-physics-14041752.html">Firstpost</a>]]></description>
-      <pubDate>Sun, 30 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260830.mp3" length="4997901" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-30</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
