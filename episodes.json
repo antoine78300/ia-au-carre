@@ -1018,5 +1018,15 @@
     "size": 9703725,
     "guid": "ia-au-carre-2026-10-18",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 103,
+    "date": "2026-10-19T08:30:00",
+    "title": "IA au Carré #103 — 19/10/2026",
+    "description": "Au programme : agents IA autonomes et contrats, recrutement massif d'avocats chez Anthropic, collaboration Apple-Meta.\n\n📰 Sources : <a href=\"https://tech-insider.org/anthropic-freshfields-ai-agents-legal-deals-2026\">Tech Insider</a> | <a href=\"https://www.hubbis.com/news/hkma-launches-art-framework-for-responsible-ai-adoption-in-banking\">Hubbis</a> | <a href=\"https://bioengineer.org/ai-agents-now-hack-systems-autonomously-in-landmark-cybersecurity-study\">BioEngineer</a> | <a href=\"https://shattered.io/deepseek-v4-1-flash-1017-hle-score-42-6-2026\">Shattered.io</a> | <a href=\"https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018\">MIT News</a> | <a href=\"https://www.fticonsulting.com/insights/articles/agentic-readiness-value-creation\">FTI Consulting</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261019.mp3",
+    "size": 4099917,
+    "guid": "ia-au-carre-2026-10-19",
+    "duration": "00:15:00"
   }
 ]
