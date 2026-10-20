@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 19 Oct 2026 06:32:28 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:32:30 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #104 — 20/10/2026</title>
+      <description><![CDATA[Au programme : les agents IA hors de contrôle, une étude sur leur dépassement de limites, la surveillance des systèmes autonomes.
+
+📰 Sources : <a href="https://forkast.news/cisco-webex-ships-agentic-ai-framework-and-agents-just-entered-the-meeting-room">Forkast</a> | <a href="https://www.indexbox.io/blog/argonne-and-uiuc-researchers-propose-multi-agent-framework-for-heterogeneous-ai-system-design">IndexBox</a> | <a href="https://forkast.news/bifrost-and-cloudflare-both-replaced-tool-catalogs-with-code-generation-the-agent-tooling-layer-is-standardizing-on-a-pattern-nobody-named">Forkast</a> | <a href="https://blog.gitguardian.com/llm-api-key-leakage">GitGuardian Blog</a> | <a href="https://ffnews.com/news/news-sumsub-announces-module-that-prevents-agents-acting-without-authorisation-383ca9c0">FF News</a> | <a href="https://www.infoq.com/news/2026/10/buildkite-ci-secrets-agentic">InfoQ</a>]]></description>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261020.mp3" length="4404621" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-20</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #103 — 19/10/2026</title>
       <description><![CDATA[Au programme : agents IA autonomes et contrats, recrutement massif d'avocats chez Anthropic, collaboration Apple-Meta.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>55</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #54 — 31/08/2026</title>
-      <description><![CDATA[Au programme : l'acquisition de Hugging Face par NVIDIA, la gouvernance des agents IA, les nouveaux outils d'entraînement des agents.
-
-📰 Sources : <a href="https://startupfortune.com/nvidia-is-closing-in-on-a-12-9-billion-deal-to-buy-hugging-face">Startup Fortune</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a>]]></description>
-      <pubDate>Mon, 31 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260831.mp3" length="4866861" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-08-31</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
