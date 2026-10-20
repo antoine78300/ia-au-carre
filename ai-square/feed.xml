@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 19 Oct 2026 06:34:29 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:34:55 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #81 — 20/10/2026</title>
+      <description><![CDATA[On the program: AI agent control and oversight, autonomous systems gone wrong, AI agents tasked with impossible refunds.
+
+📰 Sources : <a href="https://forkast.news/cisco-webex-ships-agentic-ai-framework-and-agents-just-entered-the-meeting-room">Forkast</a> | <a href="https://www.indexbox.io/blog/argonne-and-uiuc-researchers-propose-multi-agent-framework-for-heterogeneous-ai-system-design">IndexBox</a> | <a href="https://forkast.news/bifrost-and-cloudflare-both-replaced-tool-catalogs-with-code-generation-the-agent-tooling-layer-is-standardizing-on-a-pattern-nobody-named">Forkast</a> | <a href="https://blog.gitguardian.com/llm-api-key-leakage">GitGuardian Blog</a> | <a href="https://ffnews.com/news/news-sumsub-announces-module-that-prevents-agents-acting-without-authorisation-383ca9c0">FF News</a> | <a href="https://www.infoq.com/news/2026/10/buildkite-ci-secrets-agentic">InfoQ</a>]]></description>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261020.mp3" length="4833885" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-20</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #80 — 19/10/2026</title>
       <description><![CDATA[On the programme: AI agents autonomously entering contracts, Anthropic's legal hiring strategy, Apple-Meta collaboration.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>32</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #31 — 31/08/2026</title>
-      <description><![CDATA[On the program: NVIDIA's $12.9B Hugging Face acquisition, AI agent governance challenges, and tools transforming agent training.
-
-📰 Sources : <a href="https://startupfortune.com/nvidia-is-closing-in-on-a-12-9-billion-deal-to-buy-hugging-face">Startup Fortune</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a> | <a href="https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds">MarkTechPost</a>]]></description>
-      <pubDate>Mon, 31 Aug 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260831.mp3" length="5304909" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-08-31</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

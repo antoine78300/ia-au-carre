@@ -798,5 +798,15 @@
     "size": 4640781,
     "guid": "ai-square-2026-10-19",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 81,
+    "date": "2026-10-20T08:30:00",
+    "title": "AI Squared #81 — 20/10/2026",
+    "description": "On the program: AI agent control and oversight, autonomous systems gone wrong, AI agents tasked with impossible refunds.\n\n📰 Sources : <a href=\"https://forkast.news/cisco-webex-ships-agentic-ai-framework-and-agents-just-entered-the-meeting-room\">Forkast</a> | <a href=\"https://www.indexbox.io/blog/argonne-and-uiuc-researchers-propose-multi-agent-framework-for-heterogeneous-ai-system-design\">IndexBox</a> | <a href=\"https://forkast.news/bifrost-and-cloudflare-both-replaced-tool-catalogs-with-code-generation-the-agent-tooling-layer-is-standardizing-on-a-pattern-nobody-named\">Forkast</a> | <a href=\"https://blog.gitguardian.com/llm-api-key-leakage\">GitGuardian Blog</a> | <a href=\"https://ffnews.com/news/news-sumsub-announces-module-that-prevents-agents-acting-without-authorisation-383ca9c0\">FF News</a> | <a href=\"https://www.infoq.com/news/2026/10/buildkite-ci-secrets-agentic\">InfoQ</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261020.mp3",
+    "size": 4833885,
+    "guid": "ai-square-2026-10-20",
+    "duration": "00:15:00"
   }
 ]
