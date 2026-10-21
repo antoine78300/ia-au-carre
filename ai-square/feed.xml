@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Tue, 20 Oct 2026 06:34:55 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:34:38 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #82 — 21/10/2026</title>
+      <description><![CDATA[On the program: AI-powered financial regulation, autonomous AI threats in Asia, and the future of AI agent control.
+
+📰 Sources : <a href="https://www.insurancetimes.co.uk/news/fca-plans-to-be-agentic-regulator-and-shift-to-ai-supervision/1460034.article">Insurance Times</a> | <a href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">TechCrunch</a> | <a href="https://biz.chosun.com/en/en-it/2026/10/20/SF7D3MFUBJEEPGSSYV6GTPFZ6E?outputType=amp">CHOSUNBIZ</a> | <a href="https://www.thurrott.com/a-i/openai-a-i/343049/openai-launches-a-coding-model-for-older-programming-languages">Thurrott.com</a> | <a href="https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai">SiliconAngle</a> | <a href="https://tech-insider.org/wazuh-vs-security-onion-vs-crowdsec-2026">Tech Insider</a>]]></description>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261021.mp3" length="4715661" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-21</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #81 — 20/10/2026</title>
       <description><![CDATA[On the program: AI agent control and oversight, autonomous systems gone wrong, AI agents tasked with impossible refunds.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>33</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #32 — 01/09/2026</title>
-      <description><![CDATA[On the program: Agentic AI security threats, critical vulnerabilities in Elixir framework, AI agent risks in enterprise environments.
-
-📰 Sources : <a href="https://www.storagereview.com/news/broadcom-agentminder-debuts-alongside-vdefend-avi-and-truesource-upgrades-for-agentic-ai-security">Broadcom / Storage Review</a> | <a href="https://forkast.news/ash_ai-6-cve-cluster-exposes-the-full-agent-stack-in-elixirs-first-coordinated-ai-framework-disclosure">Forkast</a> | <a href="https://www.broadcom.com/company/news/releases/broadcom-announces-vmware-ai-factory">Broadcom</a>]]></description>
-      <pubDate>Tue, 01 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260901.mp3" length="4407645" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-01</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

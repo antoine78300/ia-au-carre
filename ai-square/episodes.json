@@ -808,5 +808,15 @@
     "size": 4833885,
     "guid": "ai-square-2026-10-20",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 82,
+    "date": "2026-10-21T08:30:00",
+    "title": "AI Squared #82 — 21/10/2026",
+    "description": "On the program: AI-powered financial regulation, autonomous AI threats in Asia, and the future of AI agent control.\n\n📰 Sources : <a href=\"https://www.insurancetimes.co.uk/news/fca-plans-to-be-agentic-regulator-and-shift-to-ai-supervision/1460034.article\">Insurance Times</a> | <a href=\"https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/\">TechCrunch</a> | <a href=\"https://biz.chosun.com/en/en-it/2026/10/20/SF7D3MFUBJEEPGSSYV6GTPFZ6E?outputType=amp\">CHOSUNBIZ</a> | <a href=\"https://www.thurrott.com/a-i/openai-a-i/343049/openai-launches-a-coding-model-for-older-programming-languages\">Thurrott.com</a> | <a href=\"https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai\">SiliconAngle</a> | <a href=\"https://tech-insider.org/wazuh-vs-security-onion-vs-crowdsec-2026\">Tech Insider</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261021.mp3",
+    "size": 4715661,
+    "guid": "ai-square-2026-10-21",
+    "duration": "00:15:00"
   }
 ]
