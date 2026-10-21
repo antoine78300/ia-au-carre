@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 20 Oct 2026 06:32:30 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:32:24 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #105 — 21/10/2026</title>
+      <description><![CDATA[Au programme : régulateurs utilisant l'IA autonome, agents IA incontrôlés en Asie, contrôle des systèmes d'IA.
+
+📰 Sources : <a href="https://www.insurancetimes.co.uk/news/fca-plans-to-be-agentic-regulator-and-shift-to-ai-supervision/1460034.article">Insurance Times</a> | <a href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">TechCrunch</a> | <a href="https://biz.chosun.com/en/en-it/2026/10/20/SF7D3MFUBJEEPGSSYV6GTPFZ6E?outputType=amp">CHOSUNBIZ</a> | <a href="https://www.thurrott.com/a-i/openai-a-i/343049/openai-launches-a-coding-model-for-older-programming-languages">Thurrott.com</a> | <a href="https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai">SiliconAngle</a> | <a href="https://tech-insider.org/wazuh-vs-security-onion-vs-crowdsec-2026">Tech Insider</a>]]></description>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261021.mp3" length="4329741" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-21</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #104 — 20/10/2026</title>
       <description><![CDATA[Au programme : les agents IA hors de contrôle, une étude sur leur dépassement de limites, la surveillance des systèmes autonomes.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>56</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #55 — 01/09/2026</title>
-      <description><![CDATA[Au programme : vulnérabilités critiques dans le framework Elixir ashai, sécurité des agents IA en production, risques de déploiement des systèmes agentiques.
-
-📰 Sources : <a href="https://www.storagereview.com/news/broadcom-agentminder-debuts-alongside-vdefend-avi-and-truesource-upgrades-for-agentic-ai-security">Broadcom / Storage Review</a> | <a href="https://forkast.news/ash_ai-6-cve-cluster-exposes-the-full-agent-stack-in-elixirs-first-coordinated-ai-framework-disclosure">Forkast</a> | <a href="https://www.broadcom.com/company/news/releases/broadcom-announces-vmware-ai-factory">Broadcom</a>]]></description>
-      <pubDate>Tue, 01 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260901.mp3" length="3901341" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-01</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

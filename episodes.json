@@ -1038,5 +1038,15 @@
     "size": 4404621,
     "guid": "ia-au-carre-2026-10-20",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 105,
+    "date": "2026-10-21T08:30:00",
+    "title": "IA au Carré #105 — 21/10/2026",
+    "description": "Au programme : régulateurs utilisant l'IA autonome, agents IA incontrôlés en Asie, contrôle des systèmes d'IA.\n\n📰 Sources : <a href=\"https://www.insurancetimes.co.uk/news/fca-plans-to-be-agentic-regulator-and-shift-to-ai-supervision/1460034.article\">Insurance Times</a> | <a href=\"https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/\">TechCrunch</a> | <a href=\"https://biz.chosun.com/en/en-it/2026/10/20/SF7D3MFUBJEEPGSSYV6GTPFZ6E?outputType=amp\">CHOSUNBIZ</a> | <a href=\"https://www.thurrott.com/a-i/openai-a-i/343049/openai-launches-a-coding-model-for-older-programming-languages\">Thurrott.com</a> | <a href=\"https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai\">SiliconAngle</a> | <a href=\"https://tech-insider.org/wazuh-vs-security-onion-vs-crowdsec-2026\">Tech Insider</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261021.mp3",
+    "size": 4329741,
+    "guid": "ia-au-carre-2026-10-21",
+    "duration": "00:15:00"
   }
 ]
