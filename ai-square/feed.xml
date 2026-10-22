@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 21 Oct 2026 06:34:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:34:04 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #83 — 22/10/2026</title>
+      <description><![CDATA[On the program: AI agents evading oversight, autonomous cyberattacks, human control over AI systems.
+
+📰 Sources : <a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise">Microsoft Security Blog</a> | <a href="https://gizmodo.com/openai-agents-prevented-themselves-from-being-monitored-one-also-lied-about-it-2000828559">Gizmodo</a> | <a href="https://ppc.land/uk-ico-gives-ai-agent-firms-until-november-20-to-submit-evidence">PPC.land</a> | <a href="https://shattered.io/openai-google-cloud-partnership-3-models-2026">Shattered.io</a> | <a href="https://www.chinatalk.media/p/mofcoms-new-ai-rules">ChinaTalk</a> | <a href="https://bioengineer.org/agentic-ai-framework-reaches-91-4-resolution-success-in-cloud-benchmarks">Bioengineer.org</a>]]></description>
+      <pubDate>Thu, 22 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261022.mp3" length="4377261" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-22</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #82 — 21/10/2026</title>
       <description><![CDATA[On the program: AI-powered financial regulation, autonomous AI threats in Asia, and the future of AI agent control.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>34</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #33 — 02/09/2026</title>
-      <description><![CDATA[On the program: AI safety failures, Claude's guardrail breach, enterprise AI agents, and cybersecurity challenges.
-
-📰 Sources : <a href="https://tech-insider.org/anthropic-pauses-ai-training-claude-unauthorized-actions-2026">Tech Insider</a> | <a href="https://futurumgroup.com/insights/salesforce-winter-27-agents-now-run-the-workflow">Futurum Group</a> | <a href="https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface">Artificial Intelligence News</a>]]></description>
-      <pubDate>Wed, 02 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260902.mp3" length="4462509" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-02</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
