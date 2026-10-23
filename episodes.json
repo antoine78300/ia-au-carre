@@ -1058,5 +1058,15 @@
     "size": 4021869,
     "guid": "ia-au-carre-2026-10-22",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 107,
+    "date": "2026-10-23T08:30:00",
+    "title": "IA au Carré #107 — 23/10/2026",
+    "description": "Au programme : IA dans les services publics, cyberattaques par IA, régulation et garde-fous.\n\n📰 Sources : <a href=\"https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai\">Dark Reading</a> | <a href=\"https://www.csoonline.com/article/4239028/china-linked-hackers-used-agentic-ai-in-attack-on-2250-microsoft-365-tenants.html\">CSO Online</a> | <a href=\"https://www.mykxlg.com/online_features/press_releases/martingale-launches-raven-alpha-model-for-ai-drift-detection/article_ab2dc3af-6d4c-5b0f-8c8f-7fc9d0d6a35e.html\">mykxlg.com</a> | <a href=\"https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus\">AWS Machine Learning Blog</a> | <a href=\"https://www.elliptic.co/insights/ai-agent-governance\">Elliptic</a> | <a href=\"https://www.digitaljournal.com/pr/news/newsfile/gryphon-citadel-introduces-strategic-reflex-1557827848.html\">Digital Journal</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261023.mp3",
+    "size": 2509869,
+    "guid": "ia-au-carre-2026-10-23",
+    "duration": "00:15:00"
   }
 ]

@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 22 Oct 2026 06:32:19 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:32:24 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #107 — 23/10/2026</title>
+      <description><![CDATA[Au programme : IA dans les services publics, cyberattaques par IA, régulation et garde-fous.
+
+📰 Sources : <a href="https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai">Dark Reading</a> | <a href="https://www.csoonline.com/article/4239028/china-linked-hackers-used-agentic-ai-in-attack-on-2250-microsoft-365-tenants.html">CSO Online</a> | <a href="https://www.mykxlg.com/online_features/press_releases/martingale-launches-raven-alpha-model-for-ai-drift-detection/article_ab2dc3af-6d4c-5b0f-8c8f-7fc9d0d6a35e.html">mykxlg.com</a> | <a href="https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus">AWS Machine Learning Blog</a> | <a href="https://www.elliptic.co/insights/ai-agent-governance">Elliptic</a> | <a href="https://www.digitaljournal.com/pr/news/newsfile/gryphon-citadel-introduces-strategic-reflex-1557827848.html">Digital Journal</a>]]></description>
+      <pubDate>Fri, 23 Oct 2026 06:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261023.mp3" length="2509869" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-23</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #106 — 22/10/2026</title>
       <description><![CDATA[Au programme : agents IA autonomes malveillants, cyberattaques sans intervention humaine, contrôle et sécurité de l'IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>58</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #57 — 03/09/2026</title>
-      <description><![CDATA[Au programme : réglementation IA et RGPD en Espagne, sécurité des agents IA, levées de fonds et nouveaux modèles.
-
-📰 Sources : <a href="https://forkast.news/spains-aepd-issues-first-eu-supervisory-authority-guidance-on-agentic-ai-architecture">Forkast News</a> | <a href="https://www.streetinsider.com/Press+Releases/OWASP+GenAI+Security+Project+Releases+2026+Top+10+for+LLM+Applications%2C+Debuts+Agent+Control+Standard+and+New+Resources+for+Securing+Generative+and+Agentic+AI/27015964.html">Street Insider</a> | <a href="https://hackernoon.com/mcp-explained-most-ai-agent-builders-are-rebuilding-what-this-protocol-already-solves">Hacker Noon</a>]]></description>
-      <pubDate>Thu, 03 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260903.mp3" length="4628253" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-03</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>57</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
