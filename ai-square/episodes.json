@@ -838,5 +838,15 @@
     "size": 2580141,
     "guid": "ai-square-2026-10-23",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 85,
+    "date": "2026-10-24T08:30:00",
+    "title": "AI Squared #85 — 24/10/2026",
+    "description": "On the program: OpenAI's Orchestra Bio acquisition, AI agents for drug discovery, robots training in gyms, and AI's impact on human creativity.\n\n📰 Sources : <a href=\"https://mg.co.za/thought-leader/2026-10-22-do-not-let-ai-steal-our-culture\">Mail & Guardian</a> | <a href=\"https://finance.biggo.com/news/2bc25789-2b22-42e4-bdd3-5584082cba0e\">BigGo Finance</a> | <a href=\"https://hi-tech.ua/en/openai-acquires-orchestra-bio-to-accelerate-ai-driven-drug-discovery\">hi-tech.ua</a> | <a href=\"https://www.miragenews.com/making-robots-smarter-1765323\">Mirage News</a> | <a href=\"https://www.openpr.com/news/4670940/best-ai-music-video-generators-in-2026-five-tools-compared\">OpenPR</a> | <a href=\"https://vir.com.vn/yyforce-launches-workforce-os-robotics-platform-using-nvidia-chips-163454.html\">VIR Vietnam</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261024.mp3",
+    "size": 11599917,
+    "guid": "ai-square-2026-10-24",
+    "duration": "00:15:00"
   }
 ]
