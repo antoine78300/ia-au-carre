@@ -1078,5 +1078,15 @@
     "size": 10573485,
     "guid": "ia-au-carre-2026-10-24",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 109,
+    "date": "2026-10-25T08:30:00",
+    "title": "IA au Carré #109 — 25/10/2026",
+    "description": "Au programme : AI Biosecurity Lab au Royaume-Uni, actualités IA de la semaine, décryptage des innovations en intelligence artificielle.\n\n📰 Sources : <a href=\"https://www.thenationalnews.com/future/technology/2026/10/24/ai-will-not-replace-human-musicians-as-it-lacks-originality-sennheiser-boss-says\">The National</a> | <a href=\"https://markets.businessinsider.com/news/stocks/deep-robotics-unveils-five-research-advances-in-embodied-ai-1036662099\">Markets Insider</a> | <a href=\"https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab\">GOV.UK</a> | <a href=\"https://news.sky.com/story/uk-pledges-to-spend-600m-to-defend-against-ai-health-and-security-threats-13602935\">Sky News</a> | <a href=\"https://www.designweek.co.uk/oh-apple-music-has-a-new-logo-we-talk-with-curtis-free-about-why-the-making-matters-more-in-an-ai-world\">Design Week</a> | <a href=\"https://indiantelevision.com/mam/javed-akhtar-says-ai-cannot-replicate-creative-writing-without-a-subconscious-mind\">Indian Television Dot Com</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261025.mp3",
+    "size": 9361965,
+    "guid": "ia-au-carre-2026-10-25",
+    "duration": "00:15:00"
   }
 ]

@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 24 Oct 2026 06:33:40 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:33:00 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #109 — 25/10/2026</title>
+      <description><![CDATA[Au programme : AI Biosecurity Lab au Royaume-Uni, actualités IA de la semaine, décryptage des innovations en intelligence artificielle.
+
+📰 Sources : <a href="https://www.thenationalnews.com/future/technology/2026/10/24/ai-will-not-replace-human-musicians-as-it-lacks-originality-sennheiser-boss-says">The National</a> | <a href="https://markets.businessinsider.com/news/stocks/deep-robotics-unveils-five-research-advances-in-embodied-ai-1036662099">Markets Insider</a> | <a href="https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab">GOV.UK</a> | <a href="https://news.sky.com/story/uk-pledges-to-spend-600m-to-defend-against-ai-health-and-security-threats-13602935">Sky News</a> | <a href="https://www.designweek.co.uk/oh-apple-music-has-a-new-logo-we-talk-with-curtis-free-about-why-the-making-matters-more-in-an-ai-world">Design Week</a> | <a href="https://indiantelevision.com/mam/javed-akhtar-says-ai-cannot-replicate-creative-writing-without-a-subconscious-mind">Indian Television Dot Com</a>]]></description>
+      <pubDate>Sun, 25 Oct 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261025.mp3" length="9361965" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-25</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #108 — 24/10/2026</title>
       <description><![CDATA[Au programme : robots s'entraînant en gymnase, agents IA découvrant des médicaments, acquisition d'Orchestra Bio par OpenAI.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>60</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #59 — 05/09/2026</title>
-      <description><![CDATA[Au programme : lancement de GPT-6 Astra par OpenAI, performances records en sciences et mathématiques.
-
-📰 Sources : <a href="https://www.pastemagazine.com/music/a-i-artificial-intelligence/suno-accused-of-copying-sk8er-boi-and-life-is-a-highway-in-new-suit">Paste Magazine</a> | <a href="https://worldbusinessoutlook.com/zeroth-launches-bridge-worlds-first-ai-native-embodied-robot-with-openbridge">World Business Outlook</a> | <a href="https://www.usatoday.com/story/money/money-management/healthcare/2026/09/04/ai-new-medicines-faster/91565550007">USA Today</a>]]></description>
-      <pubDate>Sat, 05 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260905.mp3" length="4252413" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-05</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
