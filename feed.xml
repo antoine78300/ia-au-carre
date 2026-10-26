@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 25 Oct 2026 07:33:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:32:37 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #110 — 26/10/2026</title>
+      <description><![CDATA[Au programme : sécurité des agents IA piratables, modèle open-source disruptif, agents IA en milieu hospitalier.
+
+📰 Sources : <a href="https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model">MarkTechPost</a> | <a href="https://me.pcmag.com/en/ai/38433/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training">PCMag</a> | <a href="https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas">The Next Web</a> | <a href="https://www.healthcareittoday.com/2026/10/25/bonus-features-october-25-2026">Healthcare IT Today</a> | <a href="https://connect.informs.org/discussion/informs-jring-guest-talk-reinforcement-learning-agentic-ai-supply-chain-operations-october-24-2026-1">INFORMS</a> | <a href="https://shattered.io/openhands-local-setup-agent-canvas-ollama-12-steps-2026">Shattered.io</a>]]></description>
+      <pubDate>Mon, 26 Oct 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261026.mp3" length="3892269" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-26</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #109 — 25/10/2026</title>
       <description><![CDATA[Au programme : AI Biosecurity Lab au Royaume-Uni, actualités IA de la semaine, décryptage des innovations en intelligence artificielle.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>61</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #60 — 06/09/2026</title>
-      <description><![CDATA[Au programme : GPT-6 Astra d'OpenAI, les avancées révolutionnaires de l'IA, décryptage des nouveaux modèles.
-
-📰 Sources : <a href="https://openai.com/index/gpt-6-astra">OpenAI</a> | <a href="https://www.prnewswire.com/news-releases/pudu-robotics-makes-its-ifa-debut-bringing-its-full-robotics-portfolio-to-europe-302870497.html">PRNewswire</a> | <a href="https://www.techtimes.com/articles/326764/20260905/eccv-2026-preview-computer-vision-converges-world-models-embodied-ai.htm">TechTimes</a>]]></description>
-      <pubDate>Sun, 06 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260906.mp3" length="4196541" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-06</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>60</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
