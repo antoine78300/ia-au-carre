@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Sun, 25 Oct 2026 07:35:52 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:34:50 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #87 — 26/10/2026</title>
+      <description><![CDATA[On the program: AI security threats, open-source model innovations, hospital AI agents.
+
+📰 Sources : <a href="https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model">MarkTechPost</a> | <a href="https://me.pcmag.com/en/ai/38433/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training">PCMag</a> | <a href="https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas">The Next Web</a> | <a href="https://www.healthcareittoday.com/2026/10/25/bonus-features-october-25-2026">Healthcare IT Today</a> | <a href="https://connect.informs.org/discussion/informs-jring-guest-talk-reinforcement-learning-agentic-ai-supply-chain-operations-october-24-2026-1">INFORMS</a> | <a href="https://shattered.io/openhands-local-setup-agent-canvas-ollama-12-steps-2026">Shattered.io</a>]]></description>
+      <pubDate>Mon, 26 Oct 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261026.mp3" length="4233117" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-26</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #86 — 25/10/2026</title>
       <description><![CDATA[On the programme: UK's AI Biosecurity Lab, AI in everyday life applications, weekly AI news highlights.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>38</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #37 — 06/09/2026</title>
-      <description><![CDATA[On the program: GPT-6 Astra breakthrough, AI model advancements, latest OpenAI innovations.
-
-📰 Sources : <a href="https://openai.com/index/gpt-6-astra">OpenAI</a> | <a href="https://www.prnewswire.com/news-releases/pudu-robotics-makes-its-ifa-debut-bringing-its-full-robotics-portfolio-to-europe-302870497.html">PRNewswire</a> | <a href="https://www.techtimes.com/articles/326764/20260905/eccv-2026-preview-computer-vision-converges-world-models-embodied-ai.htm">TechTimes</a>]]></description>
-      <pubDate>Sun, 06 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260906.mp3" length="4671309" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-06</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

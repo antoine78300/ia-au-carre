@@ -858,5 +858,15 @@
     "size": 10025517,
     "guid": "ai-square-2026-10-25",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 87,
+    "date": "2026-10-26T08:30:00",
+    "title": "AI Squared #87 — 26/10/2026",
+    "description": "On the program: AI security threats, open-source model innovations, hospital AI agents.\n\n📰 Sources : <a href=\"https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model\">MarkTechPost</a> | <a href=\"https://me.pcmag.com/en/ai/38433/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training\">PCMag</a> | <a href=\"https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas\">The Next Web</a> | <a href=\"https://www.healthcareittoday.com/2026/10/25/bonus-features-october-25-2026\">Healthcare IT Today</a> | <a href=\"https://connect.informs.org/discussion/informs-jring-guest-talk-reinforcement-learning-agentic-ai-supply-chain-operations-october-24-2026-1\">INFORMS</a> | <a href=\"https://shattered.io/openhands-local-setup-agent-canvas-ollama-12-steps-2026\">Shattered.io</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261026.mp3",
+    "size": 4233117,
+    "guid": "ai-square-2026-10-26",
+    "duration": "00:15:00"
   }
 ]
