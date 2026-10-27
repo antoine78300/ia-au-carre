@@ -1098,5 +1098,15 @@
     "size": 3892269,
     "guid": "ia-au-carre-2026-10-26",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 111,
+    "date": "2026-10-27T08:30:00",
+    "title": "IA au Carré #111 — 27/10/2026",
+    "description": "Au programme : agents IA résolvant des problèmes mathématiques avancés, faille de sécurité majeure affectant les développeurs, transformation de l'IA dans le droit et les semi-conducteurs.\n\n📰 Sources : <a href=\"https://www.desmoinesregister.com/press-release/story/144176/aspire-systems-named-finalist-in-two-categories-at-the-isg-software-innovation-awards-emea-2026\">The Des Moines Register</a> | <a href=\"https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026\">InfoQ</a> | <a href=\"https://www.techzine.eu/blogs/analytics/145285/cisco-model-foundry-aims-to-combine-ai-performance-and-trust\">Techzine Global</a> | <a href=\"https://www.law.com/legaltechnews/2026/10/26/clio-announces-revamped-platform-agentic-ai-drafting-additional-ai-capabilities\">Law.com</a> | <a href=\"https://vmblog.com/qa/f5-at-kubecon-cloudnativecon-na-2026-securing-ai-inference-and-agentic-traffic-in-kubernetes\">VMblog</a> | <a href=\"https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents\">MarkTechPost</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261027.mp3",
+    "size": 3688365,
+    "guid": "ia-au-carre-2026-10-27",
+    "duration": "00:15:00"
   }
 ]

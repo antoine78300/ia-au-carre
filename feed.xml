@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 26 Oct 2026 07:32:37 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:32:43 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #111 — 27/10/2026</title>
+      <description><![CDATA[Au programme : agents IA résolvant des problèmes mathématiques avancés, faille de sécurité majeure affectant les développeurs, transformation de l'IA dans le droit et les semi-conducteurs.
+
+📰 Sources : <a href="https://www.desmoinesregister.com/press-release/story/144176/aspire-systems-named-finalist-in-two-categories-at-the-isg-software-innovation-awards-emea-2026">The Des Moines Register</a> | <a href="https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026">InfoQ</a> | <a href="https://www.techzine.eu/blogs/analytics/145285/cisco-model-foundry-aims-to-combine-ai-performance-and-trust">Techzine Global</a> | <a href="https://www.law.com/legaltechnews/2026/10/26/clio-announces-revamped-platform-agentic-ai-drafting-additional-ai-capabilities">Law.com</a> | <a href="https://vmblog.com/qa/f5-at-kubecon-cloudnativecon-na-2026-securing-ai-inference-and-agentic-traffic-in-kubernetes">VMblog</a> | <a href="https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents">MarkTechPost</a>]]></description>
+      <pubDate>Tue, 27 Oct 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261027.mp3" length="3688365" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-27</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #110 — 26/10/2026</title>
       <description><![CDATA[Au programme : sécurité des agents IA piratables, modèle open-source disruptif, agents IA en milieu hospitalier.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>62</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #61 — 07/09/2026</title>
-      <description><![CDATA[Au programme : lancement de GPT-6 Astra, révolution en cybersécurité avec CrowdStrike, recherche agentique à Berkeley.
-
-📰 Sources : <a href="https://cybersecuritynews.com/crowdstrike-launches-safemind">CybersecurityNews</a> | <a href="https://www.theregreview.org/2026/09/06/spotlight-regulating-technology-in-financial-markets">The Regulatory Review</a> | <a href="https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/amp">MarketTechPost</a>]]></description>
-      <pubDate>Mon, 07 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260907.mp3" length="5422269" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-07</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
