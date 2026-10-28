@@ -878,5 +878,15 @@
     "size": 3650925,
     "guid": "ai-square-2026-10-27",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 89,
+    "date": "2026-10-28T08:30:00",
+    "title": "AI Squared #89 — 28/10/2026",
+    "description": "On the agenda: autonomous agents revolutionizing industries, Google DeepMind's Genie 4 world simulation model, real-time interactive world generation.\n\n📰 Sources : <a href=\"https://www.pymnts.com/partnerships/2026/wex-teams-with-euclid-bring-agentic-ai-trucking\">PYMNTS</a> | <a href=\"https://hackernoon.com/how-the-eu-ai-act-regulates-agentic-ai\">HackerNoon</a> | <a href=\"https://www.copilotkit.ai/blog/introducing-openduet\">CopilotKit</a> | <a href=\"https://aiagentstore.ai/ai-agent-news/this-week\">AI Agent Store</a> | <a href=\"https://www.unite.ai/guidewire-launches-platform-approach-to-agentic-insurance\">Unite.AI</a> | <a href=\"https://www.streetinsider.com/Corporate+News/IBM+unveils+new+AI+agent+management+tools+in+watsonx+Orchestrate/27235850.html\">StreetInsider</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261028.mp3",
+    "size": 4025181,
+    "guid": "ai-square-2026-10-28",
+    "duration": "00:15:00"
   }
 ]
