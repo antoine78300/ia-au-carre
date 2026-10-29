@@ -1118,5 +1118,15 @@
     "size": 4012221,
     "guid": "ia-au-carre-2026-10-28",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 113,
+    "date": "2026-10-29T08:30:00",
+    "title": "IA au Carré #113 — 29/10/2026",
+    "description": "Au programme : Gemini 4 Carbon de Google, langage de sécurité Cisco, agents autonomes dans les télécoms et banques.\n\n📰 Sources : <a href=\"https://www.eejournal.com/industry_news/seco-launches-clea-2-0-agentic-framework-enabling-one-click-deployment-of-ai-models-and-applications-at-the-edge\">EE Journal</a> | <a href=\"https://blogs.cisco.com/ai/project-quarry-agent-security-detections\">Cisco Blogs</a> | <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon\">Google Blog</a> | <a href=\"https://www.endorlabs.com/learn/adlc-compliance\">Endor Labs</a> | <a href=\"https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited\">VentureBeat</a> | <a href=\"https://www.sttinfo.fi/tiedote/72452868/du-and-comarch-communications-launch-agentic-ai-for-oss-network-operations\">Business Wire</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261029.mp3",
+    "size": 10054317,
+    "guid": "ia-au-carre-2026-10-29",
+    "duration": "00:15:00"
   }
 ]

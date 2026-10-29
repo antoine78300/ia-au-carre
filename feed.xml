@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 28 Oct 2026 07:32:31 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:33:35 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #113 — 29/10/2026</title>
+      <description><![CDATA[Au programme : Gemini 4 Carbon de Google, langage de sécurité Cisco, agents autonomes dans les télécoms et banques.
+
+📰 Sources : <a href="https://www.eejournal.com/industry_news/seco-launches-clea-2-0-agentic-framework-enabling-one-click-deployment-of-ai-models-and-applications-at-the-edge">EE Journal</a> | <a href="https://blogs.cisco.com/ai/project-quarry-agent-security-detections">Cisco Blogs</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon">Google Blog</a> | <a href="https://www.endorlabs.com/learn/adlc-compliance">Endor Labs</a> | <a href="https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited">VentureBeat</a> | <a href="https://www.sttinfo.fi/tiedote/72452868/du-and-comarch-communications-launch-agentic-ai-for-oss-network-operations">Business Wire</a>]]></description>
+      <pubDate>Thu, 29 Oct 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261029.mp3" length="10054317" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-29</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #112 — 28/10/2026</title>
       <description><![CDATA[Au programme : agents autonomes, Google Genie 4, simulation interactive.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>64</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #63 — 09/09/2026</title>
-      <description><![CDATA[Au programme : résolution du problème de Navier-Stokes par l'IA, investissements massifs dans l'IA française, records de vitesse d'inférence, enjeux de gouvernance.
-
-📰 Sources : <a href="https://dynamicbusiness.com/article/tech-tuesday-the-complete-guide-to-agentic-ai-tools-in-2026">Dynamic Business</a> | <a href="https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round">Silicon Angle</a> | <a href="https://shattered.io/inception-mercury-2-5-diffusion-llm-2026">Shattered</a>]]></description>
-      <pubDate>Wed, 09 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260909.mp3" length="4327869" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-09</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>63</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
