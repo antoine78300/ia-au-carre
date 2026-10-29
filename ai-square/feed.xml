@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 28 Oct 2026 07:34:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:36:15 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #90 — 29/10/2026</title>
+      <description><![CDATA[On the program: Google's Gemini 4 Carbon AI model, Cisco's security language framework, autonomous agents in telecom and banking.
+
+📰 Sources : <a href="https://www.eejournal.com/industry_news/seco-launches-clea-2-0-agentic-framework-enabling-one-click-deployment-of-ai-models-and-applications-at-the-edge">EE Journal</a> | <a href="https://blogs.cisco.com/ai/project-quarry-agent-security-detections">Cisco Blogs</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon">Google Blog</a> | <a href="https://www.endorlabs.com/learn/adlc-compliance">Endor Labs</a> | <a href="https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited">VentureBeat</a> | <a href="https://www.sttinfo.fi/tiedote/72452868/du-and-comarch-communications-launch-agentic-ai-for-oss-network-operations">Business Wire</a>]]></description>
+      <pubDate>Thu, 29 Oct 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261029.mp3" length="10037805" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-10-29</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #89 — 28/10/2026</title>
       <description><![CDATA[On the agenda: autonomous agents revolutionizing industries, Google DeepMind's Genie 4 world simulation model, real-time interactive world generation.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>41</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #40 — 09/09/2026</title>
-      <description><![CDATA[On the program: AI solves century-old math problems, French AI investment boom, record-breaking inference speeds, governance challenges.
-
-📰 Sources : <a href="https://dynamicbusiness.com/article/tech-tuesday-the-complete-guide-to-agentic-ai-tools-in-2026">Dynamic Business</a> | <a href="https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round">Silicon Angle</a> | <a href="https://shattered.io/inception-mercury-2-5-diffusion-llm-2026">Shattered</a>]]></description>
-      <pubDate>Wed, 09 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260909.mp3" length="4705581" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-09</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>40</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
