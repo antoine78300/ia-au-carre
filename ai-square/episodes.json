@@ -898,5 +898,15 @@
     "size": 10037805,
     "guid": "ai-square-2026-10-29",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 91,
+    "date": "2026-10-30T08:30:00",
+    "title": "AI Squared #91 — 30/10/2026",
+    "description": "On the program: OpenAI's updated Model Spec, agentic AI applications, AI regulatory developments.\n\n📰 Sources : <a href=\"https://www.globenewswire.com/news-release/2026/10/29/3391486/0/en/arctic-wolf-named-a-leader-in-2026-qks-spark-matrix-for-ai-soc-automation.html\">GlobeNewswire</a> | <a href=\"https://bioengineer.org/ai-agents-get-personalities-scientists-propose-big-five-traits-as-design-parameters\">BioEngineer / Scienmag</a> | <a href=\"https://www.biometricupdate.com/202610/china-looks-to-bring-ai-agents-into-the-digital-identity-rulebook\">Biometric Update</a> | <a href=\"https://www.kitsapsun.com/press-release/story/818113/pointguard-ai-launches-ai-gateway-to-secure-enterprise-ai-at-scale\">Kitsap Sun</a> | <a href=\"https://www.law.com/legaltechnews/2026/10/29/everlaw-unveils-new-agentic-ai-feature-review-management-offering-/\">Law.com</a> | <a href=\"https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/\">TechCrunch</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261030.mp3",
+    "size": 4292877,
+    "guid": "ai-square-2026-10-30",
+    "duration": "00:15:00"
   }
 ]
