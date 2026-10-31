@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 30 Oct 2026 07:32:18 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:32:45 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #115 — 31/10/2026</title>
+      <description><![CDATA[Au programme : l'IA dans la musique et les enjeux au Royaume-Uni, actualités IA de la semaine.
+
+📰 Sources : <a href="https://www.nme.com/news/music/ai-music-industry-future-native-models-beyond-the-music-manchester-principles-3974661">NME</a> | <a href="https://957benfm.com/2026/10/30/gene-simmons-tells-musicians-to-learn-ai-or-be-used-by-it">95.7 BEN FM</a> | <a href="https://www.taiwanplus.com/news/at-the-expo/computex-2026/261030011/">TaiwanPlus</a> | <a href="https://www.news-medical.net/news/20261030/Insilico-Medicine-leader-shares-AI-driven-drug-discovery-insights-in-Shanghai-and-Dubai.aspx">News Medical</a> | <a href="https://www.theborneopost.com/2026/10/31/chinas-booming-embodied-ai-industry-creates-new-professions">The Borneo Post</a> | <a href="https://singularityhub.com/2026/10/30/ai-may-quickly-generate-ideas-but-teams-of-people-are-still-more-creative">Singularity Hub</a>]]></description>
+      <pubDate>Sat, 31 Oct 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261031.mp3" length="9017133" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-10-31</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>115</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #114 — 30/10/2026</title>
       <description><![CDATA[Au programme : mise à jour du Model Spec d'OpenAI, essor de l'IA agentique dans les secteurs clés, nouvelles régulations chinoises sur l'IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>66</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #65 — 11/09/2026</title>
-      <description><![CDATA[Au programme : risques existentiels de l'IA, framework agentique français, préoccupations de sécurité dans l'industrie financière.
-
-📰 Sources : <a href="https://www.huffingtonpost.fr/tech-futurs/article/l-ia-pourrait-tous-nous-tuer-l-alerte-de-ce-chercheur-qui-a-quitte-anthropic-a-fait-le-tour-du-monde_321268.html">HuffPost Tech & Futurs</a> | <a href="https://www.globenewswire.com/de/news-release/2026/09/10/3359377/0/en/sidetrade-launches-safe-the-sidetrade-agentic-framework-for-enterprise.html">GlobeNewswire</a> | <a href="https://www.finextra.com/newsarticle/48377/ant-international-visa-and-mastercard-to-develop-know-your-agent-framework">Finextra</a>]]></description>
-      <pubDate>Fri, 11 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260911.mp3" length="4430829" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-11</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>65</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

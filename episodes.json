@@ -1138,5 +1138,15 @@
     "size": 4112733,
     "guid": "ia-au-carre-2026-10-30",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 115,
+    "date": "2026-10-31T08:30:00",
+    "title": "IA au Carré #115 — 31/10/2026",
+    "description": "Au programme : l'IA dans la musique et les enjeux au Royaume-Uni, actualités IA de la semaine.\n\n📰 Sources : <a href=\"https://www.nme.com/news/music/ai-music-industry-future-native-models-beyond-the-music-manchester-principles-3974661\">NME</a> | <a href=\"https://957benfm.com/2026/10/30/gene-simmons-tells-musicians-to-learn-ai-or-be-used-by-it\">95.7 BEN FM</a> | <a href=\"https://www.taiwanplus.com/news/at-the-expo/computex-2026/261030011/\">TaiwanPlus</a> | <a href=\"https://www.news-medical.net/news/20261030/Insilico-Medicine-leader-shares-AI-driven-drug-discovery-insights-in-Shanghai-and-Dubai.aspx\">News Medical</a> | <a href=\"https://www.theborneopost.com/2026/10/31/chinas-booming-embodied-ai-industry-creates-new-professions\">The Borneo Post</a> | <a href=\"https://singularityhub.com/2026/10/30/ai-may-quickly-generate-ideas-but-teams-of-people-are-still-more-creative\">Singularity Hub</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261031.mp3",
+    "size": 9017133,
+    "guid": "ia-au-carre-2026-10-31",
+    "duration": "00:15:00"
   }
 ]
