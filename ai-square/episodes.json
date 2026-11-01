@@ -918,5 +918,15 @@
     "size": 10100397,
     "guid": "ai-square-2026-10-31",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 93,
+    "date": "2026-11-01T08:30:00",
+    "title": "AI Squared #93 — 01/11/2026",
+    "description": "On the program: TUM RoboGym facility in Munich, AI developments and breakthroughs, latest artificial intelligence news.\n\n📰 Sources : <a href=\"https://routenote.com/radar/spotifys-ai-remix-tool-could-launch-in-early-2027-heres-what-we-know\">RouteNote</a> | <a href=\"https://futurism.com/robots-and-machines/ai-robots-hitting-gym\">Futurism (d'après NYT)</a> | <a href=\"https://autonews.gasgoo.com/articles/news/yanfeng-international-partners-with-national-local-center-to-co-build-embodied-ai-proving-ground-2116419744797974528\">Gasgoo</a> | <a href=\"https://www.jpost.com/science/ai-news/article-913207\">The Jerusalem Post</a> | <a href=\"https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/bytedance-accelerates-robotics-commercialisation-with-new-recruitment-drive\">The Star</a> | <a href=\"https://www.jpost.com/health-and-wellness/article-913210\">The Jerusalem Post</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261101.mp3",
+    "size": 11430573,
+    "guid": "ai-square-2026-11-01",
+    "duration": "00:15:00"
   }
 ]
