@@ -928,5 +928,15 @@
     "size": 11430573,
     "guid": "ai-square-2026-11-01",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 94,
+    "date": "2026-11-02T08:30:00",
+    "title": "AI Squared #94 — 02/11/2026",
+    "description": "On the program: autonomous AI agent hacking, tech giants' surprising agreement, control and governance of AI agents.\n\n📰 Sources : <a href=\"https://shattered.io/chainalysis-breach-agentic-attack-four-fields-exposed-2026\">Shattered.io</a> | <a href=\"https://thefintechtimes.com/world-launches-id-verification-suite-for-banking-and-finance/\">The Fintech Times</a> | <a href=\"https://en.yenisafak.com/technology/alibaba-integrates-qwen-ai-into-apple-intelligence-for-china-3725036\">Yeni Şafak</a> | <a href=\"https://shattered.io/india-sovereign-ai-bharat-applications-bharatgen-ramakrishnan-20-models-2026\">Shattered.io</a> | <a href=\"https://tech-insider.org/ai-training-opt-out-standard-openai-google-microsoft-anthropic-robots-txt-2026\">Tech Insider</a> | <a href=\"https://finance.biggo.com/podcast/d4f5de4257c84427\">BigGo Finance</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261102.mp3",
+    "size": 4819629,
+    "guid": "ai-square-2026-11-02",
+    "duration": "00:15:00"
   }
 ]
