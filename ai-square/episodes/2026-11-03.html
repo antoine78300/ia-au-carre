@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Squared #95 — 03/11/2026 — AI Squared</title>
+<meta name="description" content="On the program: Mistral Large 4 open-source model launch, agentic AI applications, distributed agentic orchestration.">
+<link rel="canonical" href="https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-11-03.html">
+<link rel="icon" href="../../channel_icon_3000x3000.jpg">
+<meta property="og:title" content="AI Squared #95 — 03/11/2026">
+<meta property="og:description" content="On the program: Mistral Large 4 open-source model launch, agentic AI applications, distributed agentic orchestration.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-11-03.html">
+<meta property="og:locale" content="en_US">
+<style>
+:root{
+  --bg:#070B14; --card:#101a2c; --card-border:#1e2c47;
+  --teal:#5EEAD4; --blue:#7DD3FC; --violet:#C4B5FD;
+  --text:#E5E9F5; --muted:#94A3B8;
+  --grad:linear-gradient(100deg,var(--teal),var(--blue) 55%,var(--violet));
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:
+    radial-gradient(1100px 500px at 12% -10%, rgba(94,234,212,.12), transparent 60%),
+    radial-gradient(1100px 600px at 90% 0%, rgba(196,181,253,.10), transparent 55%),
+    var(--bg);
+  color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.6;
+}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px 70px;}
+a{color:var(--blue);}
+header.ep-header{padding:28px 24px;}
+header.ep-header a.back-link{color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;}
+header.ep-header a.back-link:hover{color:var(--text);}
+.ep-eyebrow{color:var(--teal);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin:0 0 10px;}
+h1{font-size:30px;font-weight:800;letter-spacing:-0.3px;margin:0 0 16px;line-height:1.25;}
+.ep-desc{color:var(--muted);font-size:16px;margin:0 0 22px;}
+.ep-desc a{color:var(--teal);text-decoration:none;}
+audio{width:100%;height:40px;margin-bottom:20px;}
+.subscribe-row{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 40px;}
+.btn{
+  display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:12px;
+  font-size:14px;font-weight:600;text-decoration:none;border:1px solid var(--card-border);
+  color:var(--text);background:rgba(255,255,255,.03);
+}
+.btn.primary{background:var(--grad);color:#07101d;border:none;}
+h2.transcript-heading{font-size:20px;font-weight:700;margin:0 0 18px;padding-top:28px;border-top:1px solid var(--card-border);}
+.transcript{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 30px;}
+.transcript p{margin:0 0 18px;font-size:15.5px;}
+.transcript p:last-child{margin-bottom:0;}
+.transcript .spk{font-weight:700;margin-right:6px;}
+footer{padding:40px 24px 70px;text-align:center;color:var(--muted);font-size:13px;max-width:760px;margin:0 auto;}
+footer a{color:var(--muted);}
+@media (max-width:600px){
+  h1{font-size:24px;}
+  .transcript{padding:22px 18px;}
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "url": "https://antoine78300.github.io/ia-au-carre/ai-square/episodes/2026-11-03.html",
+  "name": "AI Squared #95 — 03/11/2026",
+  "datePublished": "2026-11-03",
+  "description": "On the program: Mistral Large 4 open-source model launch, agentic AI applications, distributed agentic orchestration.",
+  "episodeNumber": 95,
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261103.mp3"
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "AI Squared",
+    "url": "https://antoine78300.github.io/ia-au-carre/ai-square/"
+  },
+  "timeRequired": "PT15M"
+}
+</script>
+</head>
+<body>
+
+<header class="ep-header">
+  <a class="back-link" href="../">← AI Squared</a>
+</header>
+
+<div class="wrap">
+  <article>
+    <p class="ep-eyebrow">Episode 95 · November 3, 2026</p>
+    <h1>AI Squared #95 — 03/11/2026</h1>
+    <p class="ep-desc">On the program: Mistral Large 4 open-source model launch, agentic AI applications, distributed agentic orchestration.</p>
+    <audio controls preload="none" src="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261103.mp3"></audio>
+    <div class="subscribe-row">
+      <a class="btn" href="../feed.xml">RSS feed</a>
+    </div>
+
+    <h2 class="transcript-heading">Full transcript</h2>
+    <div class="transcript">
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Welcome to AI Squared, the podcast that breaks down artificial intelligence every single day and what it means for our world. It&#x27;s Tuesday, November 3rd, 2026, and agentic AI is absolutely everywhere right now. It&#x27;s browsing the web for you, paying your business invoices, caring for patients with something close to clinical intuition, and Mistral just dropped a massive open source model. Buckle up, let&#x27;s get into it.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Ryan, let&#x27;s kick things off with what is clearly the biggest story of the day. Mistral AI just released the open-source weights for Mistral Large 4, which has been affectionately nicknamed &quot;The Chonk.&quot; So what exactly is this model, and why is everyone losing their minds over it?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> This launch is genuinely significant, Maya. Mistral Large 4 is now the first major open-weight alternative to the top proprietary frontier models when it comes to what&#x27;s called distributed agentic orchestration. In plain terms, this is a model you can download, customize, and deploy yourself, and it goes toe to toe with the best closed commercial models out there.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So how does it actually perform?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Two things really stand out. First, there are substantial improvements in coding and defensive cybersecurity. The model is reporting a 96.6 percent refusal rate on malicious requests, which Mistral actually announced back on October 30th. And second, the pricing is incredibly aggressive: 70 cents per million input tokens, and two dollars and ten cents per million output tokens. That is well below what comparable proprietary models are charging.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And the open-weight piece, does that actually change the game in a meaningful way?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> It really does, and this is where it gets strategically interesting. Up until now, if you wanted a model at this level to build autonomous AI agents in production, you were locked into closed APIs, with all the costs and constraints that come with that. Mistral Large 4 breaks that dependency. A company can now self-host a state-of-the-art model, fine-tune it on their own data, and build agentic systems without shipping their sensitive information off to a third party. That is a structural shift in the ecosystem.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And the timing could not be better, because honestly the agentic theme is running through every single story we are covering today.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Exactly, and that is what makes today&#x27;s episode especially packed.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Alright, let&#x27;s move on to frameworks and tools. Ryan, two things caught my eye this morning. The first is a real paradigm shift in how we think about designing AI agents. Are we actually moving past prompt engineering?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> This is a fundamental evolution, Maya. What AI architects are documenting right now is a real shift: people are no longer spending their time crafting increasingly elaborate prompts to steer a language model&#x27;s behavior. Instead, they&#x27;re treating the entire infrastructure around the model as what&#x27;s being called a context engine.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Break that down for us. What does that actually look like in practice?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> The context engine handles four things before the model even starts reasoning: selecting the relevant information, filtering it, compressing it to keep the size manageable, and protecting any sensitive data. The core idea is to work upstream rather than downstream. In the past, when an agent produced a hallucination or made a mistake, you tried to patch it after the fact. Now you prevent the problem in the first place by precisely controlling what the model sees before it runs inference.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And are the benefits actually measurable?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> On two fronts. You reduce token costs because you&#x27;re no longer stuffing the context window with noise. And more importantly for production agents, you improve reliability. When an agent is making decisions in real-world environments, you simply cannot afford for it to hallucinate.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> The other big story in frameworks is Uber, and honestly I was surprised to see a ride-sharing company at the center of an AI infrastructure breakthrough.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> It really tells you how mature the industry has gotten. Uber deployed what they&#x27;re calling Omni MCP, a proprietary gateway built on the Model Context Protocol. And the numbers are striking: 800 internal servers and roughly 5,000 tools accessible to agents.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> How do you even manage complexity at that scale?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> They built a component they call AutoCrawler, which automatically scans Uber&#x27;s internal registries to dynamically discover all of those tools. There&#x27;s also a Response Projection mechanism to cut down token usage in exchanges. And Uber developers can use a command-line tool called aifx so that coding agents can discover and invoke these tools directly.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So this is essentially a large-scale proof that multi-tool orchestration works in production?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> That&#x27;s exactly right. This is not a lab prototype. We&#x27;re talking 800 servers, 5,000 tools, running in production at one of the largest tech platforms in the world. That is a strong signal for the entire industry.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Now let&#x27;s turn to research. There&#x27;s a study from MIT Technology Review that has officially confirmed something a lot of us have been sensing for a while.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> The agentic web has arrived. That&#x27;s essentially the headline and the finding. What MIT is documenting as of November 2nd is that multimodal LLM agents can now navigate the existing web with zero prior modification to the websites themselves. No semantic markup, no dedicated API, nothing.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> How does that work technically?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> They take screenshots, visually analyze the interface, and click on graphical elements exactly the way a human would. Siva Reddy from McGill University backs this up: web navigation agents integrate naturally with the existing human web infrastructure.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So that means any website, even one that&#x27;s twenty years old, could potentially be used by an agent?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Exactly. And that is a massive shift in perspective. The assumption used to be that for an agent to interact with an online service, that service needed to expose an API, it needed to be built for machines to read. Now that logic flips: the web as it currently exists becomes a universal interface for agents. Every button, every form, every dropdown menu becomes a potential tool.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> There&#x27;s also some bigger institutional research news today, a pretty significant academic recognition.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Yes, two MIT researchers are receiving the 2026 Pritzker Prize for Excellence in AI Research and Science. Regina Barzilay from MIT CSAIL and Jim Collins from the MIT Synthetic Biology Center are being honored for their work in AI-assisted antibiotic discovery.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Is this a field where AI has had a concrete, measurable impact?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Absolutely. And the Pritzker Prize recognition carries real symbolic weight: it formally validates that using autonomous AI agents in drug discovery is a major scientific contribution, not just a supporting tool. AI is being recognized as a co-driver of scientific discovery.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Let&#x27;s talk industry impact. Two sectors are really buzzing today: healthcare and finance. Starting with healthcare, because there was an announcement that genuinely stopped me in my tracks.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Hippocratic AI just unveiled Polaris 6 Ultra, which they&#x27;re describing as the first healthcare model with what they call bedside intuition. It&#x27;s a foundational model purpose-built for clinical care.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Is bedside intuition marketing language or is there something technical behind it?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> It&#x27;s a concrete technical capability. Polaris 6 Ultra includes six major improvements. The most striking one is real-time detection of the patient&#x27;s emotional state. The model adapts how it communicates based on what it perceives about how the person is feeling. Another notable feature: it can reason mid-speech, in the middle of a sentence, without any audible pause. That awkward silence while a voice agent is thinking, which was a real problem with earlier systems, is gone.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> What about the economics?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> The announced price point is lower than previous versions, which is a sign of maturity. When prices drop in an AI category, it usually means inference costs are falling and the technology is scaling into something more industrial. In healthcare, that has direct implications for accessibility.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> But industrializing clinical AI also raises some serious liability questions, right?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> And that is exactly what another major development today addresses. The American Medical Association released a formalized governance framework for agentic AI in healthcare back in mid-October. That framework establishes what they call tripartite liability: AI vendors, healthcare systems, and physicians all share civil responsibility for decisions made by clinical agents.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> How does that compare to how things worked before?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> It&#x27;s a significant departure. Previous frameworks put the responsibility squarely on physicians alone. Now, if a clinical AI agent makes an error, the company that built the model, the hospital that deployed it, and the physician who used it can all be held accountable based on their respective roles. That is a major legal and ethical evolution, and it tracks directly with how real these deployments are getting in clinical settings.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And on the finance side, there was an announcement that really felt like crossing a symbolic line.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Sunrate, in partnership with Mastercard, just launched what they&#x27;re calling the Sunrate Agentic Card. It&#x27;s the first multi-currency commercial virtual card specifically designed to be used by AI agents.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> An AI agent that can pay with a corporate credit card. That is kind of mind-bending.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> And it&#x27;s live as of today. The way it works is the card operates within predefined authorization parameters. A company sets the rules: this agent can spend up to a certain amount, in these categories, with these vendors. The agent executes the payments within that framework, no human in the loop.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> So we&#x27;re genuinely delegating real financial authority to autonomous systems.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> We are, and this is what agentic AI actually looks like in the real world. It&#x27;s no longer an agent that suggests you buy something. It&#x27;s an agent that buys it for you, with your money, within limits you&#x27;ve defined. This partnership builds on work that Sunrate and Mastercard have been doing together since July 2026 on the evolution of AI in business payments.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And there&#x27;s regulatory movement on this front too, coming out of Hong Kong?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> At Hong Kong FinTech Week on November 2nd, financial industry players formally called for a regulatory framework covering agentic AI and tokenization. Hong Kong is explicitly positioning itself as a global innovation testbed, but with guardrails. It&#x27;s a signal of government-level recognition, at the Asian regional level, that agentic AI is now a financial reality that requires formal oversight.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Alright, that brings us to the end of today&#x27;s episode of AI Squared. Ryan, if you had to sum up the through-line of today in one sentence, what would it be?</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> Agentic AI has stopped being a concept and become infrastructure. It&#x27;s browsing the web, paying invoices, caring for patients, and orchestrating thousands of tools in production. And the conversations around governance, liability, and open source are keeping pace with the deployments.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> And Mistral Large 4 dropping as open source today might be the perfect symbol of that democratization.</p>
+      <p><span class="spk" style="color:#C4B5FD">Ryan:</span> A cutting-edge model, free and accessible, that lets anyone build these agents without being dependent on closed platforms. That&#x27;s an important counterweight in an ecosystem that can sometimes get very concentrated very fast.</p>
+      <p><span class="spk" style="color:#5EEAD4">Maya:</span> Ryan, thank you so much. And thank you all for listening today. AI Squared drops every day, and we will see you tomorrow for another episode just as dense and just as fascinating. Take care of yourselves.</p>
+    </div>
+  </article>
+</div>
+
+<footer>
+  AI Squared — produced by Hermes Agent · <a href="../">← AI Squared</a>
+</footer>
+
+</body>
+</html>
