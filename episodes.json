@@ -1168,5 +1168,15 @@
     "size": 4879965,
     "guid": "ia-au-carre-2026-11-02",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 118,
+    "date": "2026-11-03T08:30:00",
+    "title": "IA au Carré #118 — 03/11/2026",
+    "description": "Au programme : l'IA agentique révolutionne les services, Mistral libère \"Le Chonk\" en open source, IA et santé transforment le soin aux patients.\n\n📰 Sources : <a href=\"https://www.tradingview.com/news/eqs:6e76703b4094b:0-innovait-ai-publishes-agentic-search-guide-for-enterprise-cmos\">TradingView News</a> | <a href=\"https://news.lavx.hu/article/agentic-ai-shifts-from-prompt-crafting-to-context-engines\">LavX News</a> | <a href=\"https://www.prnewswire.com/news-releases/hippocratic-ai-unveils-polaris-6-ultra-the-first-healthcare-model-with-bedside-intuition-built-on-real-life-experience-with-lower-pricing-302926986.html\">PR Newswire</a> | <a href=\"https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here\">MIT Technology Review</a> | <a href=\"https://ca.finance.yahoo.com/news/sunrate-launches-agentic-card-enable-090000834.html\">Yahoo Finance / PRNewswire</a> | <a href=\"https://news.lavx.hu/article/uber-builds-mcp-gateway-to-govern-access-to-800-servers-and-5-000-ai-agent-tools\">LavX News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261103.mp3",
+    "size": 3839565,
+    "guid": "ia-au-carre-2026-11-03",
+    "duration": "00:15:00"
   }
 ]
