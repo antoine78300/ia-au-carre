@@ -1178,5 +1178,15 @@
     "size": 3839565,
     "guid": "ia-au-carre-2026-11-03",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 119,
+    "date": "2026-11-04T08:30:00",
+    "title": "IA au Carré #119 — 04/11/2026",
+    "description": "Au programme : agent IA autonome pour la gestion d'incidents serveur, avancées de Google en benchmarks IA, étude comparative des modèles d'IA.\n\n📰 Sources : <a href=\"https://futurumgroup.com/insights/pagerdutys-paige-bets-agentic-ai-can-end-the-3-am-page\">Futurum Group</a> | <a href=\"https://siliconangle.com/2026/11/03/snowflake-expands-agentic-ai-platform-with-business-context-and-governance-tools\">SiliconANGLE</a> | <a href=\"https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132\">The Register</a> | <a href=\"https://shattered.io/schwarz-digits-bull-stackit-bullsequana-ai-mou-no-terms-disclosed-2026\">Shattered.io</a> | <a href=\"https://hitconsultant.net/2026/11/03/mayo-clinic-platform-launches-ai-clinical-decision-support-ehr-solution/\">HIT Consultant</a> | <a href=\"https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack\">Dark Reading</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261104.mp3",
+    "size": 4056285,
+    "guid": "ia-au-carre-2026-11-04",
+    "duration": "00:15:00"
   }
 ]

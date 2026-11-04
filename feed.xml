@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Tue, 03 Nov 2026 07:32:24 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:32:13 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #119 — 04/11/2026</title>
+      <description><![CDATA[Au programme : agent IA autonome pour la gestion d'incidents serveur, avancées de Google en benchmarks IA, étude comparative des modèles d'IA.
+
+📰 Sources : <a href="https://futurumgroup.com/insights/pagerdutys-paige-bets-agentic-ai-can-end-the-3-am-page">Futurum Group</a> | <a href="https://siliconangle.com/2026/11/03/snowflake-expands-agentic-ai-platform-with-business-context-and-governance-tools">SiliconANGLE</a> | <a href="https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132">The Register</a> | <a href="https://shattered.io/schwarz-digits-bull-stackit-bullsequana-ai-mou-no-terms-disclosed-2026">Shattered.io</a> | <a href="https://hitconsultant.net/2026/11/03/mayo-clinic-platform-launches-ai-clinical-decision-support-ehr-solution/">HIT Consultant</a> | <a href="https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack">Dark Reading</a>]]></description>
+      <pubDate>Wed, 04 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261104.mp3" length="4056285" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-04</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #118 — 03/11/2026</title>
       <description><![CDATA[Au programme : l'IA agentique révolutionne les services, Mistral libère "Le Chonk" en open source, IA et santé transforment le soin aux patients.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>70</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #69 — 15/09/2026</title>
-      <description><![CDATA[Au programme : levée de fonds record de Mistral AI, plus gros financement tech européen, enjeux de sécurité de l'IA.
-
-📰 Sources : <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier">Mistral AI</a> | <a href="https://finance.biggo.com/podcast/1c1f305f83324d12">Finance BigGo</a> | <a href="https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html">The New York Times</a>]]></description>
-      <pubDate>Tue, 15 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260915.mp3" length="4821213" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-15</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>69</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
