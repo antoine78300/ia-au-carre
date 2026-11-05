@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 04 Nov 2026 07:32:13 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:32:19 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #120 — 05/11/2026</title>
+      <description><![CDATA[Au programme : découverte de 948 failles Linux par une IA OpenAI, compromission de 43 outils, cadre réglementaire pour les agents IA bancaires.
+
+📰 Sources : <a href="https://www.pymnts.com/news/banking/2026/occ-releases-supervisory-framework-for-bank-ai-use">PYMNTS</a> | <a href="https://en.cryptonomist.ch/2026/11/04/circle-blockchain-launch-arc">Cryptonomist</a> | <a href="https://itbrief.co.uk/story/llm-d-1-0-aims-to-cut-ai-inference-costs-for-firms">IT Brief UK</a> | <a href="https://tech-insider.org/tencent-hy4-open-source-770b-parameters-1m-token-context-2026">Tech Insider</a> | <a href="https://startupfortune.com/researchers-find-43-ai-agent-tools-riddled-with-supply-chain-backdoors">Startup Fortune</a> | <a href="https://www.elpasotimes.com/press-release/story/222921/stmicroelectronics-sharpens-agentic-ai-coding-with-new-stm32-tools">The El Paso Times</a>]]></description>
+      <pubDate>Thu, 05 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261105.mp3" length="4057581" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-05</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #119 — 04/11/2026</title>
       <description><![CDATA[Au programme : agent IA autonome pour la gestion d'incidents serveur, avancées de Google en benchmarks IA, étude comparative des modèles d'IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>71</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #70 — 16/09/2026</title>
-      <description><![CDATA[Au programme : déploiement rapide des agents IA, manque de garde-fous, démission d'un chercheur d'Anthropic et OpenAI.
-
-📰 Sources : <a href="https://www.hpcwire.com/aiwire/2026/09/15/ey-survey-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap">HPC Wire</a> | <a href="https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl/2425615">Manila Times</a> | <a href="https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax">Google Developers Blog</a>]]></description>
-      <pubDate>Wed, 16 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260916.mp3" length="4851741" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-16</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>70</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

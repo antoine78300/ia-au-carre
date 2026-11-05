@@ -1188,5 +1188,15 @@
     "size": 4056285,
     "guid": "ia-au-carre-2026-11-04",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 120,
+    "date": "2026-11-05T08:30:00",
+    "title": "IA au Carré #120 — 05/11/2026",
+    "description": "Au programme : découverte de 948 failles Linux par une IA OpenAI, compromission de 43 outils, cadre réglementaire pour les agents IA bancaires.\n\n📰 Sources : <a href=\"https://www.pymnts.com/news/banking/2026/occ-releases-supervisory-framework-for-bank-ai-use\">PYMNTS</a> | <a href=\"https://en.cryptonomist.ch/2026/11/04/circle-blockchain-launch-arc\">Cryptonomist</a> | <a href=\"https://itbrief.co.uk/story/llm-d-1-0-aims-to-cut-ai-inference-costs-for-firms\">IT Brief UK</a> | <a href=\"https://tech-insider.org/tencent-hy4-open-source-770b-parameters-1m-token-context-2026\">Tech Insider</a> | <a href=\"https://startupfortune.com/researchers-find-43-ai-agent-tools-riddled-with-supply-chain-backdoors\">Startup Fortune</a> | <a href=\"https://www.elpasotimes.com/press-release/story/222921/stmicroelectronics-sharpens-agentic-ai-coding-with-new-stm32-tools\">The El Paso Times</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261105.mp3",
+    "size": 4057581,
+    "guid": "ia-au-carre-2026-11-05",
+    "duration": "00:15:00"
   }
 ]
