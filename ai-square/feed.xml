@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Maya (host) and Ryan (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 04 Nov 2026 07:34:05 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:34:09 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #97 — 05/11/2026</title>
+      <description><![CDATA[On programme : AI model discovers Linux vulnerabilities, compromised security tools, US banks get autonomous agent regulations.
+
+📰 Sources : <a href="https://www.pymnts.com/news/banking/2026/occ-releases-supervisory-framework-for-bank-ai-use">PYMNTS</a> | <a href="https://en.cryptonomist.ch/2026/11/04/circle-blockchain-launch-arc">Cryptonomist</a> | <a href="https://itbrief.co.uk/story/llm-d-1-0-aims-to-cut-ai-inference-costs-for-firms">IT Brief UK</a> | <a href="https://tech-insider.org/tencent-hy4-open-source-770b-parameters-1m-token-context-2026">Tech Insider</a> | <a href="https://startupfortune.com/researchers-find-43-ai-agent-tools-riddled-with-supply-chain-backdoors">Startup Fortune</a> | <a href="https://www.elpasotimes.com/press-release/story/222921/stmicroelectronics-sharpens-agentic-ai-coding-with-new-stm32-tools">The El Paso Times</a>]]></description>
+      <pubDate>Thu, 05 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261105.mp3" length="4312173" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-05</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #96 — 04/11/2026</title>
       <description><![CDATA[On program: AI agent for server incident management, Google's AI benchmarks, model selection research.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>48</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #47 — 16/09/2026</title>
-      <description><![CDATA[On the program: AI agent deployment concerns, safety guardrails lag, researcher exodus from major AI labs.
-
-📰 Sources : <a href="https://www.hpcwire.com/aiwire/2026/09/15/ey-survey-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap">HPC Wire</a> | <a href="https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl/2425615">Manila Times</a> | <a href="https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax">Google Developers Blog</a>]]></description>
-      <pubDate>Wed, 16 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260916.mp3" length="5179053" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-16</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
