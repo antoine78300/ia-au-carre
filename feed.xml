@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Sophie (journaliste) et Marc (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 05 Nov 2026 07:32:19 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:32:19 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #121 — 06/11/2026</title>
+      <description><![CDATA[Au programme : régulation IA dans les banques, agents IA en cybersécurité et tribunaux réglementaires, impact du Black Friday automatisé.
+
+📰 Sources : <a href="https://www.forvismazars.us/forsights/2026/11/occ-ai-framework-consequences-not-sophistication-drive-scrutiny">Forvis Mazars US</a> | <a href="https://pasqualepillitteri.it/en/news/30248/ripple-65b-preview-ricursive-dense-open-weight-llm">Pasquale Pillitteri</a> | <a href="https://www.techbuzz.ai/articles/google-vids-gets-15-second-ai-video-gen-free-with-omni-flash">The Tech Buzz</a> | <a href="https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models">9to5Mac</a> | <a href="https://itbrief.co.uk/story/red-hat-nvidia-expand-ai-factory-with-agent-controls">IT Brief UK</a> | <a href="https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf">Google Cloud Blog</a>]]></description>
+      <pubDate>Fri, 06 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261106.mp3" length="3993789" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-06</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>121</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #120 — 05/11/2026</title>
       <description><![CDATA[Au programme : découverte de 948 failles Linux par une IA OpenAI, compromission de 43 outils, cadre réglementaire pour les agents IA bancaires.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>72</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #71 — 17/09/2026</title>
-      <description><![CDATA[Au programme : fuite de données causée par un agent IA incontrôlé en Espagne, risques de sécurité liés aux IA autonomes, implications pour le contrôle des systèmes IA.
-
-📰 Sources : <a href="https://shattered.io/gitspawn-ai-coding-agent-vulnerability-2026">Shattered.io</a> | <a href="https://aiweekly.co/ai-news-today">AI Weekly</a> | <a href="https://www.theolivepress.es/spain-news/2026/09/16/spain-ai-hack-data-breach">The Olive Press</a>]]></description>
-      <pubDate>Thu, 17 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260917.mp3" length="3792621" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-17</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>71</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

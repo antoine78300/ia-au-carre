@@ -1198,5 +1198,15 @@
     "size": 4057581,
     "guid": "ia-au-carre-2026-11-05",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 121,
+    "date": "2026-11-06T08:30:00",
+    "title": "IA au Carré #121 — 06/11/2026",
+    "description": "Au programme : régulation IA dans les banques, agents IA en cybersécurité et tribunaux réglementaires, impact du Black Friday automatisé.\n\n📰 Sources : <a href=\"https://www.forvismazars.us/forsights/2026/11/occ-ai-framework-consequences-not-sophistication-drive-scrutiny\">Forvis Mazars US</a> | <a href=\"https://pasqualepillitteri.it/en/news/30248/ripple-65b-preview-ricursive-dense-open-weight-llm\">Pasquale Pillitteri</a> | <a href=\"https://www.techbuzz.ai/articles/google-vids-gets-15-second-ai-video-gen-free-with-omni-flash\">The Tech Buzz</a> | <a href=\"https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models\">9to5Mac</a> | <a href=\"https://itbrief.co.uk/story/red-hat-nvidia-expand-ai-factory-with-agent-controls\">IT Brief UK</a> | <a href=\"https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf\">Google Cloud Blog</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261106.mp3",
+    "size": 3993789,
+    "guid": "ia-au-carre-2026-11-06",
+    "duration": "00:15:00"
   }
 ]
