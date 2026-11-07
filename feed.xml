@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 07 Nov 2026 07:33:31 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:14:10 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -17,11 +17,11 @@
     
     <item>
       <title>IA au Carré #122 — 07/11/2026</title>
-      <description><![CDATA[Au programme : Spotify retire 75 millions de pistes spam, exclusion de 50 millions de pistes IA des recommandations.
+      <description><![CDATA[Au programme : nettoyage massif de Spotify (75M de pistes spam), exclusion des musiques générées par IA des recommandations.
 
 📰 Sources : <a href="https://whitmanwire.com/news/2026/11/06/how-spotify-and-ais-reshaping-musics-future">Whitman Wire</a> | <a href="https://www.mykxlg.com/online_features/press_releases/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/article_bc67c7a6-6e1d-55a8-995b-b6d0a3af4181.html">mykxlg.com / Humanoid Europe 2026</a> | <a href="https://nypost.com/2026/11/06/tech/anthropic-is-making-biotech-boasts-but-scientists-are-wary-of-hype-around-curing-cancer">New York Post</a> | <a href="https://www.bloomberg.com/features/2026-max-richter-weekend-interview">Bloomberg</a> | <a href="https://routenote.com/radar/soundcloud-partners-with-elevenlabs-to-bring-more-ai-generated-music-to-its-platform">RouteNote</a> | <a href="https://whitmanwire.com/news/2026/11/06/how-spotify-and-ai-are-reshaping-musics-future">Whitman Wire</a>]]></description>
       <pubDate>Sat, 07 Nov 2026 07:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261107.mp3" length="9482925" type="audio/mpeg"/>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261107_v2.mp3" length="9818157" type="audio/mpeg"/>
       <guid isPermaLink="false">ia-au-carre-2026-11-07</guid>
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>

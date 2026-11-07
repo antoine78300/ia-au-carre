@@ -1213,9 +1213,9 @@
     "episode_num": 122,
     "date": "2026-11-07T08:30:00",
     "title": "IA au Carré #122 — 07/11/2026",
-    "description": "Au programme : Spotify retire 75 millions de pistes spam, exclusion de 50 millions de pistes IA des recommandations.\n\n📰 Sources : <a href=\"https://whitmanwire.com/news/2026/11/06/how-spotify-and-ais-reshaping-musics-future\">Whitman Wire</a> | <a href=\"https://www.mykxlg.com/online_features/press_releases/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/article_bc67c7a6-6e1d-55a8-995b-b6d0a3af4181.html\">mykxlg.com / Humanoid Europe 2026</a> | <a href=\"https://nypost.com/2026/11/06/tech/anthropic-is-making-biotech-boasts-but-scientists-are-wary-of-hype-around-curing-cancer\">New York Post</a> | <a href=\"https://www.bloomberg.com/features/2026-max-richter-weekend-interview\">Bloomberg</a> | <a href=\"https://routenote.com/radar/soundcloud-partners-with-elevenlabs-to-bring-more-ai-generated-music-to-its-platform\">RouteNote</a> | <a href=\"https://whitmanwire.com/news/2026/11/06/how-spotify-and-ai-are-reshaping-musics-future\">Whitman Wire</a>",
-    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261107.mp3",
-    "size": 9482925,
+    "description": "Au programme : nettoyage massif de Spotify (75M de pistes spam), exclusion des musiques générées par IA des recommandations.\n\n📰 Sources : <a href=\"https://whitmanwire.com/news/2026/11/06/how-spotify-and-ais-reshaping-musics-future\">Whitman Wire</a> | <a href=\"https://www.mykxlg.com/online_features/press_releases/embodied-ai-unveils-air-a-physically-safe-humanoid-robot-that-learns-on-the-job/article_bc67c7a6-6e1d-55a8-995b-b6d0a3af4181.html\">mykxlg.com / Humanoid Europe 2026</a> | <a href=\"https://nypost.com/2026/11/06/tech/anthropic-is-making-biotech-boasts-but-scientists-are-wary-of-hype-around-curing-cancer\">New York Post</a> | <a href=\"https://www.bloomberg.com/features/2026-max-richter-weekend-interview\">Bloomberg</a> | <a href=\"https://routenote.com/radar/soundcloud-partners-with-elevenlabs-to-bring-more-ai-generated-music-to-its-platform\">RouteNote</a> | <a href=\"https://whitmanwire.com/news/2026/11/06/how-spotify-and-ai-are-reshaping-musics-future\">Whitman Wire</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261107_v2.mp3",
+    "size": 9818157,
     "guid": "ia-au-carre-2026-11-07",
     "duration": "00:15:00"
   }
