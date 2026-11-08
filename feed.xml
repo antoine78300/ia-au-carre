@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 07 Nov 2026 10:14:10 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:34:22 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #123 — 08/11/2026</title>
+      <description><![CDATA[Au programme : l'IA générative dans les industries créatives, l'analyse de Hideo Kojima sur l'avenir de l'IA, actualités tech de la semaine.
+
+📰 Sources : <a href="https://tech-insider.org/kojima-ai-cant-replace-human-creativity-games-five-to-ten-years-2026">Tech Insider</a> | <a href="http://www.heraldinsight.co.kr/news/articleViewAmp.html?idxno=6835">Herald Insight</a> | <a href="https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/ubtech-robotics-unveils-ai-news-anchors-crafted-by-zhang-yimou-alongside-korea-debut-and-simulation/70475080">Ad Hoc News</a> | <a href="https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete">Interesting Engineering</a> | <a href="https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798">Variety</a> | <a href="https://tomorrowspublisher.today/news/xinhua-puts-humanoid-news-presenters-on-stage-but-newsroom-role-remains-untested-69400dcc0f1d/index.html">Tomorrow's Publisher</a>]]></description>
+      <pubDate>Sun, 08 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261108.mp3" length="8047533" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-08</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>123</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #122 — 07/11/2026</title>
       <description><![CDATA[Au programme : nettoyage massif de Spotify (75M de pistes spam), exclusion des musiques générées par IA des recommandations.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>74</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #73 — 19/09/2026</title>
-      <description><![CDATA[Au programme : laboratoires secrets de biologie en IA, robots dans les usines, impact de l'IA sur les musiciens.
-
-📰 Sources : <a href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18">Reuters</a> | <a href="https://www.chinadailyasia.com/article/639800">China Daily Asia</a> | <a href="https://www.etvbharat.com/en/bharat/indias-diversity-a-major-source-of-creativity-innovation-economic-opportunity-tim-curtis-enn26091802801">ETV Bharat</a>]]></description>
-      <pubDate>Sat, 19 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260919.mp3" length="4042317" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-19</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>73</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
