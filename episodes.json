@@ -1228,5 +1228,15 @@
     "size": 8047533,
     "guid": "ia-au-carre-2026-11-08",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 124,
+    "date": "2026-11-09T08:30:00",
+    "title": "IA au Carré #124 — 09/11/2026",
+    "description": "Au programme : changements à la présentation du podcast, évolution de l'émission IA au Carré, actualité de l'intelligence artificielle.\n\n📰 Sources : <a href=\"https://www.nttdata.com/en-id/insights/reports/hfs-horizons-agentic-services-2026\">NTT DATA</a> | <a href=\"https://www.mediapost.com/publications/article/418914/walmart-defines-agent-shopping-in-move-toward-ai-d.html\">MediaPost</a> | <a href=\"https://www.youtube.com/watch?v=on27xzAPg14\">YouTube / The Real AI Agents</a> | <a href=\"https://www.kitsapsun.com/press-release/story/822454/magai-gives-ai-access-to-multiple-accounts-in-connected-tools\">Kitsap Sun</a> | <a href=\"https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats\">CrowdStrike Blog</a> | <a href=\"https://www.zawya.com/en/press-release/companies-news/business-wheel-puts-employee-built-ai-agents-to-work-as-the-uae-moves-to-agentic-ai-2126298\">Zawya</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261109.mp3",
+    "size": 9078573,
+    "guid": "ia-au-carre-2026-11-09",
+    "duration": "00:15:00"
   }
 ]

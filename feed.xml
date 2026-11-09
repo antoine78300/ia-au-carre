@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 08 Nov 2026 07:34:22 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:36:41 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #124 — 09/11/2026</title>
+      <description><![CDATA[Au programme : changements à la présentation du podcast, évolution de l'émission IA au Carré, actualité de l'intelligence artificielle.
+
+📰 Sources : <a href="https://www.nttdata.com/en-id/insights/reports/hfs-horizons-agentic-services-2026">NTT DATA</a> | <a href="https://www.mediapost.com/publications/article/418914/walmart-defines-agent-shopping-in-move-toward-ai-d.html">MediaPost</a> | <a href="https://www.youtube.com/watch?v=on27xzAPg14">YouTube / The Real AI Agents</a> | <a href="https://www.kitsapsun.com/press-release/story/822454/magai-gives-ai-access-to-multiple-accounts-in-connected-tools">Kitsap Sun</a> | <a href="https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats">CrowdStrike Blog</a> | <a href="https://www.zawya.com/en/press-release/companies-news/business-wheel-puts-employee-built-ai-agents-to-work-as-the-uae-moves-to-agentic-ai-2126298">Zawya</a>]]></description>
+      <pubDate>Mon, 09 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261109.mp3" length="9078573" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-09</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>124</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #123 — 08/11/2026</title>
       <description><![CDATA[Au programme : l'IA générative dans les industries créatives, l'analyse de Hideo Kojima sur l'avenir de l'IA, actualités tech de la semaine.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>75</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #74 — 20/09/2026</title>
-      <description><![CDATA[Au programme : découverte de médicaments par IA, robots diplômés, musique générée par machines.
-
-📰 Sources : <a href="https://www.etvbharat.com/en/technology/anthropic-biology-lab-dario-amodei-eric-kauderer-abrams-enn26091902754">ETVBharat / Reuters</a> | <a href="https://www.techtimes.com/articles/327765/20260919/d-robotics-raises-400m-humanoid-chips-us-bans-chinese-robot-imports.htm">TechTimes</a> | <a href="https://www.newsbricks.com/technology/claude-drives-26-anthropic-research-work">NewsBricks</a>]]></description>
-      <pubDate>Sun, 20 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260920.mp3" length="4140381" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-20</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>74</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
