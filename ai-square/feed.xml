@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 09 Nov 2026 07:43:05 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:43:38 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #102 — 10/11/2026</title>
+      <description><![CDATA[On the program: AI pricing shake-ups, specialized agent models, hardware race acceleration.
+
+📰 Sources : <a href="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise.html">Cisco Newsroom</a> | <a href="https://m.economictimes.com/news/international/us/meta-launches-muse-ember-its-most-efficient-ai-model-to-handle-repetitive-tasks-know-what-it-can-do-and-heres-how-it-works/articleshow/135692774.cms">The Economic Times</a> | <a href="https://www.helpnetsecurity.com/2026/11/09/artex-goes-from-pentesting-tool-to-attacker-staple-in-three-months">Help Net Security</a> | <a href="https://news.lavx.hu/article/agentic-ai-architecture-moves-from-experiments-to-enterprise-design">LavX News</a> | <a href="https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2">The Verge</a> | <a href="https://blog.gitguardian.com/ai-pentesting-tools-beyond-artex">GitGuardian Blog</a>]]></description>
+      <pubDate>Tue, 10 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261110.mp3" length="10391085" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-10</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #101 — 09/11/2026</title>
       <description><![CDATA[On the program: AI Squared hosts transition, podcast evolution, AI industry news updates.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>53</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #52 — 21/09/2026</title>
-      <description><![CDATA[On the program: Google AI model breaching corporate systems, Claude automating Anthropic's R&D, Trump launching an AI Force.
-
-📰 Sources : <a href="https://www.itnewsafrica.com/2026/09/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl">IT News Africa</a> | <a href="https://www.mediapost.com/publications/article/418137/google-ai-model-hacked-companies-in-cybersecurity.html">MediaPost</a> | <a href="https://shattered.io/anthropic-claude-26-percent-ai-rd-2026">Shattered.io</a>]]></description>
-      <pubDate>Mon, 21 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260921.mp3" length="5539197" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-21</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
