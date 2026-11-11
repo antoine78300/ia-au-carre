@@ -1018,5 +1018,15 @@
     "size": 10391085,
     "guid": "ai-square-2026-11-10",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 103,
+    "date": "2026-11-11T08:30:00",
+    "title": "AI Squared #103 — 11/11/2026",
+    "description": "On the program: Multi-agent coordination breakthrough, IBM-Microsoft enterprise alliance, AI infrastructure acceleration.\n\n📰 Sources : <a href=\"https://uk.finance.yahoo.com/news/gooddata-ai-launches-agentic-serving-143000842.html\">Yahoo Finance / ACCESS Newswire</a> | <a href=\"https://mezha.net/eng/news/mezha-3b53f23dedf744345acd6a73_developer_creates_tool\">Mezha / The Register</a> | <a href=\"https://siliconangle.com/2026/11/10/red-hat-ai-agent-infrastructure-kubeconna\">SiliconANGLE</a> | <a href=\"https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership\">Adobe Newsroom</a> | <a href=\"https://www.businesswire.com/news/home/20261110046181/en/Path-Robotics-Announces-%24300-Million-Series-E-Financing-at-%242.45-Billion-Valuation-to-Scale-Physical-AI-for-Manufacturing\">Business Wire</a> | <a href=\"https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation\">Microsoft News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261111.mp3",
+    "size": 5024541,
+    "guid": "ai-square-2026-11-11",
+    "duration": "00:15:00"
   }
 ]

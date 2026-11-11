@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Tue, 10 Nov 2026 07:43:38 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:43:23 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #103 — 11/11/2026</title>
+      <description><![CDATA[On the program: Multi-agent coordination breakthrough, IBM-Microsoft enterprise alliance, AI infrastructure acceleration.
+
+📰 Sources : <a href="https://uk.finance.yahoo.com/news/gooddata-ai-launches-agentic-serving-143000842.html">Yahoo Finance / ACCESS Newswire</a> | <a href="https://mezha.net/eng/news/mezha-3b53f23dedf744345acd6a73_developer_creates_tool">Mezha / The Register</a> | <a href="https://siliconangle.com/2026/11/10/red-hat-ai-agent-infrastructure-kubeconna">SiliconANGLE</a> | <a href="https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership">Adobe Newsroom</a> | <a href="https://www.businesswire.com/news/home/20261110046181/en/Path-Robotics-Announces-%24300-Million-Series-E-Financing-at-%242.45-Billion-Valuation-to-Scale-Physical-AI-for-Manufacturing">Business Wire</a> | <a href="https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation">Microsoft News</a>]]></description>
+      <pubDate>Wed, 11 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261111.mp3" length="5024541" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-11</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #102 — 10/11/2026</title>
       <description><![CDATA[On the program: AI pricing shake-ups, specialized agent models, hardware race acceleration.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>54</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #53 — 22/09/2026</title>
-      <description><![CDATA[On the program: autonomous medical AI in healthcare, AI agents regulation and safety, FDA authorization for clinical AI systems.
-
-📰 Sources : <a href="https://telehealth.org/news/arpa-h-commits-62-7m-to-build-first-fda-authorized-patient-facing-clinical-ai-for-heart-failure">Telehealth.org</a> | <a href="https://securityaffairs.com/199454/ai/the-target-is-no-longer-the-model-its-the-agent.html">Security Affairs</a> | <a href="https://www.technology.org/2026/09/21/5-security-risks-every-business-should-know-before-deploying-ai-agents">Technology.org</a>]]></description>
-      <pubDate>Tue, 22 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260922.mp3" length="5017341" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-22</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>53</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
