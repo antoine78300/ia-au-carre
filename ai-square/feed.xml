@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Wed, 11 Nov 2026 07:43:23 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:41:26 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #104 — 12/11/2026</title>
+      <description><![CDATA[On the agenda: Mercedes factory robots, AI security backdoors, cost-effective AI agents.
+
+📰 Sources : <a href="https://shattered.io/gemini-4-carbon-access-signal-libsignal-alphaproof-code-6-5m-lean-proofs-2026">Shattered.io</a> | <a href="https://www.infoworld.com/article/4247378/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor-2.html">Microsoft Research / InfoWorld</a> | <a href="https://timesofindia.indiatimes.com/technology/tech-news/cisco-adds-anthropics-claude-mythos-to-ai-defense-to-help-companies-test-their-ai-agents/articleshow/135739947.cms">The Times of India / Cisco Newsroom</a> | <a href="https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model">SiliconANGLE / Google DeepMind</a> | <a href="https://www.prnewswire.com/news-releases/tier-iv-unveils-end-to-end-autonomous-driving-adaptable-to-map-information-and-sensor-configurations-302935963.html">PR Newswire</a> | <a href="https://news.lavx.hu/article/pomerado-pitches-website-to-api-tool-as-an-alternative-to-browser-agents">LavX News</a>]]></description>
+      <pubDate>Thu, 12 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261112.mp3" length="3727389" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-12</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #103 — 11/11/2026</title>
       <description><![CDATA[On the program: Multi-agent coordination breakthrough, IBM-Microsoft enterprise alliance, AI infrastructure acceleration.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>55</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #54 — 23/09/2026</title>
-      <description><![CDATA[On the program: OpenAI's GPT-6 launch, Alibaba's trillion-parameter AI race, MIT's breakthrough in AI agent trustworthiness.
-
-📰 Sources : <a href="https://zimperium.com/resources/zimperium-warns-agentic-ai-is-accelerating-attacks-on-mobile-apps?hs_amp=true">Zimperium</a> | <a href="https://finance.biggo.com/news/cbf6be57-018e-4052-8d1b-c4d06d8dfc5a">BigGo Finance</a> | <a href="https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release">ZDNet</a>]]></description>
-      <pubDate>Wed, 23 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260923.mp3" length="4868157" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-23</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

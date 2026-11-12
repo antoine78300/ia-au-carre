@@ -1028,5 +1028,15 @@
     "size": 5024541,
     "guid": "ai-square-2026-11-11",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 104,
+    "date": "2026-11-12T08:30:00",
+    "title": "AI Squared #104 — 12/11/2026",
+    "description": "On the agenda: Mercedes factory robots, AI security backdoors, cost-effective AI agents.\n\n📰 Sources : <a href=\"https://shattered.io/gemini-4-carbon-access-signal-libsignal-alphaproof-code-6-5m-lean-proofs-2026\">Shattered.io</a> | <a href=\"https://www.infoworld.com/article/4247378/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor-2.html\">Microsoft Research / InfoWorld</a> | <a href=\"https://timesofindia.indiatimes.com/technology/tech-news/cisco-adds-anthropics-claude-mythos-to-ai-defense-to-help-companies-test-their-ai-agents/articleshow/135739947.cms\">The Times of India / Cisco Newsroom</a> | <a href=\"https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model\">SiliconANGLE / Google DeepMind</a> | <a href=\"https://www.prnewswire.com/news-releases/tier-iv-unveils-end-to-end-autonomous-driving-adaptable-to-map-information-and-sensor-configurations-302935963.html\">PR Newswire</a> | <a href=\"https://news.lavx.hu/article/pomerado-pitches-website-to-api-tool-as-an-alternative-to-browser-agents\">LavX News</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261112.mp3",
+    "size": 3727389,
+    "guid": "ai-square-2026-11-12",
+    "duration": "00:15:00"
   }
 ]
