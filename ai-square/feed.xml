@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 12 Nov 2026 07:41:26 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:44:42 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #105 — 13/11/2026</title>
+      <description><![CDATA[On the programme: Google standardizing AI agent knowledge, Baidu's token marketplace launch, Southeast Asia's autonomous AI regulations.
+
+📰 Sources : <a href="https://www.lawnext.com/2026/11/opus-2-named-overall-case-management-platform-of-the-year-in-legaltech-breakthrough-awards.html">LawSites</a> | <a href="http://www.streetinsider.com/Globe+Newswire/atQor+Named+Finalist+for+2026+Microsoft+Partner+of+the+Year+Award+in+-+Agents/27332883.html">StreetInsider</a> | <a href="https://yourstory.com/2026/11/gemini-in-action-how-voice-agents-and-coding-tools-are-changing-the-way-businesses-use-ai">YourStory</a> | <a href="https://www.prnewswire.com/news-releases/barndoor-announces-availability-of-its-ai-gateway-on-google-cloud-marketplace-302937278.html">PRNewswire</a> | <a href="https://www.tradingview.com/news/eqs:9950994b8094b:0-diagens-leads-in-two-major-global-ai-benchmarks-and-extends-chest-and-abdominal-ct-analysis-to-509-imaging-targets-ushering-in-a-new-era-for-medical-imaging-ai">TradingView News</a> | <a href="https://govinsider.asia/intl-en/article/turning-ai-governance-into-better-public-services-in-southeast-asia">GovInsider</a>]]></description>
+      <pubDate>Fri, 13 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261113.mp3" length="4892349" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-13</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #104 — 12/11/2026</title>
       <description><![CDATA[On the agenda: Mercedes factory robots, AI security backdoors, cost-effective AI agents.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>56</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #55 — 24/09/2026</title>
-      <description><![CDATA[On the agenda: AI development slowdown calls, autonomous agent data breach legal precedent, Alibaba's new chip and model release.
-
-📰 Sources : <a href="https://www.mk.co.kr/en/it/12160550">MK.co.kr</a> | <a href="https://www.ropesgray.com/en/insights/viewpoints/2026/09/102o2y3/lessons-from-spains-first-reported-agentic-ai-data-breach">Ropes & Gray</a> | <a href="https://forkast.news/the-42-state-ag-coalition-how-state-attorneys-general-are-building-the-agent-liability-framework-congress-wont">Forkast News</a>]]></description>
-      <pubDate>Thu, 24 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260924.mp3" length="5270061" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-24</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

@@ -1038,5 +1038,15 @@
     "size": 3727389,
     "guid": "ai-square-2026-11-12",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 105,
+    "date": "2026-11-13T08:30:00",
+    "title": "AI Squared #105 — 13/11/2026",
+    "description": "On the programme: Google standardizing AI agent knowledge, Baidu's token marketplace launch, Southeast Asia's autonomous AI regulations.\n\n📰 Sources : <a href=\"https://www.lawnext.com/2026/11/opus-2-named-overall-case-management-platform-of-the-year-in-legaltech-breakthrough-awards.html\">LawSites</a> | <a href=\"http://www.streetinsider.com/Globe+Newswire/atQor+Named+Finalist+for+2026+Microsoft+Partner+of+the+Year+Award+in+-+Agents/27332883.html\">StreetInsider</a> | <a href=\"https://yourstory.com/2026/11/gemini-in-action-how-voice-agents-and-coding-tools-are-changing-the-way-businesses-use-ai\">YourStory</a> | <a href=\"https://www.prnewswire.com/news-releases/barndoor-announces-availability-of-its-ai-gateway-on-google-cloud-marketplace-302937278.html\">PRNewswire</a> | <a href=\"https://www.tradingview.com/news/eqs:9950994b8094b:0-diagens-leads-in-two-major-global-ai-benchmarks-and-extends-chest-and-abdominal-ct-analysis-to-509-imaging-targets-ushering-in-a-new-era-for-medical-imaging-ai\">TradingView News</a> | <a href=\"https://govinsider.asia/intl-en/article/turning-ai-governance-into-better-public-services-in-southeast-asia\">GovInsider</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261113.mp3",
+    "size": 4892349,
+    "guid": "ai-square-2026-11-13",
+    "duration": "00:15:00"
   }
 ]
