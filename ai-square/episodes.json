@@ -1048,5 +1048,15 @@
     "size": 4892349,
     "guid": "ai-square-2026-11-13",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 106,
+    "date": "2026-11-14T08:30:00",
+    "title": "AI Squared #106 — 14/11/2026",
+    "description": "On the program: AI music generation with Suno Bridge, native integration in Ableton Live, evolving music production landscape.\n\n📰 Sources : <a href=\"https://quasa.io/video/mozart-ai-the-ai-studio-that-makes-music-creation-10-times-faster\">Quasa</a> | <a href=\"https://streamlinefeed.co.ke/news/nick-cave-calls-suno-the-great-cancellator-in-ai-essay\">Streamline Feed</a> | <a href=\"https://www.techflowpost.com/en-US/article/35347\">TechFlow</a> | <a href=\"https://finance.yahoo.com/technology/ai/articles/cathie-wood-calls-humanoid-robots-023017667.html\">Yahoo Finance</a> | <a href=\"https://www.unite.ai/suno-launches-bridge-beta-for-ai-stem-generation-in-ableton-live\">Unite.AI</a> | <a href=\"https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial\">The Robot Report</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261114.mp3",
+    "size": 4660941,
+    "guid": "ai-square-2026-11-14",
+    "duration": "00:15:00"
   }
 ]
