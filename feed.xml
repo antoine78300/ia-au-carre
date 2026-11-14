@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Fri, 13 Nov 2026 07:42:36 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:39:38 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #129 — 14/11/2026</title>
+      <description><![CDATA[Au programme : Suno Bridge pour générer de la musique IA dans Ableton Live, intégration native de l'IA dans les workflows musicaux.
+
+📰 Sources : <a href="https://quasa.io/video/mozart-ai-the-ai-studio-that-makes-music-creation-10-times-faster">Quasa</a> | <a href="https://streamlinefeed.co.ke/news/nick-cave-calls-suno-the-great-cancellator-in-ai-essay">Streamline Feed</a> | <a href="https://www.techflowpost.com/en-US/article/35347">TechFlow</a> | <a href="https://finance.yahoo.com/technology/ai/articles/cathie-wood-calls-humanoid-robots-023017667.html">Yahoo Finance</a> | <a href="https://www.unite.ai/suno-launches-bridge-beta-for-ai-stem-generation-in-ableton-live">Unite.AI</a> | <a href="https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial">The Robot Report</a>]]></description>
+      <pubDate>Sat, 14 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261114.mp3" length="9856557" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-14</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>129</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #128 — 13/11/2026</title>
       <description><![CDATA[Au programme : standardisation des agents IA par Google, marketplace de tokens lancée par Baidu, régulation de l'IA autonome en Asie du Sud-Est.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>80</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #79 — 25/09/2026</title>
-      <description><![CDATA[Au programme : IA découvrant un système biologique révolutionnaire, banques adoptant l'agentique, alertes de sécurité critiques.
-
-📰 Sources : <a href="https://securitytoday.com/articles/2026/09/24/salt-security-adds-ai-detection-response-to-agentic-security-platform.aspx">Security Today</a> | <a href="https://blogs.cisco.com/ai/llm-security-leaderboard-multimodal">Cisco Blogs</a> | <a href="https://www.cio.com/article/4226160/teradata-aims-to-make-agentic-execution-of-multistep-data-work-more-efficient.html">CIO</a> | <a href="https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk">Google Developers Blog</a> | <a href="https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777">Al Jazeera / The Conversation</a> | <a href="https://www.unite.ai/bnp-paribas-google-cloud-enter-five-year-agentic-ai-partnership">Unite.ai</a>]]></description>
-      <pubDate>Fri, 25 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260925.mp3" length="4959597" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-25</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>79</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
