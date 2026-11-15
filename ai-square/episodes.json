@@ -1058,5 +1058,15 @@
     "size": 4660941,
     "guid": "ai-square-2026-11-14",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 107,
+    "date": "2026-11-15T08:30:00",
+    "title": "AI Squared #107 — 15/11/2026",
+    "description": "On the program: Jensen Huang's departure from Nvidia, deepfakes and AI, nostalgia in tech leadership.\n\n📰 Sources : <a href=\"https://www.newsweek.com/jensen-huang-nvidia-resignation-ai-memes-deepfakes-12714595\">Newsweek</a> | <a href=\"https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html\">CNBC</a> | <a href=\"https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/\">PC Gamer</a> | <a href=\"https://www.moomoo.com/news/post/1004665664/openai-dissolves-standalone-robotics-team-does-embodied-ai-no-longer\">Moomoo Finance</a> | <a href=\"https://casrai.org/news/embodied-first-exam-robotics-multimodal-evaluation-benchmark-2026\">CASRAI</a> | <a href=\"https://wincountry.com/2026/11/14/new-awards-show-celebrates-ai-music-and-its-creators\">Reuters (WNCY)</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261115.mp3",
+    "size": 4948365,
+    "guid": "ai-square-2026-11-15",
+    "duration": "00:15:00"
   }
 ]
