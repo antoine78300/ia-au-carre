@@ -1288,5 +1288,15 @@
     "size": 9856557,
     "guid": "ia-au-carre-2026-11-14",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 130,
+    "date": "2026-11-15T08:30:00",
+    "title": "IA au Carré #130 — 15/11/2026",
+    "description": "Au programme : la démission de Jensen Huang (Nvidia), les deepfakes et l'ironie de l'IA.\n\n📰 Sources : <a href=\"https://www.newsweek.com/jensen-huang-nvidia-resignation-ai-memes-deepfakes-12714595\">Newsweek</a> | <a href=\"https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html\">CNBC</a> | <a href=\"https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/\">PC Gamer</a> | <a href=\"https://www.moomoo.com/news/post/1004665664/openai-dissolves-standalone-robotics-team-does-embodied-ai-no-longer\">Moomoo Finance</a> | <a href=\"https://casrai.org/news/embodied-first-exam-robotics-multimodal-evaluation-benchmark-2026\">CASRAI</a> | <a href=\"https://wincountry.com/2026/11/14/new-awards-show-celebrates-ai-music-and-its-creators\">Reuters (WNCY)</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261115.mp3",
+    "size": 11202093,
+    "guid": "ia-au-carre-2026-11-15",
+    "duration": "00:15:00"
   }
 ]

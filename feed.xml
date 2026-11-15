@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 14 Nov 2026 07:39:38 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:43:58 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #130 — 15/11/2026</title>
+      <description><![CDATA[Au programme : la démission de Jensen Huang (Nvidia), les deepfakes et l'ironie de l'IA.
+
+📰 Sources : <a href="https://www.newsweek.com/jensen-huang-nvidia-resignation-ai-memes-deepfakes-12714595">Newsweek</a> | <a href="https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html">CNBC</a> | <a href="https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/">PC Gamer</a> | <a href="https://www.moomoo.com/news/post/1004665664/openai-dissolves-standalone-robotics-team-does-embodied-ai-no-longer">Moomoo Finance</a> | <a href="https://casrai.org/news/embodied-first-exam-robotics-multimodal-evaluation-benchmark-2026">CASRAI</a> | <a href="https://wincountry.com/2026/11/14/new-awards-show-celebrates-ai-music-and-its-creators">Reuters (WNCY)</a>]]></description>
+      <pubDate>Sun, 15 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261115.mp3" length="11202093" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-15</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>130</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #129 — 14/11/2026</title>
       <description><![CDATA[Au programme : Suno Bridge pour générer de la musique IA dans Ableton Live, intégration native de l'IA dans les workflows musicaux.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>81</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #80 — 26/09/2026</title>
-      <description><![CDATA[Au programme : Claude découvre un mécanisme CRISPR en 21h, avancées en édition génétique par IA.
-
-📰 Sources : <a href="https://www.newsweek.com/ai-creates-songs-people-make-them-rock-12487420">Newsweek</a> | <a href="https://www.foxnews.com/tech/fox-news-ai-newsletter-tech-company-says-scientific-discovery-could-change-medicine">Fox News</a> | <a href="https://finance.biggo.com/news/3fdeb1db-1521-48f5-8061-ea49f56bad6d">BigGo Finance</a> | <a href="https://www.americanactionforum.org/weekly-checkup/dont-be-ai-larmed-ai-can-discover-a-drug-people-still-have-to-prove-it-works">American Action Forum</a> | <a href="https://www.newslink.co.za/artists-interrogate-the-machine">Artslink.co.za</a> | <a href="https://www.geeky-gadgets.com/claude-ai-dna-art-discovery">Geeky Gadgets</a>]]></description>
-      <pubDate>Sat, 26 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260926.mp3" length="3962829" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-26</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>80</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
