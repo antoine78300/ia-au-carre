@@ -1298,5 +1298,15 @@
     "size": 11202093,
     "guid": "ia-au-carre-2026-11-15",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 131,
+    "date": "2026-11-16T08:30:00",
+    "title": "IA au Carré #131 — 16/11/2026",
+    "description": "Au programme : sécurité des agents IA et protocole MCP, gouvernance et confiance envers l'IA, nouveaux outils et recherche académique.\n\n📰 Sources : <a href=\"https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust\">VentureBeat</a> | <a href=\"https://www.cdotrends.com/story/5179/ai-needs-org-chart-it-needs-more-autonomy\">CDOTrends</a> | <a href=\"https://startupfortune.com/how-to-set-an-ai-agent-context-window-budget-before-long-tasks-fall-apart\">Startup Fortune</a> | <a href=\"https://casrai.org/news/two-agent-llm-conversational-oral-exams-preprint-2026\">CASRAI</a> | <a href=\"https://shattered.io/antigravity-teamwork-three-gemini-4-models-science-engineering-google-research\">Shattered.io</a> | <a href=\"https://casrai.org/news/askalcf-argonne-agentic-hpc-user-support-2026\">CASRAI</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261116.mp3",
+    "size": 10334253,
+    "guid": "ia-au-carre-2026-11-16",
+    "duration": "00:15:00"
   }
 ]
