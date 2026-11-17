@@ -1308,5 +1308,15 @@
     "size": 10334253,
     "guid": "ia-au-carre-2026-11-16",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 132,
+    "date": "2026-11-17T08:30:00",
+    "title": "IA au Carré #132 — 17/11/2026",
+    "description": "Au programme : modèles IA à bas coût, attaques d'agents IA contre les clés API, surveillance des modèles chez OpenAI.\n\n📰 Sources : <a href=\"https://casrai.org/news/gartner-runtime-governance-ai-agents-io-disruptions-2026\">CASRAI</a> | <a href=\"https://news.lavx.hu/article/withcoral-releases-coral-an-open-source-gateway-for-controlled-agent-tool-use\">LavX News</a> | <a href=\"https://tbreak.com/ai-agents-hunt-litellm-dify-api-keys\">tbreak</a> | <a href=\"https://securityaffairs.com/203260/hacking/google-gtig-warns-ai-agents-automate-exploits-steal-credentials-and-scale-cybercrime.html\">Security Affairs</a> | <a href=\"https://openai.com/index/expanding-chatgpt-for-academic-researchers\">OpenAI</a> | <a href=\"https://natlawreview.com/press-releases/huwise-launches-agentic-ai-framework-build-powerful-ai-agents-address\">EINPresswire / National Law Review</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261117.mp3",
+    "size": 8824749,
+    "guid": "ia-au-carre-2026-11-17",
+    "duration": "00:15:00"
   }
 ]

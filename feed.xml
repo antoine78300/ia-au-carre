@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Mon, 16 Nov 2026 07:39:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:39:20 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #132 — 17/11/2026</title>
+      <description><![CDATA[Au programme : modèles IA à bas coût, attaques d'agents IA contre les clés API, surveillance des modèles chez OpenAI.
+
+📰 Sources : <a href="https://casrai.org/news/gartner-runtime-governance-ai-agents-io-disruptions-2026">CASRAI</a> | <a href="https://news.lavx.hu/article/withcoral-releases-coral-an-open-source-gateway-for-controlled-agent-tool-use">LavX News</a> | <a href="https://tbreak.com/ai-agents-hunt-litellm-dify-api-keys">tbreak</a> | <a href="https://securityaffairs.com/203260/hacking/google-gtig-warns-ai-agents-automate-exploits-steal-credentials-and-scale-cybercrime.html">Security Affairs</a> | <a href="https://openai.com/index/expanding-chatgpt-for-academic-researchers">OpenAI</a> | <a href="https://natlawreview.com/press-releases/huwise-launches-agentic-ai-framework-build-powerful-ai-agents-address">EINPresswire / National Law Review</a>]]></description>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261117.mp3" length="8824749" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-17</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>132</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #131 — 16/11/2026</title>
       <description><![CDATA[Au programme : sécurité des agents IA et protocole MCP, gouvernance et confiance envers l'IA, nouveaux outils et recherche académique.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>83</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #82 — 28/09/2026</title>
-      <description><![CDATA[Au programme : botnets autonomes et cybersécurité, avancées en robotique, vidéo générative et modèles embarqués.
-
-📰 Sources : <a href="https://dig.watch/updates/cybercrime-to-agentic-ai-agents-attack-chain">Dig.Watch</a> | <a href="https://forkast.news/carbonato-is-the-first-botnet-where-the-command-and-control-engine-is-an-ai-agent-and-it-has-been-running-since-october-2024">Forkast News</a> | <a href="https://www.foreignpolicyjournal.com/2026/09/27/soundhound-ai-nasdaq-soun-launches-oasys-edge-to-push-llm-powered-voice-ai-onto-device-hardware">Foreign Policy Journal</a> | <a href="https://roboticsandautomationnews.com/2026/09/27/skylark-labs-researchers-develop-ai-system-that-enables-robots-to-keep-learning-after-deployment/105179/">Robotics & Automation News</a> | <a href="https://forkast.news/three-months-to-nist-the-federal-ai-agent-standards-deadline-arrives-with-no-enforceable-framework">Forkast News</a> | <a href="https://ppc.land/scope3-becomes-apostra-a-40-person-bet-on-ai-agents-that-trade-ads">PPC.Land</a>]]></description>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260928.mp3" length="4927485" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-28</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>82</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

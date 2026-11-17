@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IA au Carré #132 — 17/11/2026 — IA au Carré</title>
+<meta name="description" content="Au programme : modèles IA à bas coût, attaques d&#x27;agents IA contre les clés API, surveillance des modèles chez OpenAI.">
+<link rel="canonical" href="https://antoine78300.github.io/ia-au-carre/episodes/2026-11-17.html">
+<link rel="icon" href="../channel_icon_3000x3000.jpg">
+<meta property="og:title" content="IA au Carré #132 — 17/11/2026">
+<meta property="og:description" content="Au programme : modèles IA à bas coût, attaques d&#x27;agents IA contre les clés API, surveillance des modèles chez OpenAI.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://antoine78300.github.io/ia-au-carre/episodes/2026-11-17.html">
+<meta property="og:locale" content="fr_FR">
+<style>
+:root{
+  --bg:#070B14; --card:#101a2c; --card-border:#1e2c47;
+  --teal:#5EEAD4; --blue:#7DD3FC; --violet:#C4B5FD;
+  --text:#E5E9F5; --muted:#94A3B8;
+  --grad:linear-gradient(100deg,var(--teal),var(--blue) 55%,var(--violet));
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:
+    radial-gradient(1100px 500px at 12% -10%, rgba(94,234,212,.12), transparent 60%),
+    radial-gradient(1100px 600px at 90% 0%, rgba(196,181,253,.10), transparent 55%),
+    var(--bg);
+  color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.6;
+}
+.wrap{max-width:760px;margin:0 auto;padding:0 24px 70px;}
+a{color:var(--blue);}
+header.ep-header{padding:28px 24px;}
+header.ep-header a.back-link{color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;}
+header.ep-header a.back-link:hover{color:var(--text);}
+.ep-eyebrow{color:var(--teal);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin:0 0 10px;}
+h1{font-size:30px;font-weight:800;letter-spacing:-0.3px;margin:0 0 16px;line-height:1.25;}
+.ep-desc{color:var(--muted);font-size:16px;margin:0 0 22px;}
+.ep-desc a{color:var(--teal);text-decoration:none;}
+audio{width:100%;height:40px;margin-bottom:20px;}
+.subscribe-row{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 40px;}
+.btn{
+  display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:12px;
+  font-size:14px;font-weight:600;text-decoration:none;border:1px solid var(--card-border);
+  color:var(--text);background:rgba(255,255,255,.03);
+}
+.btn.primary{background:var(--grad);color:#07101d;border:none;}
+h2.transcript-heading{font-size:20px;font-weight:700;margin:0 0 18px;padding-top:28px;border-top:1px solid var(--card-border);}
+.transcript{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 30px;}
+.transcript p{margin:0 0 18px;font-size:15.5px;}
+.transcript p:last-child{margin-bottom:0;}
+.transcript .spk{font-weight:700;margin-right:6px;}
+footer{padding:40px 24px 70px;text-align:center;color:var(--muted);font-size:13px;max-width:760px;margin:0 auto;}
+footer a{color:var(--muted);}
+@media (max-width:600px){
+  h1{font-size:24px;}
+  .transcript{padding:22px 18px;}
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "url": "https://antoine78300.github.io/ia-au-carre/episodes/2026-11-17.html",
+  "name": "IA au Carré #132 — 17/11/2026",
+  "datePublished": "2026-11-17",
+  "description": "Au programme : modèles IA à bas coût, attaques d'agents IA contre les clés API, surveillance des modèles chez OpenAI.",
+  "episodeNumber": 132,
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261117.mp3"
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "IA au Carré",
+    "url": "https://antoine78300.github.io/ia-au-carre/"
+  },
+  "timeRequired": "PT15M"
+}
+</script>
+</head>
+<body>
+
+<header class="ep-header">
+  <a class="back-link" href="../">← IA au Carré</a>
+</header>
+
+<div class="wrap">
+  <article>
+    <p class="ep-eyebrow">Épisode 132 · 17/11/2026</p>
+    <h1>IA au Carré #132 — 17/11/2026</h1>
+    <p class="ep-desc">Au programme : modèles IA à bas coût, attaques d&#x27;agents IA contre les clés API, surveillance des modèles chez OpenAI.</p>
+    <audio controls preload="none" src="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261117.mp3"></audio>
+    <div class="subscribe-row">
+      <a class="btn primary" href="https://podcasts.apple.com/us/podcast/ia-au-carr%C3%A9/id6811619842">🎧 Écouter sur Apple Podcasts</a>
+      <a class="btn" href="../feed.xml">Flux RSS</a>
+    </div>
+
+    <h2 class="transcript-heading">Transcription complète</h2>
+    <div class="transcript">
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Bonjour et bienvenue dans IA au Carré, votre rendez-vous quotidien au cœur de l&#x27;intelligence artificielle. Aujourd&#x27;hui, on plonge dans une journée particulièrement dense : des modèles géants à prix cassé, des agents IA qui s&#x27;attaquent aux clés secrètes de vos outils, et des chercheurs embarqués chez OpenAI pour surveiller... les modèles eux-mêmes. C&#x27;est parti.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Thomas, on commence par le fait du jour. Et aujourd&#x27;hui, j&#x27;ai l&#x27;impression que le grand sujet, c&#x27;est la sécurité des agents IA.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Exactement, Claire, et c&#x27;est un sujet qui mérite toute notre attention. Amazon a documenté une vague d&#x27;attaques menées par des agents IA autonomes qui scannent des outils populaires comme LiteLLM, Dify, Langflow, FastGPT, RAGFlow ou encore Open WebUI. L&#x27;objectif de ces agents malveillants ? Extraire des clés API stockées dans ces systèmes. Des centaines de cibles ont été répertoriées.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Attends, tu dis bien des agents IA qui attaquent d&#x27;autres systèmes d&#x27;IA ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Précisément. Et ce qui est particulièrement préoccupant, c&#x27;est que Google, de son côté, a formalisé une documentation sur des frameworks offensifs entiers, construits spécifiquement pour des attaques multi-étapes automatisées. On parle de systèmes comme ARTEX, CAIRN, CyberStrikeAI, PentAGI ou HexStrike AI. Ce dernier dispose de plus de cent cinquante outils gérés par douze agents spécialisés coordonnés entre eux.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> C&#x27;est vertigineux. Et ces frameworks sont accessibles ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> C&#x27;est là que ça devient inquiétant. Malgré la fermeture du dépôt GitHub originel en octobre, ces outils restent accessibles. Et Google documente qu&#x27;entre août et octobre, un attaquant a utilisé une version modifiée d&#x27;un de ces frameworks pour cibler systématiquement des organisations en Asie. On est passé d&#x27;attaques isolées à une véritable orchestration offensive industrialisée.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Donc l&#x27;IA agentique, qu&#x27;on nous présente comme l&#x27;avenir de la productivité, devient aussi l&#x27;avenir de la cybercriminalité.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> C&#x27;est le revers de la médaille. La même puissance qui permet d&#x27;automatiser des tâches complexes peut être détournée pour automatiser des exploits à une vitesse et une échelle que les défenses humaines classiques peinent à suivre. Et le détail qui refroidit, c&#x27;est que les attaquants ciblent aussi les proxies LLM comme One API, New API ou Veloera. Tout ce qui expose des clés en clair est une cible potentielle.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Message reçu cinq sur cinq. On va maintenant parler d&#x27;outils et de frameworks, parce que l&#x27;actualité est chargée sur ce front aussi. Thomas, par quoi on commence ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Par une annonce qui fait du bruit dans le monde du déploiement d&#x27;agents : withcoral a lancé Coral, une passerelle open-source qui exécute les appels d&#x27;outils des agents dans des environnements isolés, appelés isolats V8, avec vérification de politique intégrée. Et les chiffres sont vraiment frappants.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> C&#x27;est-à-dire ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Sur trente-quatre tâches analysées, les outils personnalisés gérés par Coral permettent de réduire le nombre de tokens consommés de trente-sept pour cent, les coûts de trente et un pour cent, et le temps d&#x27;exécution de vingt-neuf pour cent. Et ce qui est peut-être le plus significatif : les modèles plus petits arrivent à performer comme des modèles beaucoup plus grands. Plus de quatre cent cinquante entreprises l&#x27;utilisent déjà.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Donc on réduit à la fois la facture et on peut se passer des modèles les plus puissants et les plus chers.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Voilà. Et ça s&#x27;inscrit dans une tendance de fond : rendre les agents IA plus économes et plus contrôlables. Dans le même registre, Genpact, qui est un poids lourd des services aux entreprises, coté en bourse à New York, vient d&#x27;annoncer Genpact Onyx. C&#x27;est une plateforme complète pour construire, exécuter et gouverner des agents IA dans les opérations d&#x27;entreprise.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Ce qui différencie Onyx d&#x27;un simple framework open-source ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> C&#x27;est ce qu&#x27;ils appellent le Process Intelligence Core. L&#x27;idée est de codifier des décennies de connaissance opérationnelle accumulée par Genpact dans ses missions pour les grandes entreprises, et de l&#x27;intégrer directement dans les agents. Ce n&#x27;est plus un outil générique, c&#x27;est une plateforme qui arrive avec de la connaissance métier embarquée. C&#x27;est la première fois qu&#x27;un acteur de cette taille dans les services d&#x27;exploitation propose une solution agentique unifiée et propriétaire de ce niveau.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Et côté outils plus académiques, il y a aussi une annonce autour de la gestion de projets étudiants, non ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Oui, plus modeste dans son ambition mais intéressante sur le plan architectural. C&#x27;est vProjTutor, un système d&#x27;agents LLM spécialisés qui s&#x27;intègre directement avec Telegram, Trello et GitHub. Les étudiants peuvent en langage naturel configurer des projets, générer des plans Sprint, organiser des tâches et suivre leur avancement. C&#x27;est une démonstration concrète que l&#x27;orchestration agentique multi-plateformes fonctionne dans des contextes très pratiques du quotidien.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Passons maintenant à la recherche. Et là, OpenAI est au centre de l&#x27;attention, avec non pas une mais deux collaborations avec des équipes de chercheurs externes.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> C&#x27;est une décision notable de la part d&#x27;OpenAI. D&#x27;abord, avec Apollo Research, OpenAI a lancé un programme pilote dans lequel des chercheurs sont intégrés directement en interne, avec accès à des éléments très sensibles : le code d&#x27;entraînement, les rollouts de renforcement, les checkpoints intermédiaires des modèles.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Et la question qu&#x27;ils cherchent à répondre, c&#x27;est quoi exactement ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Est-ce que les modèles tentent de subvertir leurs propres mécanismes d&#x27;alignement, ou ceux de futures versions ? En clair, est-ce qu&#x27;un modèle d&#x27;IA peut chercher à contourner les garde-fous qu&#x27;on lui impose ? C&#x27;est une question qui peut paraître abstraite, mais qui devient très concrète à mesure que ces modèles deviennent plus capables.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Et il y a une deuxième collaboration parallèle ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Oui, avec Transluce AI, anciennement affiliée à l&#x27;Effective Altruism Institute. Là, l&#x27;accès est encore différent : chaînes de pensée brutes des modèles, évaluations d&#x27;alignement internes, et même des transcriptions d&#x27;entraînement antérieures. Ce pilote démarre en décembre pour six semaines. L&#x27;objectif est d&#x27;investiguer la transparence du comportement des modèles.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Deux équipes externes, deux angles différents. C&#x27;est un signal fort sur la volonté d&#x27;OpenAI de montrer patte blanche ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> C&#x27;est en tout cas une ouverture structurée et formalisée, ce qui est nouveau par rapport aux approches de recherche interne uniquement. On verra ce que ces équipes publient. Mais le simple fait d&#x27;accorder cet accès à des tiers indépendants, c&#x27;est un changement de posture qui mérite d&#x27;être noté.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> On termine avec l&#x27;impact industrie, et là il y a des annonces majeures du côté des modèles. Tencent et Alibaba ont sorti des nouveaux modèles presque simultanément.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Oui, et c&#x27;est une illustration assez frappante de la compétition que se livrent les acteurs asiatiques dans la course aux modèles économiques. Tencent a annoncé Hy4 Flash le 16 novembre. C&#x27;est un modèle avec deux cent vingt-quatre milliards de paramètres totaux, mais seulement douze milliards actifs grâce à une architecture MoE, c&#x27;est-à-dire Mixture of Experts, hybride. Contexte d&#x27;un million de tokens. Et la tarification : zéro virgule zéro sept dollar par million de tokens en entrée.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> C&#x27;est peu.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> C&#x27;est très peu. Et techniquement, l&#x27;entraînement par renforcement a permis de réduire les tokens de sortie de cinquante pour cent par rapport au modèle précédent, ce qui réduit encore les coûts à l&#x27;usage. Le cache KV est réduit d&#x27;un facteur vingt-quatre par rapport à Hy3. C&#x27;est clairement positionné pour l&#x27;orchestration agentique quotidienne, où les coûts d&#x27;inférence s&#x27;accumulent vite.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Et Alibaba joue dans la même cour ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Alibaba a sorti Qwen4-Max, annoncé le 16 novembre lui aussi. Deux virgule quatre mille milliards de paramètres totaux, architecture MoE native, vision intégrée, contexte d&#x27;un million de tokens. Les coûts par tâche sont réduits de plus de cinquante pour cent par rapport à Qwen3.8-Max. Et Alibaba positionne explicitement ce modèle comme une alternative prix aux modèles de GPT, Claude et Gemini de génération actuelle pour l&#x27;orchestration agentique d&#x27;entreprise.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Deux géants asiatiques qui arrivent avec des modèles massifs mais à prix cassé, en ciblant spécifiquement les usages agentiques. C&#x27;est une tendance très claire.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Et pour compléter le tableau industrie, il y a aussi Hitachi qui a déployé un système d&#x27;IA agentique pour la conception de chiplets, ces petits composants modulaires qui entrent dans la fabrication de puces avancées. Leur système réduit de plus de quatre-vingt-dix pour cent les candidats à évaluer en début de conception grâce à un criblage multi-physique automatisé. C&#x27;est la première démonstration opérationnelle d&#x27;orchestration agentique dans la conception matérielle semiconducteur à ce niveau.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Et du côté de la recherche académique, OpenAI a également fait une annonce moins spectaculaire mais utile.</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Oui, OpenAI a lancé ChatGPT for Academic Researchers, avec un accès gratuit aux modèles frontière pour les universités américaines, jusqu&#x27;à trente sièges par établissement, et sans utilisation des données pour l&#x27;entraînement. La nouveauté c&#x27;est GPT-Rosalind, un modèle spécialisé en biologie inclus dans ce programme. C&#x27;est une formalisation d&#x27;un accès structuré pour la communauté académique, avec des modèles spécialisés plutôt qu&#x27;un accès généraliste.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Voilà qui clôt une journée vraiment très chargée. Thomas, si tu devais retenir deux choses de cette journée pour nos auditeurs ?</p>
+      <p><span class="spk" style="color:#C4B5FD">Thomas:</span> Premièrement, la puissance des agents IA est désormais exploitée des deux côtés du miroir : pour construire des systèmes utiles, et pour mener des attaques automatisées à grande échelle. La sécurité de tout ce qu&#x27;on expose doit être une priorité immédiate. Deuxièmement, la guerre des prix sur les modèles s&#x27;intensifie, et les architectures MoE permettent désormais d&#x27;avoir des modèles très performants à des coûts qui rendent l&#x27;usage agentique quotidien accessible à une échelle industrielle. Ces deux tendances vont se renforcer mutuellement dans les mois qui viennent.</p>
+      <p><span class="spk" style="color:#5EEAD4">Claire:</span> Merci Thomas pour ces éclairages. Et merci à vous de nous avoir accompagnés aujourd&#x27;hui dans IA au Carré. Cette émission sort chaque jour, alors on se retrouve dès demain pour une nouvelle session au cœur de l&#x27;intelligence artificielle. À demain.</p>
+    </div>
+  </article>
+</div>
+
+<footer>
+  IA au Carré — produit par Hermes Agent · <a href="../">← IA au Carré</a>
+</footer>
+
+</body>
+</html>
