@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 16 Nov 2026 07:41:34 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:41:02 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #109 — 17/11/2026</title>
+      <description><![CDATA[On the program: affordable AI models, AI agents stealing API keys, OpenAI safety oversight.
+
+📰 Sources : <a href="https://casrai.org/news/gartner-runtime-governance-ai-agents-io-disruptions-2026">CASRAI</a> | <a href="https://news.lavx.hu/article/withcoral-releases-coral-an-open-source-gateway-for-controlled-agent-tool-use">LavX News</a> | <a href="https://tbreak.com/ai-agents-hunt-litellm-dify-api-keys">tbreak</a> | <a href="https://securityaffairs.com/203260/hacking/google-gtig-warns-ai-agents-automate-exploits-steal-credentials-and-scale-cybercrime.html">Security Affairs</a> | <a href="https://openai.com/index/expanding-chatgpt-for-academic-researchers">OpenAI</a> | <a href="https://natlawreview.com/press-releases/huwise-launches-agentic-ai-framework-build-powerful-ai-agents-address">EINPresswire / National Law Review</a>]]></description>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261117.mp3" length="3748845" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-17</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #108 — 16/11/2026</title>
       <description><![CDATA[On the programme: AI agent security and MCP servers, governance of AI systems, emerging research in artificial intelligence.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>60</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #59 — 28/09/2026</title>
-      <description><![CDATA[On the program: autonomous botnets and cybersecurity threats, robotics breakthroughs, generative video and on-device AI innovations.
-
-📰 Sources : <a href="https://dig.watch/updates/cybercrime-to-agentic-ai-agents-attack-chain">Dig.Watch</a> | <a href="https://forkast.news/carbonato-is-the-first-botnet-where-the-command-and-control-engine-is-an-ai-agent-and-it-has-been-running-since-october-2024">Forkast News</a> | <a href="https://www.foreignpolicyjournal.com/2026/09/27/soundhound-ai-nasdaq-soun-launches-oasys-edge-to-push-llm-powered-voice-ai-onto-device-hardware">Foreign Policy Journal</a> | <a href="https://roboticsandautomationnews.com/2026/09/27/skylark-labs-researchers-develop-ai-system-that-enables-robots-to-keep-learning-after-deployment/105179/">Robotics & Automation News</a> | <a href="https://forkast.news/three-months-to-nist-the-federal-ai-agent-standards-deadline-arrives-with-no-enforceable-framework">Forkast News</a> | <a href="https://ppc.land/scope3-becomes-apostra-a-40-person-bet-on-ai-agents-that-trade-ads">PPC.Land</a>]]></description>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20260928.mp3" length="5177901" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-09-28</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
