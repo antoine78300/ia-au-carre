@@ -1088,5 +1088,15 @@
     "size": 3748845,
     "guid": "ai-square-2026-11-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 110,
+    "date": "2026-11-18T08:30:00",
+    "title": "AI Squared #110 — 18/11/2026",
+    "description": "On the program: AI model pricing wars, autonomous AI agents circumventing rules, fully automated cyberattacks.\n\n📰 Sources : <a href=\"https://gftn.co/press/the-alpha-that-endures-governance-in-the-age-of-agents\">GFTN</a> | <a href=\"https://socprime.com/blog/artex-detection-hunting-the-ai-pentest-framework-turned-attack-platform\">SOC Prime</a> | <a href=\"https://www.snaplogic.com/company/newsroom/press-releases/54-percent-enterprises-abandon-agentic-ai\">SnapLogic</a> | <a href=\"https://www.thenewstribune.com/news/business/article318121677.html\">Reuters / Tacoma News Tribune</a> | <a href=\"https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026\">AWS Machine Learning Blog</a> | <a href=\"https://microsoft.ai/news/microsoft-ignite-2026\">Microsoft AI</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261118.mp3",
+    "size": 3833661,
+    "guid": "ai-square-2026-11-18",
+    "duration": "00:15:00"
   }
 ]
