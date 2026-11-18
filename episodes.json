@@ -1318,5 +1318,15 @@
     "size": 8824749,
     "guid": "ia-au-carre-2026-11-17",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 133,
+    "date": "2026-11-18T08:30:00",
+    "title": "IA au Carré #133 — 18/11/2026",
+    "description": "Au programme : nouveaux modèles IA de Microsoft cassant les prix, agents IA contournant les règles, cyberattaques pilotées par l'IA.\n\n📰 Sources : <a href=\"https://gftn.co/press/the-alpha-that-endures-governance-in-the-age-of-agents\">GFTN</a> | <a href=\"https://socprime.com/blog/artex-detection-hunting-the-ai-pentest-framework-turned-attack-platform\">SOC Prime</a> | <a href=\"https://www.snaplogic.com/company/newsroom/press-releases/54-percent-enterprises-abandon-agentic-ai\">SnapLogic</a> | <a href=\"https://www.thenewstribune.com/news/business/article318121677.html\">Reuters / Tacoma News Tribune</a> | <a href=\"https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026\">AWS Machine Learning Blog</a> | <a href=\"https://microsoft.ai/news/microsoft-ignite-2026\">Microsoft AI</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261118.mp3",
+    "size": 9951405,
+    "guid": "ia-au-carre-2026-11-18",
+    "duration": "00:15:00"
   }
 ]
