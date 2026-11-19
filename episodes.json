@@ -1328,5 +1328,15 @@
     "size": 9951405,
     "guid": "ia-au-carre-2026-11-18",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 134,
+    "date": "2026-11-19T08:30:00",
+    "title": "IA au Carré #134 — 19/11/2026",
+    "description": "Au programme : Gemini 4 Neon de Google, cybersécurité Microsoft, risques des agents IA en entreprise.\n\n📰 Sources : <a href=\"https://emergent.sh/news/screen-watching-llm-agent-cuts-token-cost-to-138\">Emergent.sh</a> | <a href=\"https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Intent-to-Acquire-Honeydew-a-Semantic-Layer-for-AI-and-Business-Intelligence/default.aspx\">Workday Investor Relations</a> | <a href=\"https://aiweekly.co/ai-news-today\">AI Weekly</a> | <a href=\"https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/\">SecurityWeek</a> | <a href=\"https://9to5google.com/2026/11/18/gemini-4-neon-announcement/\">9to5Google</a> | <a href=\"https://www.automotiveworld.com/news/partly-launches-interpreter-3-ai-model-for-vehicle-repair/\">Automotive World</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261119.mp3",
+    "size": 11264685,
+    "guid": "ia-au-carre-2026-11-19",
+    "duration": "00:15:00"
   }
 ]

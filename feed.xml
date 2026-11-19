@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Wed, 18 Nov 2026 07:51:46 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:40:57 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #134 — 19/11/2026</title>
+      <description><![CDATA[Au programme : Gemini 4 Neon de Google, cybersécurité Microsoft, risques des agents IA en entreprise.
+
+📰 Sources : <a href="https://emergent.sh/news/screen-watching-llm-agent-cuts-token-cost-to-138">Emergent.sh</a> | <a href="https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Intent-to-Acquire-Honeydew-a-Semantic-Layer-for-AI-and-Business-Intelligence/default.aspx">Workday Investor Relations</a> | <a href="https://aiweekly.co/ai-news-today">AI Weekly</a> | <a href="https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/">SecurityWeek</a> | <a href="https://9to5google.com/2026/11/18/gemini-4-neon-announcement/">9to5Google</a> | <a href="https://www.automotiveworld.com/news/partly-launches-interpreter-3-ai-model-for-vehicle-repair/">Automotive World</a>]]></description>
+      <pubDate>Thu, 19 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261119.mp3" length="11264685" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-19</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>134</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #133 — 18/11/2026</title>
       <description><![CDATA[Au programme : nouveaux modèles IA de Microsoft cassant les prix, agents IA contournant les règles, cyberattaques pilotées par l'IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>85</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #84 — 30/09/2026</title>
-      <description><![CDATA[Au programme : arnaque aux deepfakes vocaux (95M€), annulation d'un modèle OpenAI jugé dangereux, auto-amélioration des agents IA.
-
-📰 Sources : <a href="https://www.lesnumeriques.com/intelligence-artificielle/il-se-fait-duper-par-une-ia-et-transfere-95-millions-d-euros-sur-le-compte-d-un-escroc-la-somme-appartenait-a-son-employeur-une-grande-banque-europeenne-n262497.html">Les Numériques</a> | <a href="https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting">MarkTechPost</a> | <a href="https://www.paloaltonetworks.com/blog/ai-security/dont-let-mcp-become-an-attack-vector">Palo Alto Networks Blog</a> | <a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model">TechCrunch</a> | <a href="https://www.scrippsnews.com/science-and-tech/artificial-intelligence/openais-new-ai-tool-was-too-capable-now-its-release-is-delayed">Scripps News</a> | <a href="https://www.hpcwire.com/aiwire/2026/09/29/hpe-teams-with-nvidia-to-bring-secure-governed-agentic-ai-into-enterprise-production">HPCwire AIwire</a>]]></description>
-      <pubDate>Wed, 30 Sep 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20260930.mp3" length="4356237" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-09-30</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>84</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
