@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Thu, 19 Nov 2026 07:42:56 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:41:14 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #112 — 20/11/2026</title>
+      <description><![CDATA[On the program: AI agents in healthcare prescribing, warehouse automation, database management, and emerging security vulnerabilities.
+
+📰 Sources : <a href="https://locus.sh/blogs/agentic-logistics-software-release-log-2026">Locus</a> | <a href="https://www.afp.com/en/external-communications/openeuler-summit-2026-highlights-os-advances-agentic-ai-infrastructure-and">AFP/OpenEuler</a> | <a href="https://www.adweek.com/commerce/chatgpt-is-going-from-healthcare-advice-to-prescriptions-platform/">ADWEEK</a> | <a href="https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations">AWS</a> | <a href="https://www.langchain.com/blog/langsmith-tool-gateway">LangChain</a> | <a href="https://www.picussecurity.com/resource/blog/what-is-prompt-injection-owasp-llm01-techniques-examples-and-defenses">Picus Security</a>]]></description>
+      <pubDate>Fri, 20 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261120.mp3" length="3793341" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-20</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #111 — 19/11/2026</title>
       <description><![CDATA[On the program: Google's Gemini 4 Neon model, Microsoft's cybersecurity push, AI agent security risks.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>63</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #62 — 01/10/2026</title>
-      <description><![CDATA[On the program: Google's Gemini 4 Argon breakthrough, autonomous payments evolution, AI agent trustworthiness.
-
-📰 Sources : <a href="https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release">VentureBeat</a> | <a href="https://www.coreweave.com/news/coreweave-forge-launches-turning-the-ai-loop-production-run-into-a-better-model-and-agent">CoreWeave</a> | <a href="https://news.northeastern.edu/2026/09/30/llm-as-a-judge">Northeastern University</a> | <a href="https://www.pymnts.com/mastercard/2026/mastercard-deploys-new-risk-insights-to-support-agentic-payments">PYMNTS</a> | <a href="https://ppc.land/40-of-americans-would-let-ai-agents-act-for-them-channel-v-media-finds">PPC Land</a> | <a href="https://9to5google.com/2026/09/30/gemini-4-argon-announcement">9to5Google</a>]]></description>
-      <pubDate>Thu, 01 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261001.mp3" length="4943325" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-10-01</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>62</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
