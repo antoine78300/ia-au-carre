@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Thu, 19 Nov 2026 07:40:57 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:39:35 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #135 — 20/11/2026</title>
+      <description><![CDATA[Au programme : agents IA prescrivant des médicaments, gestion automatisée d'entrepôts, failles de sécurité des données.
+
+📰 Sources : <a href="https://locus.sh/blogs/agentic-logistics-software-release-log-2026">Locus</a> | <a href="https://www.afp.com/en/external-communications/openeuler-summit-2026-highlights-os-advances-agentic-ai-infrastructure-and">AFP/OpenEuler</a> | <a href="https://www.adweek.com/commerce/chatgpt-is-going-from-healthcare-advice-to-prescriptions-platform/">ADWEEK</a> | <a href="https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations">AWS</a> | <a href="https://www.langchain.com/blog/langsmith-tool-gateway">LangChain</a> | <a href="https://www.picussecurity.com/resource/blog/what-is-prompt-injection-owasp-llm01-techniques-examples-and-defenses">Picus Security</a>]]></description>
+      <pubDate>Fri, 20 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261120.mp3" length="9883821" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-20</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>135</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #134 — 19/11/2026</title>
       <description><![CDATA[Au programme : Gemini 4 Neon de Google, cybersécurité Microsoft, risques des agents IA en entreprise.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>86</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #85 — 01/10/2026</title>
-      <description><![CDATA[Au programme : Gemini 4 Argon de Google, paiements autonomes, confiance envers les agents IA.
-
-📰 Sources : <a href="https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release">VentureBeat</a> | <a href="https://www.coreweave.com/news/coreweave-forge-launches-turning-the-ai-loop-production-run-into-a-better-model-and-agent">CoreWeave</a> | <a href="https://news.northeastern.edu/2026/09/30/llm-as-a-judge">Northeastern University</a> | <a href="https://www.pymnts.com/mastercard/2026/mastercard-deploys-new-risk-insights-to-support-agentic-payments">PYMNTS</a> | <a href="https://ppc.land/40-of-americans-would-let-ai-agents-act-for-them-channel-v-media-finds">PPC Land</a> | <a href="https://9to5google.com/2026/09/30/gemini-4-argon-announcement">9to5Google</a>]]></description>
-      <pubDate>Thu, 01 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261001.mp3" length="4385613" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-10-01</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>85</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

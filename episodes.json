@@ -1338,5 +1338,15 @@
     "size": 11264685,
     "guid": "ia-au-carre-2026-11-19",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 135,
+    "date": "2026-11-20T08:30:00",
+    "title": "IA au Carré #135 — 20/11/2026",
+    "description": "Au programme : agents IA prescrivant des médicaments, gestion automatisée d'entrepôts, failles de sécurité des données.\n\n📰 Sources : <a href=\"https://locus.sh/blogs/agentic-logistics-software-release-log-2026\">Locus</a> | <a href=\"https://www.afp.com/en/external-communications/openeuler-summit-2026-highlights-os-advances-agentic-ai-infrastructure-and\">AFP/OpenEuler</a> | <a href=\"https://www.adweek.com/commerce/chatgpt-is-going-from-healthcare-advice-to-prescriptions-platform/\">ADWEEK</a> | <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations\">AWS</a> | <a href=\"https://www.langchain.com/blog/langsmith-tool-gateway\">LangChain</a> | <a href=\"https://www.picussecurity.com/resource/blog/what-is-prompt-injection-owasp-llm01-techniques-examples-and-defenses\">Picus Security</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261120.mp3",
+    "size": 9883821,
+    "guid": "ia-au-carre-2026-11-20",
+    "duration": "00:15:00"
   }
 ]
