@@ -1118,5 +1118,15 @@
     "size": 3793341,
     "guid": "ai-square-2026-11-20",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 113,
+    "date": "2026-11-21T08:30:00",
+    "title": "AI Squared #113 — 21/11/2026",
+    "description": "On the program: AI classification systems, physical robots vs digital entities, Oxford University research.\n\n📰 Sources : <a href=\"https://eu.36kr.com/en/p/4077424490877825\">36kr</a> | <a href=\"https://finance.yahoo.com/healthcare/articles/big-pharma-eye-anthropic-says-110145414.html\">Yahoo Finance / Reuters</a> | <a href=\"https://india.entrepreneur.com/business-news/the-era-of-the-automation-how-embodied-ai-is-joining-the-household\">India Entrepreneur</a> | <a href=\"https://www.mobihealthnews.com/news/anthropics-record-nasdaq-ipo-puts-ai-drug-discovery-spotlight\">MobiHealthNews / CBS News</a> | <a href=\"https://www.instagram.com/p/Df8qCANF6F6\">Variety Australia</a> | <a href=\"https://www.chinatalk.media/p/we-went-to-austin-to-see-robots\">ChinaTalk</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261121.mp3",
+    "size": 5181069,
+    "guid": "ai-square-2026-11-21",
+    "duration": "00:15:00"
   }
 ]

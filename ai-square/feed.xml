@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 20 Nov 2026 07:41:14 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:49:02 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #113 — 21/11/2026</title>
+      <description><![CDATA[On the program: AI classification systems, physical robots vs digital entities, Oxford University research.
+
+📰 Sources : <a href="https://eu.36kr.com/en/p/4077424490877825">36kr</a> | <a href="https://finance.yahoo.com/healthcare/articles/big-pharma-eye-anthropic-says-110145414.html">Yahoo Finance / Reuters</a> | <a href="https://india.entrepreneur.com/business-news/the-era-of-the-automation-how-embodied-ai-is-joining-the-household">India Entrepreneur</a> | <a href="https://www.mobihealthnews.com/news/anthropics-record-nasdaq-ipo-puts-ai-drug-discovery-spotlight">MobiHealthNews / CBS News</a> | <a href="https://www.instagram.com/p/Df8qCANF6F6">Variety Australia</a> | <a href="https://www.chinatalk.media/p/we-went-to-austin-to-see-robots">ChinaTalk</a>]]></description>
+      <pubDate>Sat, 21 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261121.mp3" length="5181069" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-21</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #112 — 20/11/2026</title>
       <description><![CDATA[On the program: AI agents in healthcare prescribing, warehouse automation, database management, and emerging security vulnerabilities.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>64</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #63 — 02/10/2026</title>
-      <description><![CDATA[On the programme: enterprise AI agents adoption, regulatory challenges in AI development, autonomous decision-making systems.
-
-📰 Sources : <a href="https://www.forbesindia.com/amp/article/upfront/brand-connect/the-overconfidence-gap-why-enterprise-ais-next-failure-wont-be-the-model/2998599/1">Forbes India</a> | <a href="https://www.prnewswire.com/news-releases/caylent-positioned-as-a-major-player-in-the-2026-idc-marketscape-for-worldwide-cloud-professional-services-in-the-ai-era-302895921.html">PRNewswire</a> | <a href="https://www.drugtargetreview.com/drug-discovery-in-q3-2026-what-changed-and-why-it-matters/2136609.article">Drug Target Review</a> | <a href="https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second">VentureBeat / TechCrunch</a> | <a href="https://tech-insider.org/ftc-investigates-openai-anthropic-ai-agents-2026">Tech Insider</a> | <a href="https://fintech.global/2026/10/01/nasdaq-calypso-unveils-agentic-ai-for-the-trade-lifecycle">FinTech Global</a>]]></description>
-      <pubDate>Fri, 02 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261002.mp3" length="4253709" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-10-02</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>63</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
