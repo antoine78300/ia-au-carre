@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sat, 21 Nov 2026 07:46:49 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:48:23 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #137 — 22/11/2026</title>
+      <description><![CDATA[Au programme : un adolescent qui développe une IA astronomique, l'analyse de données spatiales par l'intelligence artificielle.
+
+📰 Sources : <a href="https://www.futura-sciences.com/en/sifting-through-nasas-sky-archive-a-california-teenagers-homemade-ai-flagged-1-5-million-flickering-objects-and-astronomers-are-paying-attention_23177">Futura-Sciences</a> | <a href="https://finance.biggo.com/news/8eea16ee-0979-431b-ba1f-286a027f4891">BigGo Finance</a> | <a href="https://www.ept.ca/researchers-develop-robotic-camera-to-examine-human-faces-at-microscopic-scale">Electronic Products & Technology</a> | <a href="https://www.ieee-ras.org/news/video-friday-drone-squeezes-itself-to-fit-through-tight-spaces">IEEE Robotics and Automation Society</a> | <a href="https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai">The Robot Report</a> | <a href="https://www.linkedin.com/pulse/how-ai-change-creative-sector-jonathan-dupont-rphic">LinkedIn</a>]]></description>
+      <pubDate>Sun, 22 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261122.mp3" length="11204397" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-22</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>137</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #136 — 21/11/2026</title>
       <description><![CDATA[Au programme : classification des entités IA, robots physiques vs agents personnels résidents, impact des nouvelles catégories d'IA.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>88</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #87 — 03/10/2026</title>
-      <description><![CDATA[Au programme : scientifique IA autonome, actualités IA de la semaine, découvertes qui fascinent.
-
-📰 Sources : <a href="https://www.euronews.com/2026/10/02/swedish-researchers-create-an-ai-scientist-that-designs-and-runs-its-own-experiments">Euronews</a> | <a href="https://www.cmcmarkets.com/en-au/opto/sdgr-stock-schroedinger-hopes-its-ai-agent-can-transform-drug-discovery">CMC Markets</a> | <a href="https://www.businesswire.com/news/home/20261001311698/en/Faraday-Future-Showcases-its-EAI-Robotics-World-2.0-at-IROS-2026">Business Wire</a> | <a href="https://www.europeanscientist.com/en/features/musical-impoverishment-is-confirmed-etienne-guereau-interview">European Scientist</a> | <a href="https://news.lavx.hu/article/pope-leo-xiv-urges-church-to-partner-with-artists-against-ai">LavX News</a> | <a href="https://itbrief.asia/story/ropedia-launches-academic-programme-for-physical-ai">IT Brief Asia</a>]]></description>
-      <pubDate>Sat, 03 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261003.mp3" length="4039437" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-10-03</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>87</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

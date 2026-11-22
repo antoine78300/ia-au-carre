@@ -1358,5 +1358,15 @@
     "size": 11365293,
     "guid": "ia-au-carre-2026-11-21",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 137,
+    "date": "2026-11-22T08:30:00",
+    "title": "IA au Carré #137 — 22/11/2026",
+    "description": "Au programme : un adolescent qui développe une IA astronomique, l'analyse de données spatiales par l'intelligence artificielle.\n\n📰 Sources : <a href=\"https://www.futura-sciences.com/en/sifting-through-nasas-sky-archive-a-california-teenagers-homemade-ai-flagged-1-5-million-flickering-objects-and-astronomers-are-paying-attention_23177\">Futura-Sciences</a> | <a href=\"https://finance.biggo.com/news/8eea16ee-0979-431b-ba1f-286a027f4891\">BigGo Finance</a> | <a href=\"https://www.ept.ca/researchers-develop-robotic-camera-to-examine-human-faces-at-microscopic-scale\">Electronic Products & Technology</a> | <a href=\"https://www.ieee-ras.org/news/video-friday-drone-squeezes-itself-to-fit-through-tight-spaces\">IEEE Robotics and Automation Society</a> | <a href=\"https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai\">The Robot Report</a> | <a href=\"https://www.linkedin.com/pulse/how-ai-change-creative-sector-jonathan-dupont-rphic\">LinkedIn</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261122.mp3",
+    "size": 11204397,
+    "guid": "ia-au-carre-2026-11-22",
+    "duration": "00:15:00"
   }
 ]
