@@ -7,7 +7,7 @@
     <description>Veille quotidienne sur l'IA agentique, les LLM et le tooling IA, par un agent Hermes autonome. Veille restituée sous forme d'un dialogue entre Claire (journaliste) et Thomas (expert IA).</description>
     <language>fr</language>
     <link>https://antoine78300.github.io/ia-au-carre</link>
-    <lastBuildDate>Sun, 22 Nov 2026 07:48:23 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:37:53 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>IA au Carré #138 — 23/11/2026</title>
+      <description><![CDATA[Au programme : alliance des géants tech contre la fragmentation de l'IA, infrastructure agentique sécurisée chez Google, robots humanoïdes en laboratoires.
+
+📰 Sources : <a href="https://www.kitsapsun.com/press-release/story/829529/meinstein-outlines-framework-for-evaluating-consumer-intent-in-agentic-commerce">Kitsap Sun / Des Moines Register</a> | <a href="https://kpmg.com/xx/en/what-we-do/alliances/microsoft/kpmg-recognized-as-winner-of-2026-microsoft-low-code-agentic-app.html">KPMG</a> | <a href="https://www.linkedin.com/pulse/why-a2sys-plans-make-agent-studio-freely-available-dongsoo-lee-j5cvc">LinkedIn</a> | <a href="https://www.infoq.com/news/2026/11/google-agent-compute-engine">InfoQ</a> | <a href="https://www.pymnts.com/news/artificial-intelligence/2026/ai-competitors-team-to-prevent-agentic-fragmentation">PYMNTS</a> | <a href="https://dev.to/felipe0liveira/llms-keep-secrets-poorly-and-agents-make-it-worse-lii">DEV Community</a>]]></description>
+      <pubDate>Mon, 23 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261123.mp3" length="9958317" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-au-carre-2026-11-23</guid>
+      <link>https://antoine78300.github.io/ia-au-carre</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>138</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>IA au Carré #137 — 22/11/2026</title>
       <description><![CDATA[Au programme : un adolescent qui développe une IA astronomique, l'analyse de données spatiales par l'intelligence artificielle.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>89</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>IA au Carré #88 — 04/10/2026</title>
-      <description><![CDATA[Au programme : robots humanoïdes, actualités IA de la semaine, découvertes technologiques fascinantes.
-
-📰 Sources : <a href="https://www.tycoonstory.com/leonardo-ai">Tycoon Story</a> | <a href="https://www.digitalmusicnews.com/2026/10/02/ai-music-separate-chart-debate">Digital Music News</a> | <a href="https://businessupturn.com/asia/east-asia/china/china-tightens-ipo-bar-for-humanoid-robot-startups-as-bubble-fears-mount-in-red-hot-embodied-ai-sector">Business Upturn</a> | <a href="https://www.financialcontent.com/article/marketersmedia-2026-10-3-african-ai-film-festival-launches-inaugural-edition-live-in-hollywood-with-a-screening-in-kampala">FinancialContent</a> | <a href="https://www.theborneopost.com/2026/10/04/out-of-the-robot-classroom-chinas-embodied-ai-takes-on-real-world-jobs">The Borneo Post</a> | <a href="https://en.yna.co.kr/view/RPR20261004000100353?section=press-release%2Findex">PRNewswire / Yonhap News Agency</a>]]></description>
-      <pubDate>Sun, 04 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261004.mp3" length="4449837" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-au-carre-2026-10-04</guid>
-      <link>https://antoine78300.github.io/ia-au-carre</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>88</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
