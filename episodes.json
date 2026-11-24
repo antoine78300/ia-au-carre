@@ -1378,5 +1378,15 @@
     "size": 9958317,
     "guid": "ia-au-carre-2026-11-23",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 139,
+    "date": "2026-11-24T08:30:00",
+    "title": "IA au Carré #139 — 24/11/2026",
+    "description": "Au programme : internet agentique, cybersécurité offensive et défensive, framework Shirudo.\n\n📰 Sources : <a href=\"https://www.jmis-web.org/cfps/JMIS_CfP_Agentic_Organizations.pdf\">Journal of Management Information Systems</a> | <a href=\"https://news.research.gatech.edu/2026/11/23/new-benchmark-could-help-ai-keep-current-events\">Georgia Tech Research News Center</a> | <a href=\"https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602\">Microsoft Community Hub</a> | <a href=\"https://emergent.sh/news/agentic-ai-challenge-why-your-org-chart\">Emergent.sh</a> | <a href=\"https://www.kunalganglani.com/blog/llm-eval-framework-comparison\">Blog technique (Kunal Ganglani)</a> | <a href=\"https://www.cognizant.com/us/en/ai-lab/blog/world-wide-agentic-web\">Cognizant AI Lab</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261124.mp3",
+    "size": 10806573,
+    "guid": "ia-au-carre-2026-11-24",
+    "duration": "00:15:00"
   }
 ]
