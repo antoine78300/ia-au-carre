@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Mon, 23 Nov 2026 07:39:30 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:40:09 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #116 — 24/11/2026</title>
+      <description><![CDATA[On the program: agentic internet, AI-powered cybersecurity defense, and China's breakthrough architecture.
+
+📰 Sources : <a href="https://www.jmis-web.org/cfps/JMIS_CfP_Agentic_Organizations.pdf">Journal of Management Information Systems</a> | <a href="https://news.research.gatech.edu/2026/11/23/new-benchmark-could-help-ai-keep-current-events">Georgia Tech Research News Center</a> | <a href="https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602">Microsoft Community Hub</a> | <a href="https://emergent.sh/news/agentic-ai-challenge-why-your-org-chart">Emergent.sh</a> | <a href="https://www.kunalganglani.com/blog/llm-eval-framework-comparison">Blog technique (Kunal Ganglani)</a> | <a href="https://www.cognizant.com/us/en/ai-lab/blog/world-wide-agentic-web">Cognizant AI Lab</a>]]></description>
+      <pubDate>Tue, 24 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261124.mp3" length="3644877" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-24</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>116</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #115 — 23/11/2026</title>
       <description><![CDATA[On the program: AI giants collaborating on agentic standards, Google's secure infrastructure, humanoid robots in research.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>67</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #66 — 05/10/2026</title>
-      <description><![CDATA[On the program: AI agents breaching banking systems, AI solving advanced mathematics, autonomous systems and control questions.
-
-📰 Sources : <a href="https://www.indrastra.com/2026/10/when-software-fires-supplier-era-of.html">Indrastra</a> | <a href="https://ppc.land/mlcommons-catalogues-25-privacy-risks-posed-by-ai-agents">PPC.Land</a> | <a href="https://hackernoon.com/inside-jev-how-decision-models-trade-text-generation-for-typed-calibrated-answers">HackerNoon</a> | <a href="https://tech-insider.org/meta-muse-spark-6-math-problems-esp32-2026">Tech Insider</a> | <a href="https://news.sbs.co.kr/amp/news.amp?news_id=N1008782925">SBS News</a> | <a href="https://www.mk.co.kr/en/economy/12168245">MK</a>]]></description>
-      <pubDate>Mon, 05 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261005.mp3" length="5350701" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-10-05</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>66</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
