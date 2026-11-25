@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Tue, 24 Nov 2026 07:40:09 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:40:00 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #117 — 25/11/2026</title>
+      <description><![CDATA[On the program: critical Java vulnerability discovered by AI, cybersecurity threats, autonomous AI agents in security.
+
+📰 Sources : <a href="https://fr.tradingview.com/news/binance_news:a4af0fa54094b:0-calif-uses-openai-s-gpt-6-cyber-to-find-critical-java-vulnerability-used-by-90-of-fortune-500/">Binance News / The New York Times</a> | <a href="https://finance.yahoo.com/technology/ai/articles/talent500-publishes-developer-guide-agentic-163700006.html">Yahoo Finance / Globe Newswire</a> | <a href="https://aviatrix.ai/threat-research-center/autonomous-ai-agent-threat-campaigns-2026-agentic-ai-attacks">Aviatrix / Palo Alto Networks Unit 42</a> | <a href="https://www.beri.net/article/google-semantic-governance-policies-agent-gateway-intent-hijacking-agentdojo-48-7-to-0-9-percent-dry-run-preview-llm-judge-limits">BERI / Google Developers Blog</a> | <a href="https://www.oneidentity.com/learn/top-5-agentic-ai-security-solutions-for-enterprise">One Identity</a> | <a href="https://emergent.sh/news/agent-tool-result-reducer-fits-large-json">Emergent.sh</a>]]></description>
+      <pubDate>Wed, 25 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261125.mp3" length="3461997" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-25</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #116 — 24/11/2026</title>
       <description><![CDATA[On the program: agentic internet, AI-powered cybersecurity defense, and China's breakthrough architecture.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>68</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #67 — 06/10/2026</title>
-      <description><![CDATA[On the program: 501B-parameter AI model challenging Chinese competition, Google's security vulnerability detection agent, workplace AI trust issues.
-
-📰 Sources : <a href="https://hrme.economictimes.indiatimes.com/amp/news/workplace/the-global-race-to-put-guardrails-around-ai/134675052">ETHRWorldEMEA (Economic Times)</a> | <a href="https://uk.finance.yahoo.com/news/work4flow-logicmonitor-deepen-edwin-ai-162900955.html">Yahoo Finance / PRNewswire</a> | <a href="https://news.lavx.hu/article/platform-engineering-cuts-llm-hallucinations-from-15-to-1-5-in-production-retail-system">LavX News</a> | <a href="https://gbhackers.com/google-pagebreak-ai-agent/amp">GBHackers</a> | <a href="https://www.snowflake.com/ko/blog/ai-agent-observability-monitor-debug-optimize-llm-applications">Snowflake Blog</a> | <a href="https://startupfortune.com/reflection-ai-unveils-beam-a-501-billion-parameter-open-model-to-rival-china">Startup Fortune</a>]]></description>
-      <pubDate>Tue, 06 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261006.mp3" length="4375821" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-10-06</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>67</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
