@@ -1398,5 +1398,15 @@
     "size": 11069229,
     "guid": "ia-au-carre-2026-11-25",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 141,
+    "date": "2026-11-26T08:30:00",
+    "title": "IA au Carré #141 — 26/11/2026",
+    "description": "Au programme : agents IA autonomes et cyberattaques, framework ARTEX offensif, contrôle des systèmes IA par les États.\n\n📰 Sources : <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse\">Microsoft Security Blog</a> | <a href=\"https://www.scworld.com/news/google-llms-can-now-launch-cyberattacks-without-a-human-in-the-loop\">SC Media</a> | <a href=\"https://x.com/ilblackdragon/status/2125703225970180276\">X/NEAR Protocol</a> | <a href=\"https://www.straitstimes.com/world/united-states/jensen-huangs-return-to-nvidia-brings-open-weight-ai-debate-to-forefront-in-washington\">The Straits Times</a> | <a href=\"https://www.instagram.com/p/DgLaUOQkwgL\">Instagram / Science Explains</a> | <a href=\"https://cyberlawcybersecurity.com/Agentic-AI-Summit-2026-Brochure.pdf\">Cyber Law & Cybersecurity</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/veille_ia_20261126.mp3",
+    "size": 9649965,
+    "guid": "ia-au-carre-2026-11-26",
+    "duration": "00:15:00"
   }
 ]
