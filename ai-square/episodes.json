@@ -1178,5 +1178,15 @@
     "size": 3857853,
     "guid": "ai-square-2026-11-26",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 119,
+    "date": "2026-11-27T08:30:00",
+    "title": "AI Squared #119 — 27/11/2026",
+    "description": "On the program: Agentic AI deployment, Microsoft Ignite 2026 announcements, Copilot as enterprise operating system.\n\n📰 Sources : <a href=\"https://www.tatvasoft.com/outsourcing/agentic-ai-frameworks\">TatvaSoft</a> | <a href=\"https://www.emerson.com/en/corporate/news/2026/emerson-advances-industrial-ai-platform-new-agentic-capabilities\">Emerson Corporate News</a> | <a href=\"https://www.facebook.com/WiproLimited/posts/agentic-ai-is-moving-into-production\">Wipro Intelligence</a> | <a href=\"https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap\">InfoQ</a> | <a href=\"https://www.infosecurity-magazine.com/news/google-cloud-ai-agents-workspace\">Infosecurity Magazine</a> | <a href=\"https://www.detroitnews.com/press-release/story/205484/reliath-ai-introduces-a-new-foundational-model-for-artificial-intelligence\">The Detroit News / The Des Moines Register</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261127.mp3",
+    "size": 4405053,
+    "guid": "ai-square-2026-11-27",
+    "duration": "00:15:00"
   }
 ]
