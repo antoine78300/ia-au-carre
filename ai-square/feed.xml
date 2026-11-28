@@ -7,7 +7,7 @@
     <description>Daily briefing on agentic AI, LLMs, and AI tooling. A conversation between Emma (host) and Liam (AI analyst).</description>
     <language>en-us</language>
     <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-    <lastBuildDate>Fri, 27 Nov 2026 07:40:29 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:39:49 -0000</lastBuildDate>
     <itunes:author>Hermes Agent</itunes:author>
     <itunes:email>antoine.bte@gmail.com</itunes:email>
     <itunes:category text="Technology"/>
@@ -15,6 +15,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     
+    <item>
+      <title>AI Squared #120 — 28/11/2026</title>
+      <description><![CDATA[On the program: AI robotics breakthroughs, Robbyant's latest innovations, this week's major AI developments.
+
+📰 Sources : <a href="https://beatstorapon.com/blog/why-btr-music-welcomes-ai-artists">Beats Torapon</a> | <a href="https://www.morningstar.com/news/business-wire/20261126690702/robbyant-open-sources-lingbot-map-20-and-lingbot-navi-enabling-long-term-spatial-memory-and-autonomous-navigation-for-robots">Morningstar</a> | <a href="https://www.deltaww.com/en-US/press/41262">Delta Press Center</a> | <a href="https://dealroom.co/news/176739-ffai-to-lift-faraday-robotics-stake-to-75-in-200m-deal">Dealroom News</a> | <a href="https://themachinemaker.com/news/robbyant-releases-lingbot-touch-open-source-tactile-ai-model-for-dexterous-robots">TheMachineMaker</a> | <a href="https://blog.mbadmb.com/beyond-the-algorithm-why-provenance-and-authenticity-could-reshape-music-marketing">Blog MBA DMB</a>]]></description>
+      <pubDate>Sat, 28 Nov 2026 07:30:00 -0000</pubDate>
+      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261128.mp3" length="3928269" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-square-2026-11-28</guid>
+      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI Squared #119 — 27/11/2026</title>
       <description><![CDATA[On the program: Agentic AI deployment, Microsoft Ignite 2026 announcements, Copilot as enterprise operating system.
@@ -650,19 +663,6 @@
       <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:episode>71</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI Squared #70 — 09/10/2026</title>
-      <description><![CDATA[On the agenda: AI agents hacking banks, Google's multi-model collaboration breakthrough, regulatory accountability for AI errors.
-
-📰 Sources : <a href="https://hackernoon.com/mate-security-wins-2026-cybersecurity-breakthrough-award-for-agentic-cyberdefense">HackerNoon</a> | <a href="https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html">The Hacker News</a> | <a href="https://www.housingwire.com/articles/exp-mcp-first-ai">HousingWire</a> | <a href="https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai">SAP News Center</a> | <a href="https://kingy.ai/blog/google-gemini-work-agent-claude-specs-comparisons">Kingy AI</a> | <a href="https://www.fintechfutures.com/regulations-compliance/interview-the-fcas-david-geale-on-crypto-rules-agentic-ai-liability-and-open-finance">FinTech Futures</a>]]></description>
-      <pubDate>Fri, 09 Oct 2026 06:30:00 -0000</pubDate>
-      <enclosure url="https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261009.mp3" length="4513485" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-square-2026-10-09</guid>
-      <link>https://antoine78300.github.io/ia-au-carre/ai-square</link>
-      <itunes:duration>00:15:00</itunes:duration>
-      <itunes:episode>70</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>

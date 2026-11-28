@@ -1188,5 +1188,15 @@
     "size": 4405053,
     "guid": "ai-square-2026-11-27",
     "duration": "00:15:00"
+  },
+  {
+    "episode_num": 120,
+    "date": "2026-11-28T08:30:00",
+    "title": "AI Squared #120 — 28/11/2026",
+    "description": "On the program: AI robotics breakthroughs, Robbyant's latest innovations, this week's major AI developments.\n\n📰 Sources : <a href=\"https://beatstorapon.com/blog/why-btr-music-welcomes-ai-artists\">Beats Torapon</a> | <a href=\"https://www.morningstar.com/news/business-wire/20261126690702/robbyant-open-sources-lingbot-map-20-and-lingbot-navi-enabling-long-term-spatial-memory-and-autonomous-navigation-for-robots\">Morningstar</a> | <a href=\"https://www.deltaww.com/en-US/press/41262\">Delta Press Center</a> | <a href=\"https://dealroom.co/news/176739-ffai-to-lift-faraday-robotics-stake-to-75-in-200m-deal\">Dealroom News</a> | <a href=\"https://themachinemaker.com/news/robbyant-releases-lingbot-touch-open-source-tactile-ai-model-for-dexterous-robots\">TheMachineMaker</a> | <a href=\"https://blog.mbadmb.com/beyond-the-algorithm-why-provenance-and-authenticity-could-reshape-music-marketing\">Blog MBA DMB</a>",
+    "mp3_url": "https://pub-f19561337e4241679d8015cb6c04a128.r2.dev/ai_square_20261128.mp3",
+    "size": 3928269,
+    "guid": "ai-square-2026-11-28",
+    "duration": "00:15:00"
   }
 ]
